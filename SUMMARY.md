@@ -2,7 +2,6 @@
 
 * [Overview](README.md)
 * [Tutorials](tutorials/README.md)
-  * [Tutorials Introduction](tutorials/tutorials-introduction.md)
   * [How to add addnodes](tutorials/how-to-add-addnodes.md)
   * [How to buy Decenomy coins on Heliobank](tutorials/how-to-buy-decenomy-coins-on-heliobank.md)
   * [How to create a masternode on IhostMN.com](tutorials/how-to-create-a-masternode-on-ihostmn.com.md)
