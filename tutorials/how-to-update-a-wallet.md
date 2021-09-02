@@ -1,5 +1,9 @@
 # How to update a wallet
 
+{% embed url="https://www.youtube.com/watch?v=YyETlLE8-fM" %}
+
+
+
 In this guide we will explain how to update a wallet:
 
 First we open the wallet \(in this case Trittium\) so we can verify the wallet version at the bottom left.

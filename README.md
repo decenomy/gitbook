@@ -1,6 +1,6 @@
 # Overview
 
-* [Tutorials](tutorials/README.md)
+* [Tutorials](tutorials/)
   * [How to add addnodes](tutorials/how-to-add-addnodes.md)
   * [How to buy Decenomy coins on Heliobank](tutorials/how-to-buy-decenomy-coins-on-heliobank.md)
   * [How to create a masternode on IhostMN.com](tutorials/how-to-create-a-masternode-on-ihostmn.com.md)
@@ -11,7 +11,7 @@
   * [How to update a wallet](tutorials/how-to-update-a-wallet.md)
   * [How to update a masternode collateral](tutorials/how-to-update-a-masternode-collateral.md)
   * [How to use the DECENOMY wallets](tutorials/how-to-use-the-decenomy-wallets.md)
-* [Projects](projects/README.md)
+* [Projects](projects/)
   * [Sapphire \(SAPP\)](projects/sapphire-sapp.md)
   * [Trittium \(TRTT\)](projects/trittium-trtt.md)
   * [Birake \(BIR\)](projects/birake-bir.md)
@@ -19,3 +19,4 @@
   * [Jackpot \(777\)](projects/jackpot-777.md)
   * [Ultra Clear \(UCR\)](projects/ultra-clear-ucr.md)
   * [Aezora \(AZR\)](projects/aezora-azr.md)
+
