@@ -12,4 +12,5 @@
 * [How to update a wallet](how-to-update-a-wallet.md)
 * [How to update a masternode collateral](how-to-update-a-masternode-collateral.md)
 * [How to use the DECENOMY wallets](how-to-use-the-decenomy-wallets.md)
+* [How to stake coins](how-to-stake-coins.md)
 

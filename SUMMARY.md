@@ -12,6 +12,7 @@
   * [How to update a wallet](tutorials/how-to-update-a-wallet.md)
   * [How to update a masternode collateral](tutorials/how-to-update-a-masternode-collateral.md)
   * [How to use the DECENOMY wallets](tutorials/how-to-use-the-decenomy-wallets.md)
+  * [How to stake coins](tutorials/how-to-stake-coins.md)
 * [Projects](projects/README.md)
   * [Sapphire \(SAPP\)](projects/sapphire-sapp.md)
   * [Trittium \(TRTT\)](projects/trittium-trtt.md)
