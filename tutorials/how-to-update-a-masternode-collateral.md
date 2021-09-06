@@ -1,5 +1,9 @@
 # How to update a masternode collateral
 
+{% embed url="https://youtu.be/Sanzn0U\_WK4" %}
+
+
+
 Let's open our wallet \(in this case Monk\)
 
 The collateral has increased from 4000 to 8000 Monk and as we can see from the masternodes menu our masternode is missing.
