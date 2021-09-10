@@ -1,5 +1,9 @@
 # How to use the DECENOMY wallets
 
+{% embed url="https://www.youtube.com/watch?v=A2euj-G-CDA" %}
+
+
+
 In this guide we explain the main functions to use Decenomy wallets.
 
 So let's open our Decenomy wallet \(in this case the Trittium\).
