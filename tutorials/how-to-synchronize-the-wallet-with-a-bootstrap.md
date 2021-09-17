@@ -1,5 +1,9 @@
 # How to synchronize the wallet with a bootstrap
 
+{% embed url="https://www.youtube.com/watch?v=GX8YOYQGOZw" %}
+
+
+
 In case there are any synchronization problems with your wallet, it is useful to know how to use a bootstrap \(i.e. an archive containing the blockchain files\).  
 It is highly recommended to backup your wallet.dat file before making these operations.  
 If you don't know how please refer to our guide **“How to make a backup on a USB stick”**  
