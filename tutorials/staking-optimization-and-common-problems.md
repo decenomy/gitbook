@@ -84,8 +84,6 @@ Below we explain how to solve the most frequent problems
 
 * haveconnections : if false, you don't have connections to the coin network. Make sure you have internet access, consider port being blocked or bad connectivity.
 * walletunlocked : if false, click the lock icon in top right,select staking only and enter your passphrase.
-* mintablecoins :if false, you either don't have any unlocked coins or they are too fresh and you will need to wait for them to be able to be used for staking. Patience is key. Just leave the wallet open.
-* enoughcoins :if false, you need more coins unlocked. There should be no minimum.
 * mnsync :if false, wait 20 minutes. If still false, consider to delete mncache.dat and mnpayments.dat files from the data directory.
 * staking status :if all of the above is True and this is still False, first try, close the wallet for 30 seconds, open and unlock \(if encrypted\), wait 5 minutes.
 
