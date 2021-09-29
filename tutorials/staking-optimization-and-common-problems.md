@@ -1,5 +1,9 @@
 # Staking optimization and common problems
 
+{% embed url="https://www.youtube.com/watch?v=aW2ubmbIFPY" %}
+
+
+
 This guide explains how to optimize staking and solve the most common problems.
 
 We open our wallet \(in our case TRTT\),and let's make sure staking is active.
