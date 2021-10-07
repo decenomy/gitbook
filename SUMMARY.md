@@ -14,6 +14,7 @@
   * [How to use the DECENOMY wallets](tutorials/how-to-use-the-decenomy-wallets.md)
   * [How to stake coins](tutorials/how-to-stake-coins.md)
   * [Staking optimization and common problems](tutorials/staking-optimization-and-common-problems.md)
+  * [How to run multiple MNs on the same VPS](tutorials/how-to-run-multiple-mns-on-the-same-vps.md)
 * [Projects](projects/README.md)
   * [Sapphire \(SAPP\)](projects/sapphire-sapp.md)
   * [Trittium \(TRTT\)](projects/trittium-trtt.md)
