@@ -2,33 +2,33 @@
 
 In this guide we explain how to configure multiple masternodes of the same coin in a single server, using IPv6.
 
-We buy a VPS on [Vultr.com](https://vultr.com/)
+We buy a VPS on [Vultr.com](https://vultr.com)
 
 Click on deploy new server
 
-![](../.gitbook/assets/0%20%2811%29.png)
+![](<../.gitbook/assets/0 (12).png>)
 
 We choose
 
 * Cloud Compute
 * A location near us
 
-![](../.gitbook/assets/1%20%2811%29.png)
+![](<../.gitbook/assets/1 (12).png>)
 
 We choose
 
 * Ubuntu 18 or 20
-* Server size \(we chose the $ 20 server\)
+* Server size (we chose the $ 20 server)
 
-![](../.gitbook/assets/2%20%2811%29.png)
+![](<../.gitbook/assets/2 (11).png>)
 
 So let's make sure we add IPv6 and then deploy the server.
 
-![](../.gitbook/assets/3%20%281%29.png)
+![](<../.gitbook/assets/3 (11).png>)
 
-We can then move to the settings-&gt; IPv6 menu to see our configuration.
+We can then move to the settings-> IPv6 menu to see our configuration.
 
-![](../.gitbook/assets/4%20%2810%29.png)
+![](<../.gitbook/assets/4 (11).png>)
 
 With Putty let's connect to our server using the credentials provided in the overview section.
 
@@ -41,29 +41,29 @@ With the following commands
 
 We add all the IPv6 addresses that we want to activate in the range provided by our hosting provider.
 
-In this case we have access, in addition to the primary IPv6 address assigned to us, to the entire dynamic 64bit range of our primary IP \(the last four groups of four digits\).
+In this case we have access, in addition to the primary IPv6 address assigned to us, to the entire dynamic 64bit range of our primary IP (the last four groups of four digits).
 
 For convenience we will start at 0000:0000:0000:0000 and increment the last digit by one number.
 
-\(We are using Vultr as an example, but that should work in a similar way with any other VPS/dedicated server provider, from Ubuntu 17.04 or above\).
+(We are using Vultr as an example, but that should work in a similar way with any other VPS/dedicated server provider, from Ubuntu 17.04 or above).
 
 As shown in the picture
 
-![](../.gitbook/assets/5%20%281%29.png)
+![](<../.gitbook/assets/5 (8).png>)
 
 We press ctrl + x, y, enter to exit and save the changes.
 
 Then we type the **netplan apply** command to activate the new configuration.
 
-Once this is done we can start sending the collateral transactions to configure the three new masternodes \(in our case CFL\).
+Once this is done we can start sending the collateral transactions to configure the three new masternodes (in our case CFL).
 
 In the wallet we generate three addresses and assign a label to them.
 
-![](../.gitbook/assets/6%20%284%29.png)
+![](<../.gitbook/assets/6 (8).png>)
 
 Now we can send the three collaterals, we can do that in a single transaction.
 
-![](../.gitbook/assets/7.png)
+![](<../.gitbook/assets/7 (8).png>)
 
 Now we can verify the transaction id and index, and generate three masternode keys.
 
@@ -72,7 +72,7 @@ We use the following commands
 * getmasternodeoutputs
 * createmasternodekey
 
-![](../.gitbook/assets/8%20%283%29.png)
+![](<../.gitbook/assets/8 (7).png>)
 
 Now we can start configuring the masternode.conf file just adding our server IP addresses.
 
@@ -96,9 +96,9 @@ For each data directory we create a cryptoflow.conf configuration file
 
 Example
 
-* nano ~/.cryptoflow/cryptoflow.conf
-* nano ~/.cryptoflow2/cryptoflow.conf
-* nano ~/.cryptoflow3/cryptoflow.conf
+* nano \~/.cryptoflow/cryptoflow.conf
+* nano \~/.cryptoflow2/cryptoflow.conf
+* nano \~/.cryptoflow3/cryptoflow.conf
 
 Here we can enter the configuration parameters and save the file.
 
@@ -132,7 +132,7 @@ masternodeaddr=70.34.203.123:13333
 
 masternodeprivkey=4SVSgqELM1C5NmgxRcn7EXMYzhSWxZZMsxKAUyG5ptS8UB5Tj3R
 
--------------------------
+\-------------------------
 
 rpcuser=cfl1
 
@@ -152,27 +152,26 @@ daemon=1
 
 maxconnections=64
 
-bind=\[2a05:f480:2000:160c:0000:0000:0000:0000\]
+bind=\[2a05:f480:2000:160c:0000:0000:0000:0000]
 
 masternode=1
 
-masternodeaddr=\[2a05:f480:2000:160c:0000:0000:0000:0000\]:13333
+masternodeaddr=\[2a05:f480:2000:160c:0000:0000:0000:0000]:13333
 
 masternodeprivkey=4RdXDLVmhaNLwgrY46NG8RWHeeVfTLkLiX4WWR3mNTXe8XM6d7Y
 
--------------------------
+\-------------------------
 
 Now we can start our wallets taking care to specify the path of the data directory when it is different from the default one.
 
 It is also suggested to start the IPv6 wallets first and then the IPv4 one.
 
-* ~/cfl1/cryptoflowd
-* ~/cfl1/cryptoflowd -datadir=/root/.cryptoflow2 -conf=/root/.cryptoflow2/cryptoflow.conf
-* ~/cfl1/cryptoflowd -datadir=/root/.cryptoflow3 -conf=/root/.cryptoflow3/cryptoflow.conf
+* \~/cfl1/cryptoflowd
+* \~/cfl1/cryptoflowd -datadir=/root/.cryptoflow2 -conf=/root/.cryptoflow2/cryptoflow.conf
+* \~/cfl1/cryptoflowd -datadir=/root/.cryptoflow3 -conf=/root/.cryptoflow3/cryptoflow.conf
 
 We now wait for the wallets to be fully synchronized.
 
 Once the synchronization is complete we can restart our local wallet to apply the changes made previously to the masternode.conf file and then start the mastrenodes from the debug console using **startmasternode** command, as in the picture.
 
-![](../.gitbook/assets/9%20%281%29.png)
-
+![](<../.gitbook/assets/9 (7).png>)
