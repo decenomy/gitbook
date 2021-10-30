@@ -19,20 +19,20 @@ Now let's click on the padlock icon and the following window will open\
 
 Then we click the OK button
 
-![](<../.gitbook/assets/1 (4).png>)
+![](<../.gitbook/assets/1 (5).png>)
 
 A further confirmation screen will open so press the ENCRYPT button
 
-![](<../.gitbook/assets/2 (3).png>)
+![](<../.gitbook/assets/2 (1).png>)
 
 Once this is done, a further confirmation window will open and the wallet will be closed to complete the operation.
 
 As in the next image
 
-![](<../.gitbook/assets/3 (4).png>)
+![](<../.gitbook/assets/3 (2).png>)
 
 Now we can restart our wallet and as we can see in the image below it will be encrypted.
 
 You will be required to enter your password in case you want to send funds or perform other operations that require it.
 
-![](<../.gitbook/assets/4 (4).png>)
+![](<../.gitbook/assets/4 (7).png>)

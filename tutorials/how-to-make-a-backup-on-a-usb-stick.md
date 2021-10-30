@@ -15,7 +15,7 @@ As in the image below:\
 
 Once this is done, as you can see in the image, the backup wallet menu will open, click on the folder icon on the right as in the image below:
 
-![](<../.gitbook/assets/1 (5).png>)
+![](<../.gitbook/assets/1 (8).png>)
 
 After that a window will open where we can choose the destination of our backup
 
@@ -23,10 +23,10 @@ After that a window will open where we can choose the destination of our backup
 * 2 let's choose a name for our backup
 * 3 click on save
 
-![](<../.gitbook/assets/2 (4).png>)
+![](<../.gitbook/assets/2 (7).png>)
 
 If the operation went well, this will appear:
 
-![](<../.gitbook/assets/3 (5).png>)
+![](<../.gitbook/assets/3 (6).png>)
 
 If in case you need to restore your backup, the name to use will be "wallet.dat"

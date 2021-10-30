@@ -1,19 +1,21 @@
 # How to run multiple MNs on the same VPS
 
+{% embed url="https://www.youtube.com/watch?v=PD4vdjk3SfA" %}
+
 In this guide we explain how to configure multiple masternodes of the same coin in a single server, using IPv6.
 
 We buy a VPS on [Vultr.com](https://vultr.com)
 
 Click on deploy new server
 
-![](<../.gitbook/assets/0 (12).png>)
+![](<../.gitbook/assets/0 (11).png>)
 
 We choose
 
 * Cloud Compute
 * A location near us
 
-![](<../.gitbook/assets/1 (12).png>)
+![](<../.gitbook/assets/1 (11).png>)
 
 We choose
 
@@ -24,11 +26,11 @@ We choose
 
 So let's make sure we add IPv6 and then deploy the server.
 
-![](<../.gitbook/assets/3 (11).png>)
+![](<../.gitbook/assets/3 (1).png>)
 
 We can then move to the settings-> IPv6 menu to see our configuration.
 
-![](<../.gitbook/assets/4 (11).png>)
+![](<../.gitbook/assets/4 (10).png>)
 
 With Putty let's connect to our server using the credentials provided in the overview section.
 
@@ -49,7 +51,7 @@ For convenience we will start at 0000:0000:0000:0000 and increment the last digi
 
 As shown in the picture
 
-![](<../.gitbook/assets/5 (8).png>)
+![](<../.gitbook/assets/5 (1).png>)
 
 We press ctrl + x, y, enter to exit and save the changes.
 
@@ -59,11 +61,11 @@ Once this is done we can start sending the collateral transactions to configure 
 
 In the wallet we generate three addresses and assign a label to them.
 
-![](<../.gitbook/assets/6 (8).png>)
+![](<../.gitbook/assets/6 (4).png>)
 
 Now we can send the three collaterals, we can do that in a single transaction.
 
-![](<../.gitbook/assets/7 (8).png>)
+![](../.gitbook/assets/7.png)
 
 Now we can verify the transaction id and index, and generate three masternode keys.
 
@@ -72,7 +74,7 @@ We use the following commands
 * getmasternodeoutputs
 * createmasternodekey
 
-![](<../.gitbook/assets/8 (7).png>)
+![](<../.gitbook/assets/8 (3).png>)
 
 Now we can start configuring the masternode.conf file just adding our server IP addresses.
 
@@ -174,4 +176,4 @@ We now wait for the wallets to be fully synchronized.
 
 Once the synchronization is complete we can restart our local wallet to apply the changes made previously to the masternode.conf file and then start the mastrenodes from the debug console using **startmasternode** command, as in the picture.
 
-![](<../.gitbook/assets/9 (7).png>)
+![](<../.gitbook/assets/9 (1).png>)

@@ -8,7 +8,7 @@ In this guide we explain the main functions to use Decenomy wallets.
 
 So let's open our Decenomy wallet (in this case the Trittium).
 
-![](<../.gitbook/assets/0 (9).png>)
+![](<../.gitbook/assets/0 (8).png>)
 
 Now we are going to explain the following functions step by step
 
@@ -19,7 +19,7 @@ Now we are going to explain the following functions step by step
 5. Masternodes
 6. Settings
 
-![](<../.gitbook/assets/1 (9).png>)
+![](<../.gitbook/assets/1 (2).png>)
 
 **Home**
 
@@ -31,7 +31,7 @@ In the Home section we can see
 * Immature (the coins that do not yet have enough confirmations to generate staking)
 * Pending (coins received in unconfirmed transactions)
 
-![](<../.gitbook/assets/2 (9).png>)
+![](<../.gitbook/assets/2 (8).png>)
 
 Also in the Home we can see more information
 
@@ -45,7 +45,7 @@ Also in the Home we can see more information
 
 Through this filter we can only view the transactions that interest us.
 
-![](<../.gitbook/assets/3 (9).png>)
+![](<../.gitbook/assets/3 (8).png>)
 
 In this other dropdown there is the following information
 
@@ -54,59 +54,59 @@ In this other dropdown there is the following information
 * Amount desc (from largest to smallest transaction)
 * Amount asc (from smallest to largest)
 
-![](<../.gitbook/assets/4 (9).png>)
+![](<../.gitbook/assets/4 (3).png>)
 
 In the right section of the wallet Home we can see the following functions
 
 * Synchronized Block (shows us the status of the wallet synchronization)
 
-![](<../.gitbook/assets/5 (7).png>)
+![](<../.gitbook/assets/5 (2).png>)
 
 * Staking active (shows the active status of staking)
 * Staking disabled (staking is disabled)
 
-![](<../.gitbook/assets/6 (7).png>)
+![](<../.gitbook/assets/6 (5).png>)
 
 * trittium.conf (used to open the wallet configuration file)
 
-![](<../.gitbook/assets/7 (7).png>)
+![](<../.gitbook/assets/7 (4).png>)
 
 * masternode.conf (used to open the masternode configuration file)
 
-![](<../.gitbook/assets/8 (6).png>)
+![](<../.gitbook/assets/8 (1).png>)
 
 * Debug Console (to give commands to the wallet manually)
 
-![](<../.gitbook/assets/9 (6).png>)
+![](<../.gitbook/assets/9 (7).png>)
 
 * Active connection(s) (the active connections in our wallet)
 
-![](<../.gitbook/assets/10 (5).png>)
+![](<../.gitbook/assets/10 (2).png>)
 
 * Unlocked Wallet (used to unlock the wallet for any operation)
 * Lock Wallet (used to lock the wallet)
 * Staking Only (the wallet is unlocked only to allow staking)
 
-![](<../.gitbook/assets/11 (4).png>)
+![](<../.gitbook/assets/11 (3).png>)
 
 * Dark Theme (used to switch from dark to light theme)
 
-![](<../.gitbook/assets/12 (3).png>)
+![](<../.gitbook/assets/12 (1).png>)
 
 * FAQ (frequently asked questions about the wallet)
 
-![](<../.gitbook/assets/13 (3).png>)
+![](<../.gitbook/assets/13 (1).png>)
 
 * Masternode (you can see the number of masternodes owned)
 * Next Collateral (value of the next collateral)
 * Collateral (value of current collateral)
 * In (in how many blocks will the collateral increase)
 
-![](<../.gitbook/assets/14 (3).png>)
+![](<../.gitbook/assets/14 (2).png>)
 
 In this section we find the statistics of both staking rewards and masternodes
 
-![](<../.gitbook/assets/15 (3).png>)
+![](../.gitbook/assets/15.png)
 
 **Send**
 
@@ -120,11 +120,11 @@ In the Send section we can see.
 
 * Customize Fee (this option is used to customize the fee with which we send our transaction.
 
-![](<../.gitbook/assets/17 (3).png>)
+![](../.gitbook/assets/17.png)
 
 It is advisable to use this option only if you are an expert user.
 
-![](<../.gitbook/assets/18 (2).png>)
+![](<../.gitbook/assets/18 (1).png>)
 
 * Clear all (used to clear the fields seen previously)
 
@@ -132,7 +132,7 @@ It is advisable to use this option only if you are an expert user.
 
 * Add recipient (used to add additional recipients)
 
-![](<../.gitbook/assets/20 (2).png>)
+![](../.gitbook/assets/20.png)
 
 As we can see, a field has been added where you can enter both the address and the amount of coins for a second recipient of our TRTT.
 
@@ -160,23 +160,23 @@ By clicking on the checkbox you can select or deselect the inputs that will be s
 
 Pressing OK confirms the changes made.
 
-![](<../.gitbook/assets/24 (1).png>)
+![](../.gitbook/assets/24.png)
 
 Change Address
 
 This is used to customize the address for receiving the unspent coins from a transaction sent.
 
-![](<../.gitbook/assets/25 (1).png>)
+![](../.gitbook/assets/25.png)
 
 Open URI
 
 It is used to open a payment request from the web.
 
-![](<../.gitbook/assets/26 (1).png>)
+![](../.gitbook/assets/26.png)
 
 Reset to default (is used to cancel all changes made)
 
-![](<../.gitbook/assets/27 (1).png>)
+![](../.gitbook/assets/27.png)
 
 **Receive**
 
@@ -190,7 +190,7 @@ Reset to default (is used to cancel all changes made)
 * Create Request (used to generate a QR to request a payment)
 * My Addresses (list of our addresses)
 
-![](<../.gitbook/assets/29 (1).png>)
+![](../.gitbook/assets/29.png)
 
 Create Request
 
