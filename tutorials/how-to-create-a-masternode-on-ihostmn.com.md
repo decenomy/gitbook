@@ -1,5 +1,7 @@
 # How to create a masternode on IhostMN.com
 
+{% embed url="https://youtu.be/b95mGCWJncM" %}
+
 This guide assumes you have an [ihostmn.com](https://ihostmn.com) account and the coins needed to start a masternode in your local wallet.\
 As soon as you log into ihostmn.com you will find yourself on the dashboard.\
 
@@ -25,7 +27,7 @@ MONK requires 4000 coins to run a masternode (this value could change over time 
 
 ![](<../.gitbook/assets/5 (6).png>)
 
-To create a masternode we need to send exactly 4000 MONK to ourselves, to do that we need to click on “Receive” in the left menu, to generate a new address, and give it a name (the one required by ihostmn.com).
+To create a masternode we need to send exactly 4000 MONK to ourselves, to do that we need to click on “Receive” in the left menu, to generate a new address, and give it a name (for example MN1).
 
 ![](<../.gitbook/assets/6 (8) (1) (1).png>)
 
