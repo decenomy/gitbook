@@ -7,13 +7,13 @@ In this guide, we'll walk you through some useful VaultWatch features and how to
 Let's go to the web page [https://vaultwatch.eu/](https://vaultwatch.eu)\
 
 
-![](../.gitbook/assets/0)
+![](<../.gitbook/assets/0 (1)>)
 
 In the search bar we look for the coin that interests us, in this case we use OWO as an example.
 
 Click on the coin name to go to the next page
 
-![](../.gitbook/assets/1)
+![](<../.gitbook/assets/1 (1)>)
 
 Once this is done we can see the basic information of the coin (links and some technical details) as shown in the image.
 
@@ -23,7 +23,7 @@ In this guide we focus on staking and show you the main tools offered by VaultWa
 * Staking Information
 * Best Staking Addresses
 
-![](../.gitbook/assets/2)
+![](<../.gitbook/assets/2 (1)>)
 
 **Profit Calculator**
 
@@ -40,11 +40,11 @@ At the time of writing this guide, a staking reward is equivalent to 25 OWO, whi
 
 This means an average of about 22 rewards per day.
 
-![](../.gitbook/assets/3)
+![](<../.gitbook/assets/3 (1)>)
 
 **Staking Information**
 
-![](../.gitbook/assets/4)
+![](<../.gitbook/assets/4 (1)>)
 
 * Average input size: The average amount of coins per input in the network
 * Average input weight: The average age of inputs
@@ -57,17 +57,17 @@ As we have seen in the guide "Staking optimization and common problems" it can b
 
 As we can see in our wallet all of our coins, after receiving the first reward, will not be available for staking for about 100 minutes.
 
-![](../.gitbook/assets/5)
+![](<../.gitbook/assets/5 (1)>)
 
 **Best Staking Addresses**
 
-![](../.gitbook/assets/6)
+![](<../.gitbook/assets/6 (1)>)
 
 In this last section we see the same statistics as before, but referring to the individual addresses of the largest active stakers on the network.
 
 We can therefore use an average input size value as a reference value for the setstakesplitthreshold in our wallet, from the debug console.
 
-![](../.gitbook/assets/7)
+![](<../.gitbook/assets/7 (1)>)
 
 After a while we will see that the coins in an immature state will be about 3500, leaving the rest of the balance free.
 
@@ -77,4 +77,4 @@ As we can see from the image only a small part of our coins are immature.
 
 By doing so we have the possibility of having a slight increase in reward.
 
-![](../.gitbook/assets/8)
+![](<../.gitbook/assets/8 (1)>)
