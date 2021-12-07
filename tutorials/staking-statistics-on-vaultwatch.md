@@ -1,19 +1,19 @@
 # Staking statistics on VaultWatch
 
-### Staking statistics on VaultWatch <a href="_u6z1i9e4rptx" id="_u6z1i9e4rptx"></a>
+### Staking statistics on VaultWatch <a href="#_u6z1i9e4rptx" id="_u6z1i9e4rptx"></a>
 
 In this guide, we'll walk you through some useful VaultWatch features and how to use them.
 
 Let's go to the web page [https://vaultwatch.eu/](https://vaultwatch.eu)\
 
 
-![](<../.gitbook/assets/0 (1)>)
+![](<../.gitbook/assets/0 (1) (1)>)
 
 In the search bar we look for the coin that interests us, in this case we use OWO as an example.
 
 Click on the coin name to go to the next page
 
-![](<../.gitbook/assets/1 (1)>)
+![](<../.gitbook/assets/1 (1) (1)>)
 
 Once this is done we can see the basic information of the coin (links and some technical details) as shown in the image.
 

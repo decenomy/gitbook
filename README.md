@@ -15,6 +15,7 @@
   * [Staking optimization and common problems](tutorials/staking-optimization-and-common-problems.md)
   * [Staking statistics on VaultWatch](tutorials/staking-statistics-on-vaultwatch.md)
   * [How to manage masternode sharing on Crypos](tutorials/how-to-manage-masternode-sharing-on-crypos.md)
+  * [How to secure your environment](tutorials/how-to-secure-your-environment.md)
   * [How to run multiple MNs on the same VPS](tutorials/how-to-run-multiple-mns-on-the-same-vps.md)
 * [Projects](projects/)
   * [Sapphire (SAPP)](projects/sapphire-sapp.md)

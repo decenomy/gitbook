@@ -10,7 +10,7 @@ Then we register or log in if we are already registered.
 
 Now that we are logged in, click on **shared masternode** in the left menu.
 
-![](../.gitbook/assets/0)
+![](<../.gitbook/assets/0 (1)>)
 
 Once this is done, a page will open where we can choose the coin that interests us (in our case we choose Trittium).
 
