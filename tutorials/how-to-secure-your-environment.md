@@ -1,5 +1,7 @@
 # How to secure your environment
 
+{% embed url="https://www.youtube.com/watch?v=JI99ILrQMR4" %}
+
 This guide was made to give complete information to ensure the safety of users and their wallets.
 
 * First let's talk about security regarding Discord.
