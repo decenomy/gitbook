@@ -26,3 +26,5 @@
   * [Jackpot (777)](projects/jackpot-777.md)
   * [Ultra Clear (UCR)](projects/ultra-clear-ucr.md)
   * [Aezora (AZR)](projects/aezora-azr.md)
+* [Basics](basics/README.md)
+  * [So, what is a Masternode?](basics/so-what-is-a-masternode.md)
