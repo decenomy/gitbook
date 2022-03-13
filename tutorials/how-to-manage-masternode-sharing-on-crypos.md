@@ -10,7 +10,7 @@ Then we register or log in if we are already registered.
 
 Now that we are logged in, click on **shared masternode** in the left menu.
 
-![](<../.gitbook/assets/0 (1)>)
+![](<../.gitbook/assets/0 (1) (1)>)
 
 Once this is done, a page will open where we can choose the coin that interests us (in our case we choose Trittium).
 
@@ -22,7 +22,7 @@ Before proceeding (as we will see shortly) it will be necessary to provide the r
 
 So now let's go to our wallet and from the receive menu we copy our address.
 
-![](../.gitbook/assets/2)
+![](<../.gitbook/assets/2 (1)>)
 
 Now we can paste the address previously copied on the Crypos website, as shown in the image.
 
@@ -42,7 +42,7 @@ Reached the 10 confirmations we will see our masternode by clicking on the icon 
 
 Now click on the details button.
 
-![](../.gitbook/assets/6)
+![](<../.gitbook/assets/6 (1)>)
 
 On the next page we can see the following information.
 
@@ -57,7 +57,7 @@ Below we can see the list of masternodes in which our coins are invested.
 
 We can withdraw our funds at any time by clicking the icon highlighted in the image at the bottom right.
 
-![](../.gitbook/assets/7)
+![](<../.gitbook/assets/7 (1)>)
 
 By going to our wallet we can check our received rewards.
 
