@@ -17,4 +17,5 @@
 * [Staking statistics on VaultWatch](staking-statistics-on-vaultwatch.md)
 * [How to manage masternode sharing on Crypos](how-to-manage-masternode-sharing-on-crypos.md)
 * [How to secure your environment](how-to-secure-your-environment.md)
+* [How to stake on a VPS](how-to-stake-on-a-vps.md)
 * [How to run multiple MNs on the same VPS](how-to-run-multiple-mns-on-the-same-vps.md)
