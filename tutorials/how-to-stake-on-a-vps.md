@@ -1,5 +1,9 @@
 # How to stake on a VPS
 
+{% embed url="https://www.youtube.com/watch?v=7xZ4z480T3Q" %}
+
+
+
 ### How to stake on a VPS <a href="#_gjfles2s8o27" id="_gjfles2s8o27"></a>
 
 In this guide we are going to explain how to stake on a VPS server.
