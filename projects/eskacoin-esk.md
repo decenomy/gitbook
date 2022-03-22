@@ -1,0 +1,2 @@
+# Eskacoin (ESK)
+
