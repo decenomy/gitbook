@@ -1,5 +1,7 @@
 # Staking statistics on VaultWatch
 
+{% embed url="https://youtu.be/k9_zUN-AhYs" %}
+
 ### Staking statistics on VaultWatch <a href="#_u6z1i9e4rptx" id="_u6z1i9e4rptx"></a>
 
 In this guide, we'll walk you through some useful VaultWatch features and how to use them.
