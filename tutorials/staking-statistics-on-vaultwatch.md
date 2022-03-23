@@ -1,6 +1,6 @@
 # Staking statistics on VaultWatch
 
-{% embed url="https://youtu.be/k9_zUN-AhYs" %}
+{% embed url="https://youtu.be/BdBH4GapqOo" %}
 
 ### Staking statistics on VaultWatch <a href="#_u6z1i9e4rptx" id="_u6z1i9e4rptx"></a>
 
