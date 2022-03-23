@@ -53,7 +53,7 @@ The age of the inputs for the DECENOMY coins is not a factor that affects the pr
 
 The only determining factor is the size of an input.
 
-As we have seen in the guide "Staking optimization and common problems" it can be useful to change the value of setstakesplitthreshold to avoid receiving a reward, too large a quantity of our coins remains immature (100 confirmations) before being available again for staking.
+As we have seen in the guide "Staking optimization and common problems" it can be useful to change the value of setstakesplitthreshold to avoid to have a too large quantity of coins in immature state (100 confirmations).
 
 As we can see in our wallet all of our coins, after receiving the first reward, will not be available for staking for about 100 minutes.
 
