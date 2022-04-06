@@ -15,7 +15,7 @@
 • Explorer [https://explorer.decenomy.net/PEPS/blocks](https://explorer.decenomy.net/PEPS/blocks)\
 • Website [https://github.com/PEPS-Project/PEPS](https://github.com/PEPS-Project/PEPS)
 
-#### Rewards Breakdown
+## Rewards Breakdown
 
 | Block   | Collateral | Block Reward  | MN Reward % | Staking Reward % | MN Reward | Staker Reward | roi 500 | roi 1000 | roi 1500 | roi 2000 | roi 2500 | coin supply |
 | ------- | ---------- | ------------- | ----------- | ---------------- | --------- | ------------- | ------- | -------- | -------- | -------- | -------- | ----------- |
