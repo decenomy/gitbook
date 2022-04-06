@@ -3,7 +3,8 @@
 ## Coin Specs
 
 • PoW Algorithm: Quark\
-• Premine: 5,460,000 SUV • PoW Blocks: 1 - 1000 • PoS Blocks: Starting from 1001\
+• Premine: 5,460,000 SUV • PoW Blocks: 1 - 1000 \
+• PoS Blocks: Starting from 1001\
 • Block Time: 30 Seconds, 60s after block 2012200\
 • Maturity: 120 Confirmations, 600 after block 2012401\
 • Prefix: SUV adresses start with the capital letter "S"\
