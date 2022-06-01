@@ -40,3 +40,4 @@
   * [Aezora (AZR)](projects/aezora-azr.md)
 * [Basics](basics/README.md)
   * [So, what is a Masternode?](basics/so-what-is-a-masternode.md)
+  * [Staying safe on Discord](basics/staying-safe-on-discord.md)
