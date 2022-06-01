@@ -2,6 +2,7 @@
 
 * [Basics](basics/)
   * [So, what is a Masternode?](basics/so-what-is-a-masternode.md)
+  * [Staying safe on Discord](basics/staying-safe-on-discord.md)
 * [Tutorials](tutorials/)
   * [How to add addnodes](tutorials/how-to-add-addnodes.md)
   * [How to buy Decenomy coins on Heliobank](tutorials/how-to-buy-decenomy-coins-on-heliobank.md)
