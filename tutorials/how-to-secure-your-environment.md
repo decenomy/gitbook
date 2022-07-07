@@ -27,7 +27,7 @@ To check the ID of the user you are talking to, you can right-click on their use
 
 By doing this you can verify that it is the same as the ID in the team channel. (You might need to enable developer mode in Discord settings).
 
-![](<../.gitbook/assets/1 (1)>)
+![](<../.gitbook/assets/1 (1) (1)>)
 
 * The DECENOMY team recommends that you do not share sensitive data in public such as private keys, passwords, IP addresses.
 

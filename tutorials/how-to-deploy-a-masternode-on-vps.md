@@ -6,7 +6,7 @@ If you want to make more masternodes of the same coin, you need different server
 
 To open a masternode with a VPS we must first install Putty if we use Windows.
 
-So now let's go to the browser and type [www.putty.org](http://www.putty.org)
+So now let's go to the browser and type [www.putty.org](http://www.putty.org/)
 
 (We will need Putty to connect to our VPS).
 
@@ -26,7 +26,7 @@ To get our VPS we need to purchase it from a hosting provider.
 
 For our guide we chose Vultr.
 
-So let's go to our browser and type [www.vultr.com](http://www.vultr.com)
+So let's go to our browser and type [www.vultr.com](http://www.vultr.com/)
 
 let's register, connect our credit card or Paypal and we will find ourselves in the control panel.
 

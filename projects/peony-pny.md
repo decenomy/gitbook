@@ -13,7 +13,7 @@
 * Prefix: PNY addresses start with the capital letter "P"
 * Ports: 36779 (p2p) / 36780 (rpc)
 * Explorer [explorer.decenomy.net](https://explorer.decenomy.net/PNY/blocks)
-* Website [peony.net](https://peony.net)
+* Website [peony.net](https://peony.net/)
 
 ## Rewards Breakdown
 

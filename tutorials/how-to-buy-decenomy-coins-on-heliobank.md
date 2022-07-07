@@ -6,7 +6,7 @@
 
 In this guide we will explain how to buy Decenomy coins on Heliobank.
 
-First of all we go to this link [https://dex.heliobank.net](https://dex.heliobank.net) then we register.
+First of all we go to this link [https://dex.heliobank.net](https://dex.heliobank.net/) then we register.
 
 We recommend that you do not lose your password, otherwise you will no longer be able to access your account. (save the password in a safe place).
 

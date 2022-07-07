@@ -12,7 +12,7 @@
 • Prefix: CFL adresses start with the letter "c"\
 • Ports: 13333 (p2p) / 13334 (rpc)\
 • Explorer [https://explorer.decenomy.net/CFL/blocks](https://explorer.decenomy.net/CFL/blocks)\
-• Website [cryptoflow.eu](https://cryptoflow.eu)
+• Website [cryptoflow.eu](https://cryptoflow.eu/)
 
 ## Rewards Breakdown
 

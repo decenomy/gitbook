@@ -11,7 +11,7 @@
 • Prefix: OWO adresses start with the lower case letter "o"\
 • Ports: 32112 (p2p) / 32113 (rpc)\
 • Explorer [https://explorer.decenomy.net/OWO/blocks](https://explorer.decenomy.net/OWO/blocks)\
-• Website [https://owocoin.net/](https://owocoin.net)
+• Website [https://owocoin.net/](https://owocoin.net/)
 
 ## Rewards Breakdown
 

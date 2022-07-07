@@ -11,7 +11,7 @@
 • Prefix: UCR adresses start with the capital letter "C"\
 • Ports: 32628 (p2p) / 32627 (rpc)\
 • Explorer [https://explorer.decenomy.net/UCR/blocks](https://explorer.decenomy.net/UCR/blocks)\
-• Website [ucrcoin.net/](https://ucrcoin.net)
+• Website [ucrcoin.net/](https://ucrcoin.net/)
 
 ## Rewards Breakdown
 

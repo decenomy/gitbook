@@ -4,7 +4,7 @@
 
 In this guide we explain how to configure multiple masternodes of the same coin in a single server, using IPv6.
 
-We buy a VPS on [Vultr.com](https://vultr.com)
+We buy a VPS on [Vultr.com](https://vultr.com/)
 
 Click on deploy new server
 

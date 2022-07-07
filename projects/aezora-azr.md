@@ -10,7 +10,7 @@
 • Prefix: AZR addresses start with the capital letter "A"\
 • Ports: 14725 (p2p) / 14724 (rpc)\
 • Explorer [https://explorer.decenomy.net/AZR/blocks](https://explorer.decenomy.net/AZR/blocks)\
-• Website [azzurecoin.net](https://azzurecoin.net)
+• Website [azzurecoin.net](https://azzurecoin.net/)
 
 ## Rewards Breakdown
 

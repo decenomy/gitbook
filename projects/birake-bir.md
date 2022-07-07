@@ -11,7 +11,7 @@
 • Prefix: BIR adresses start with the capital letter "K"\
 • Ports: 39697 (p2p) / 39698 (rpc)\
 • Explorer [https://explorer.decenomy.net/BIR/blocks](https://explorer.decenomy.net/BIR/blocks)\
-• Website [https://birake.com/](https://birake.com)
+• Website [https://birake.com/](https://birake.com/)
 
 ## Rewards Breakdown
 

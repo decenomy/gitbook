@@ -80,4 +80,4 @@ This gives the amount of coins one masternode will make in a year. We then divid
 
 **Are all coins statistics like this available online?**
 
-Yes, you can check all Decenomy and other coins statistics on [vaultwatch.eu](https://vaultwatch.eu)
+Yes, you can check all Decenomy and other coins statistics on [vaultwatch.eu](https://vaultwatch.eu/)

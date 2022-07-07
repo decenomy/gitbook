@@ -37,7 +37,7 @@ Now we copy the KYAN executables in /usr/local/bin folder to make them available
 
 **cp kyanite\* /usr/local/bin/**
 
-![](../.gitbook/assets/2)
+![](<../.gitbook/assets/2 (1)>)
 
 Let’s start the KYAN daemon and encrypt the wallet.
 
@@ -45,7 +45,7 @@ Let’s start the KYAN daemon and encrypt the wallet.
 
 **kyanite-cli encryptwallet “YOUR-PASSWORD-HERE”**
 
-![](<../.gitbook/assets/3 (1)>)
+![](<../.gitbook/assets/3 (1) (1)>)
 
 We can now create a system service to make sure our wallet will always run.\
 **nano /etc/systemd/system/kyanite.service**

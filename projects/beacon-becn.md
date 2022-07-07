@@ -10,7 +10,7 @@
 • Prefix: BECN adresses start with the lower case letter "b"\
 • Ports: 36552 (p2p) / 36553 (rpc) \
 • Explorer [https://explorer.decenomy.net/BECN/blocks](https://explorer.decenomy.net/BECN/blocks) \
-• Website [beaconcoin.net](https://beaconcoin.net)
+• Website [beaconcoin.net](https://beaconcoin.net/)
 
 ## Rewards Breakdown
 

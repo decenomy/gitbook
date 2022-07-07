@@ -4,7 +4,7 @@
 
 In this guide we will explain how to use Crypos.io for shared masternodes.
 
-Now let's go to our browser and type [crypos.io](http://crypos.io) in the address bar.
+Now let's go to our browser and type [crypos.io](http://crypos.io/) in the address bar.
 
 Then we register or log in if we are already registered.
 
@@ -16,13 +16,13 @@ Once this is done, a page will open where we can choose the coin that interests 
 
 Then click on the **Buy Share** button.
 
-![](../.gitbook/assets/1)
+![](<../.gitbook/assets/1 (1)>)
 
 Before proceeding (as we will see shortly) it will be necessary to provide the receive address of our wallet, where our rewards will be sent if they are not all reinvested.
 
 So now let's go to our wallet and from the receive menu we copy our address.
 
-![](<../.gitbook/assets/2 (1)>)
+![](<../.gitbook/assets/2 (1) (1)>)
 
 Now we can paste the address previously copied on the Crypos website, as shown in the image.
 

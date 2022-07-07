@@ -6,7 +6,7 @@
 
 In this guide, we'll walk you through some useful VaultWatch features and how to use them.
 
-Let's go to the web page [https://vaultwatch.eu/](https://vaultwatch.eu)\
+Let's go to the web page [https://vaultwatch.eu/](https://vaultwatch.eu/)\
 
 
 ![](<../.gitbook/assets/0 (1) (1) (1)>)
@@ -15,7 +15,7 @@ In the search bar we look for the coin that interests us, in this case we use OW
 
 Click on the coin name to go to the next page
 
-![](<../.gitbook/assets/1 (1) (1)>)
+![](<../.gitbook/assets/1 (1) (1) (1)>)
 
 Once this is done we can see the basic information of the coin (links and some technical details) as shown in the image.
 
@@ -25,7 +25,7 @@ In this guide we focus on staking and show you the main tools offered by VaultWa
 * Staking Information
 * Best Staking Addresses
 
-![](<../.gitbook/assets/2 (1) (1)>)
+![](<../.gitbook/assets/2 (1) (1) (1)>)
 
 **Profit Calculator**
 
@@ -42,7 +42,7 @@ At the time of writing this guide, a staking reward is equivalent to 25 OWO, whi
 
 This means an average of about 22 rewards per day.
 
-![](<../.gitbook/assets/3 (1) (1)>)
+![](<../.gitbook/assets/3 (1) (1) (1)>)
 
 **Staking Information**
 
