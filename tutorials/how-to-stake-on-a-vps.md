@@ -25,7 +25,7 @@ To download the wallet we use **wget** command.
 
 **wget https://github.com/kyancoin/KYAN/releases/download/v1.0.0.1/KYAN-1.0.0.1-Linux.zip**
 
-![](<../.gitbook/assets/0 (1)>)
+![](<../.gitbook/assets/0 (1) (2)>)
 
 We now extract the archive using **unzip** command (if the command is not available you can run **apt install unzip**)\
 **unzip KYAN-1.0.0.1-Linux.zip**\

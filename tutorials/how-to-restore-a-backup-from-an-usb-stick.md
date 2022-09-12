@@ -10,7 +10,7 @@ Let’s now copy the file
 
 After that we have to navigate to the wallet data directory located in %appdata% as shown in the picture (Windows 11).
 
-![](../.gitbook/assets/1)
+![](<../.gitbook/assets/1 (3)>)
 
 We can now open the coin’s folder we are looking for (in our case Sapphire)
 

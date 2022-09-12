@@ -42,7 +42,7 @@ Reached the 10 confirmations we will see our masternode by clicking on the icon 
 
 Now click on the details button.
 
-![](<../.gitbook/assets/6 (1)>)
+![](<../.gitbook/assets/6 (1) (2)>)
 
 On the next page we can see the following information.
 

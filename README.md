@@ -21,6 +21,7 @@
   * [How to secure your environment](tutorials/how-to-secure-your-environment.md)
   * [How to stake on a VPS](tutorials/how-to-stake-on-a-vps.md)
   * [How to restore a backup from an USB stick](tutorials/how-to-restore-a-backup-from-an-usb-stick.md)
+  * [Fiat to crypto to Decenomy coins](tutorials/fiat-to-crypto-to-decenomy-coins.md)
   * [How to run multiple MNs on the same VPS](tutorials/how-to-run-multiple-mns-on-the-same-vps.md)
 * [Projects](projects/)
   * [Sapphire (SAPP)](projects/sapphire-sapp.md)
