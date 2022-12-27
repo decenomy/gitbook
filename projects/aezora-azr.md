@@ -1,16 +1,27 @@
 # 🔸 Azzure (AZR)
 
+## Coin Info
+
+• **GitHub**\
+[<mark style="color:blue;">https://github.com/decenomy/AZR</mark>](https://github.com/decenomy/AZR)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">https://github.com/decenomy/AZR/releases/latest</mark>](https://github.com/decenomy/AZR/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/AZR/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/AZR/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)\
+• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/AZR</mark>](https://explorer.decenomy.net/AZR/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">https://azr.flitswallet.app/</mark>](https://azr.flitswallet.app/)
+
 ## Coin Specs
 
-• PoW Algorithm: Scrypt\
-• Premine: 250,000 AZR • PoW Blocks: 1 - 250\
-• PoS Blocks: Starting from 251\
-• Block Time: 60 Seconds\
-• Maturity: 100 Confirmations\
-• Prefix: AZR addresses start with the capital letter "A"\
-• Ports: 14725 (p2p) / 14724 (rpc)\
-• Explorer [https://explorer.decenomy.net/AZR/blocks](https://explorer.decenomy.net/AZR/blocks)\
-• Website [azzurecoin.net](https://azzurecoin.net/)
+• **PoW Algorithm:** Scrypt\
+• **Premine:** 250,000 AZR \
+• **PoW Blocks:** 1 - 250\
+• **PoS Blocks:** Starting from 251\
+• **Block Time**: 60 Seconds\
+• **Maturity:** 100 Confirmations\
+• **Prefix:** AZR addresses start with the capital letter "A"\
+• **Ports:** 14725 (p2p) / 14724 (rpc)\
+
 
 ## Rewards Breakdown
 
