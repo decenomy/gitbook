@@ -1,4 +1,4 @@
-# Eskacoin (ESK)
+# 🔸 Eskacoin (ESK)
 
 ## Coin Specs
 

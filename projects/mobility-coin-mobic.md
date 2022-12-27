@@ -1,4 +1,4 @@
-# Mobility Coin (MOBIC)
+# 🔸 Mobility Coin (MOBIC)
 
 ## Coin Specs
 

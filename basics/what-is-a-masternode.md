@@ -1,6 +1,6 @@
-# So, what is a Masternode?
+# 🔸 What is a Masternode?
 
-## So, what is a Masternode
+## What is a Masternode
 
 {% embed url="https://youtu.be/WUOcQZBcC7E" %}
 

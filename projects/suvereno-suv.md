@@ -1,4 +1,4 @@
-# Suvereno (SUV)
+# 🔸 Suvereno (SUV)
 
 ## Coin Specs
 

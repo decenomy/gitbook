@@ -1,4 +1,4 @@
-# Birake (BIR)
+# 🔸 Birake (BIR)
 
 ## Coin Specs
 

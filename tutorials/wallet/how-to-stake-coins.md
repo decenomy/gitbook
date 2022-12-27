@@ -1,4 +1,4 @@
-# How to stake coins
+# 🔸 How to stake coins
 
 In this guide we will explain how to stake our DECENOMY coins.
 

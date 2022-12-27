@@ -1,4 +1,4 @@
-# Peony (PNY)
+# 🔸 Peony (PNY)
 
 ## Coin Specs
 

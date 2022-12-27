@@ -1,4 +1,4 @@
-# How to add addnodes
+# 🔸 How to add addnodes
 
 {% embed url="https://www.youtube.com/watch?v=RXJ6qkR2xgI" %}
 

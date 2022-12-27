@@ -1,4 +1,4 @@
-# How to update a masternode collateral
+# 🔸 How to update a masternode collateral
 
 {% embed url="https://youtu.be/Sanzn0U_WK4" %}
 

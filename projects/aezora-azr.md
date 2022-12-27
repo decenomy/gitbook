@@ -1,4 +1,4 @@
-# Aezora (AZR)
+# 🔸 Azzure (AZR)
 
 ## Coin Specs
 

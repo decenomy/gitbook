@@ -1,4 +1,4 @@
-# How to encrypt a wallet
+# 🔸 How to encrypt a wallet
 
 {% embed url="https://www.youtube.com/watch?v=qmalydbgt8A" %}
 

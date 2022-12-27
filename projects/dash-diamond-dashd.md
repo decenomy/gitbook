@@ -1,4 +1,4 @@
-# Dash Diamond (DASHD)
+# 🔸 Dash Diamond (DASHD)
 
 ## Coin Specs
 

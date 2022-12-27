@@ -1,4 +1,4 @@
-# How to make a backup on a USB stick
+# 🔸 How to make a backup on a USB stick
 
 {% embed url="https://www.youtube.com/watch?v=SqIdsz6mn7w" %}
 

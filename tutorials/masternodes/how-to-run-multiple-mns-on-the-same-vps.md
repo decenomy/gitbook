@@ -1,4 +1,4 @@
-# How to run multiple MNs on the same VPS
+# 🔸 How to run multiple MNs on the same VPS
 
 {% embed url="https://www.youtube.com/watch?v=PD4vdjk3SfA" %}
 

@@ -1,4 +1,4 @@
-# How to synchronize the wallet with a bootstrap
+# 🔸 How to synchronize the wallet with a bootstrap
 
 {% embed url="https://www.youtube.com/watch?v=GX8YOYQGOZw" %}
 

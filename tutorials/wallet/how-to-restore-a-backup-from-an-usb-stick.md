@@ -1,4 +1,4 @@
-# How to restore a backup from an USB stick
+# 🔸 How to restore a backup from an USB stick
 
 {% embed url="https://youtu.be/XipzjQdzZU0" %}
 

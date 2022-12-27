@@ -1,4 +1,4 @@
-# How to create a masternode on IhostMN.com
+# 🔸 How to create a masternode on IhostMN.com
 
 {% embed url="https://youtu.be/b95mGCWJncM" %}
 

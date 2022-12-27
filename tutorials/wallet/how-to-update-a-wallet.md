@@ -1,4 +1,4 @@
-# How to update a wallet
+# 🔸 How to update a wallet
 
 {% embed url="https://www.youtube.com/watch?v=YyETlLE8-fM" %}
 

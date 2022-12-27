@@ -1,4 +1,4 @@
-# How to secure your environment
+# 🔸 How to secure your environment
 
 {% embed url="https://www.youtube.com/watch?v=JI99ILrQMR4" %}
 

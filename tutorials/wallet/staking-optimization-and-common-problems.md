@@ -1,4 +1,4 @@
-# Staking optimization and common problems
+# 🔸 Staking optimization and common problems
 
 {% embed url="https://www.youtube.com/watch?v=aW2ubmbIFPY" %}
 

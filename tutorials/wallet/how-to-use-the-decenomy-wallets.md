@@ -1,4 +1,4 @@
-# How to use the DECENOMY wallets
+# 🔸 How to use the DECENOMY wallets
 
 {% embed url="https://www.youtube.com/watch?v=A2euj-G-CDA" %}
 
