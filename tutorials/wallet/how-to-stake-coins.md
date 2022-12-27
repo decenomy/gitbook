@@ -12,12 +12,12 @@ To do this we can click on the padlock icon at the top right.
 
 **Make sure to choose “Staking only” option!**
 
-![](<../.gitbook/assets/0 (6).png>)
+![](<../../.gitbook/assets/0 (6).png>)
 
 Once this is done, the staking icon will activate.
 
 To be able to stake, the wallet must always remain open.
 
-![](<../.gitbook/assets/1 (6).png>)
+![](<../../.gitbook/assets/1 (6).png>)
 
 In case staking is not activated, we can use the “getstakingstatus” command in the debug console, to see more details on the causes of the problem.

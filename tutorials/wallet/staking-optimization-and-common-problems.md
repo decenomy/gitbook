@@ -8,7 +8,7 @@ This guide explains how to optimize staking and solve the most common problems.
 
 We open our wallet (in our case TRTT),and let's make sure staking is active.
 
-![](<../.gitbook/assets/0 (10).png>)
+![](<../../.gitbook/assets/0 (10).png>)
 
 **Staking optimization**
 
@@ -28,7 +28,7 @@ coinstake transaction will have 4 outputs (of 500 TRTT each).
 
 It is also possible to set the split value from the UI, Settings→Options→Wallet
 
-![](<../.gitbook/assets/1 (7).png>)
+![](<../../.gitbook/assets/1 (7).png>)
 
 **Example**
 
@@ -40,7 +40,7 @@ Let’s open the debug console and let's try to set the value to 500 TRTT coin t
 
 _setstakesplitthreshold 500_
 
-![](<../.gitbook/assets/2 (5).png>)
+![](<../../.gitbook/assets/2 (5).png>)
 
 Another useful command to know is **autocombinerewards**
 
@@ -54,7 +54,7 @@ Once that threshold is exceeded, the grouping begins with another input. Your wa
 
 Let’s open the debug console and let’s try to run the command.
 
-![](../.gitbook/assets/3.png)
+![](../../.gitbook/assets/3.png)
 
 If the command does not generate any error message everything went well.
 
@@ -64,7 +64,7 @@ We can check the staking status in detail with the following command
 
 _getstakingstatus_
 
-![](<../.gitbook/assets/4 (9).png>)
+![](<../../.gitbook/assets/4 (9).png>)
 
 Below is an explanation of the result of the command.
 

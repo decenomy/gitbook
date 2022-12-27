@@ -8,7 +8,7 @@ In this guide we explain the main functions to use Decenomy wallets.
 
 So let's open our Decenomy wallet (in this case the Trittium).
 
-![](<../.gitbook/assets/0 (8).png>)
+![](<../../.gitbook/assets/0 (8).png>)
 
 Now we are going to explain the following functions step by step
 
@@ -19,7 +19,7 @@ Now we are going to explain the following functions step by step
 5. Masternodes
 6. Settings
 
-![](<../.gitbook/assets/1 (2).png>)
+![](<../../.gitbook/assets/1 (2).png>)
 
 **Home**
 
@@ -31,7 +31,7 @@ In the Home section we can see
 * Immature (the coins that do not yet have enough confirmations to generate staking)
 * Pending (coins received in unconfirmed transactions)
 
-![](<../.gitbook/assets/2 (8).png>)
+![](<../../.gitbook/assets/2 (8).png>)
 
 Also in the Home we can see more information
 
@@ -45,7 +45,7 @@ Also in the Home we can see more information
 
 Through this filter we can only view the transactions that interest us.
 
-![](<../.gitbook/assets/3 (8).png>)
+![](<../../.gitbook/assets/3 (8).png>)
 
 In this other dropdown there is the following information
 
@@ -54,59 +54,59 @@ In this other dropdown there is the following information
 * Amount desc (from largest to smallest transaction)
 * Amount asc (from smallest to largest)
 
-![](<../.gitbook/assets/4 (3).png>)
+![](<../../.gitbook/assets/4 (3).png>)
 
 In the right section of the wallet Home we can see the following functions
 
 * Synchronized Block (shows us the status of the wallet synchronization)
 
-![](<../.gitbook/assets/5 (2).png>)
+![](<../../.gitbook/assets/5 (2).png>)
 
 * Staking active (shows the active status of staking)
 * Staking disabled (staking is disabled)
 
-![](<../.gitbook/assets/6 (5).png>)
+![](<../../.gitbook/assets/6 (5).png>)
 
 * trittium.conf (used to open the wallet configuration file)
 
-![](<../.gitbook/assets/7 (4).png>)
+![](<../../.gitbook/assets/7 (4).png>)
 
 * masternode.conf (used to open the masternode configuration file)
 
-![](<../.gitbook/assets/8 (1).png>)
+![](<../../.gitbook/assets/8 (1).png>)
 
 * Debug Console (to give commands to the wallet manually)
 
-![](<../.gitbook/assets/9 (7).png>)
+![](<../../.gitbook/assets/9 (7).png>)
 
 * Active connection(s) (the active connections in our wallet)
 
-![](<../.gitbook/assets/10 (2).png>)
+![](<../../.gitbook/assets/10 (2).png>)
 
 * Unlocked Wallet (used to unlock the wallet for any operation)
 * Lock Wallet (used to lock the wallet)
 * Staking Only (the wallet is unlocked only to allow staking)
 
-![](<../.gitbook/assets/11 (3).png>)
+![](<../../.gitbook/assets/11 (3).png>)
 
 * Dark Theme (used to switch from dark to light theme)
 
-![](<../.gitbook/assets/12 (1).png>)
+![](<../../.gitbook/assets/12 (1).png>)
 
 * FAQ (frequently asked questions about the wallet)
 
-![](<../.gitbook/assets/13 (1).png>)
+![](<../../.gitbook/assets/13 (1).png>)
 
 * Masternode (you can see the number of masternodes owned)
 * Next Collateral (value of the next collateral)
 * Collateral (value of current collateral)
 * In (in how many blocks will the collateral increase)
 
-![](<../.gitbook/assets/14 (2).png>)
+![](<../../.gitbook/assets/14 (2).png>)
 
 In this section we find the statistics of both staking rewards and masternodes
 
-![](../.gitbook/assets/15.png)
+![](../../.gitbook/assets/15.png)
 
 **Send**
 
@@ -116,39 +116,39 @@ In the Send section we can see.
 * Amount (to enter the amount of coins to be sent)
 * Address label (optional field, if the address is in our contact list the label will be displayed)
 
-![](<../.gitbook/assets/16 (3).png>)
+![](<../../.gitbook/assets/16 (3).png>)
 
 * Customize Fee (this option is used to customize the fee with which we send our transaction.
 
-![](../.gitbook/assets/17.png)
+![](../../.gitbook/assets/17.png)
 
 It is advisable to use this option only if you are an expert user.
 
-![](<../.gitbook/assets/18 (1).png>)
+![](<../../.gitbook/assets/18 (1).png>)
 
 * Clear all (used to clear the fields seen previously)
 
-![](<../.gitbook/assets/19 (3).png>)
+![](<../../.gitbook/assets/19 (3).png>)
 
 * Add recipient (used to add additional recipients)
 
-![](../.gitbook/assets/20.png)
+![](../../.gitbook/assets/20.png)
 
 As we can see, a field has been added where you can enter both the address and the amount of coins for a second recipient of our TRTT.
 
 On the right we find three dots where there is the possibility to add or remove this address from the contacts.
 
-![](<../.gitbook/assets/21 (1).png>)
+![](<../../.gitbook/assets/21 (1).png>)
 
 * Send (used to send the coins)
 
-![](<../.gitbook/assets/22 (1).png>)
+![](<../../.gitbook/assets/22 (1).png>)
 
 * Coin Control (used to select the inputs to spend and to block or unblock them)
 * Change Address (to select a custom change address)
 * Open URI (used to open a payment request from the web)
 
-![](<../.gitbook/assets/23 (1).png>)
+![](<../../.gitbook/assets/23 (1).png>)
 
 Coin Control
 
@@ -160,23 +160,23 @@ By clicking on the checkbox you can select or deselect the inputs that will be s
 
 Pressing OK confirms the changes made.
 
-![](../.gitbook/assets/24.png)
+![](../../.gitbook/assets/24.png)
 
 Change Address
 
 This is used to customize the address for receiving the unspent coins from a transaction sent.
 
-![](../.gitbook/assets/25.png)
+![](../../.gitbook/assets/25.png)
 
 Open URI
 
 It is used to open a payment request from the web.
 
-![](../.gitbook/assets/26.png)
+![](../../.gitbook/assets/26.png)
 
 Reset to default (is used to cancel all changes made)
 
-![](../.gitbook/assets/27.png)
+![](../../.gitbook/assets/27.png)
 
 **Receive**
 
@@ -185,12 +185,12 @@ Reset to default (is used to cancel all changes made)
 * Generate Address (used to generate a new address)
 * Copy (to copy the address)
 
-![](<../.gitbook/assets/28 (1).png>)
+![](<../../.gitbook/assets/28 (1).png>)
 
 * Create Request (used to generate a QR to request a payment)
 * My Addresses (list of our addresses)
 
-![](../.gitbook/assets/29.png)
+![](../../.gitbook/assets/29.png)
 
 Create Request
 
@@ -199,7 +199,7 @@ Create Request
 * Description (optional comment)
 * Generate (used to generate the QR code)
 
-![](../.gitbook/assets/30.png)
+![](../../.gitbook/assets/30.png)
 
 My Addresses
 
@@ -207,7 +207,7 @@ My Addresses
 * by Address (order by address)
 * by Date (order by date)
 
-![](../.gitbook/assets/31.png)
+![](../../.gitbook/assets/31.png)
 
 **Contacts**
 
@@ -215,7 +215,7 @@ My Addresses
 
 You can add a contact and save it
 
-![](../.gitbook/assets/32.png)
+![](../../.gitbook/assets/32.png)
 
 **Masternodes**
 
@@ -228,7 +228,7 @@ In the masternodes section we can check the status of our masternodes and access
 * Start All (to start all masternodes)
 * Start Inactive (to start only inactive masternodes)
 
-![](../.gitbook/assets/33.png)
+![](../../.gitbook/assets/33.png)
 
 Here are some of the masternode states
 
@@ -250,52 +250,52 @@ REMOVE Your masternode is down and removed from the network. Simply restart the 
 * Debug (access console and repair options)
 * Help (frequently asked questions)
 
-![](../.gitbook/assets/34.png)
+![](../../.gitbook/assets/34.png)
 
 Wallet Data
 
 * Wallet (from this section you can backup your wallet or change your password if encrypted)
 
-![](../.gitbook/assets/35.png)
+![](../../.gitbook/assets/35.png)
 
 Export Accounting (you can export the history of transactions or your contacts in Excel format)
 
-![](../.gitbook/assets/36.png)
+![](../../.gitbook/assets/36.png)
 
 Tools
 
 * Sign / Verify Message (from this section it is possible to sign a message to prove that you are the owner of an address, or to verify a signed message)
 
-![](../.gitbook/assets/37.png)
+![](../../.gitbook/assets/37.png)
 
 * BIP38 Tool (in this section it is possible to encrypt or decrypt a private key address pair)
 
-![](../.gitbook/assets/38.png)
+![](../../.gitbook/assets/38.png)
 
 Options
 
 * Main (generic wallet options, for example, such as automatic start when the PC is turned on
 
-![](../.gitbook/assets/39.png)
+![](../../.gitbook/assets/39.png)
 
 * Wallet (from here you can change some connectivity options or staking settings)
 
-![](../.gitbook/assets/40.png)
+![](../../.gitbook/assets/40.png)
 
 * Display (you can change the language, the amount of decimal units visible, or hide the staking graph)
 
-![](../.gitbook/assets/41.png)
+![](../../.gitbook/assets/41.png)
 
 Debug
 
 * Information (wallet information such as synchronization status, number of connections and wallet version)
 
-![](../.gitbook/assets/42.png)
+![](../../.gitbook/assets/42.png)
 
 * Console (used to access various wallet control commands)
 * Console input (here you can type the desired command)
 
-![](../.gitbook/assets/43.png)
+![](../../.gitbook/assets/43.png)
 
 Below we list some of the most frequent commands
 
@@ -317,7 +317,7 @@ Wallet Repair
 * Rebuild index (rebuilds the blockchain indexes)
 * Delete local blockchain (deletes all local blockchain files to synchronize the wallet from scratch)
 
-![](../.gitbook/assets/44.png)
+![](../../.gitbook/assets/44.png)
 
 All DECENOMY coins use the same base code (DECENOMY standard wallet).
 
