@@ -1,17 +1,29 @@
 # 🔸 Birake (BIR)
 
+## Coin Info
+
+• **GitHub**\
+[<mark style="color:blue;">https://github.com/decenomy/BIR</mark>](https://github.com/decenomy/BIR)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">https://github.com/decenomy/BIR/releases/latest</mark>](https://github.com/decenomy/BIR/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/BIR/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/BIR/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/BIR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/BIR/tree/master/contrib/masternodesetup)\
+• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/BIR</mark>](https://explorer.decenomy.net/BIR)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">https://bir.flitswallet.app/</mark>](https://bir.flitswallet.app/)<mark style="color:blue;"></mark>
+
+
+
 ## Coin Specs
 
-• PoW Algorithm: Quark/DSHA256\
-• Premine: 6,000,000 BIR\
-• PoW Blocks: 1 - 750\
-• PoS Blocks: Starting from 751\
-• Block Time: 60 Seconds\
-• Maturity: 50/100 Confirmations\
-• Prefix: BIR adresses start with the capital letter "K"\
-• Ports: 39697 (p2p) / 39698 (rpc)\
-• Explorer [https://explorer.decenomy.net/BIR/blocks](https://explorer.decenomy.net/BIR/blocks)\
-• Website [https://birake.com/](https://birake.com/)
+• **PoW Algorithm:** Quark/DSHA256\
+• **Premine:** 6,000,000 BIR\
+• **PoW Blocks:** 1 - 750\
+• **PoS Blocks:** Starting from 751\
+• **Block Time:** 60 Seconds\
+• **Maturity:** 50/100 Confirmations\
+• **Prefix:** BIR adresses start with the capital letter "K"\
+• **Ports:** 39697 (p2p) / 39698 (rpc)\
+
 
 ## Rewards Breakdown
 

@@ -1,16 +1,27 @@
 # 🔸 Beacon (BECN)
 
+## Coin Info
+
+• **GitHub**\
+[<mark style="color:blue;">https://github.com/decenomy/BECN</mark>](https://github.com/decenomy/BECN)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">https://github.com/decenomy/BECN/releases/latest</mark>](https://github.com/decenomy/BECN/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/BECN/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/BECN/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/BECN/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/BECN/tree/master/contrib/masternodesetup)\
+• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/</mark>](https://explorer.decenomy.net/BECN)<mark style="color:blue;">BECN</mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">https://becn.flitswallet.app/</mark>](https://becn.flitswallet.app/)
+
 ## Coin Specs
 
-• PoW Algorithm: X11KVS\
-• Premine: 1,700,000 BECN • PoW Blocks: 1 - 1000\
-• PoS Blocks: Starting from 1001\
-• Block Time: 60 Seconds\
-• Maturity: 100 Confirmations\
-• Prefix: BECN adresses start with the lower case letter "b"\
-• Ports: 36552 (p2p) / 36553 (rpc) \
-• Explorer [https://explorer.decenomy.net/BECN/blocks](https://explorer.decenomy.net/BECN/blocks) \
-• Website [beaconcoin.net](https://beaconcoin.net/)
+• **PoW Algorithm:** X11KVS\
+• **Premine:** 1,700,000 BECN \
+• **PoW Blocks:** 1 - 1000\
+• **PoS Blocks:** Starting from 1001\
+• **Block Time:** 60 Seconds\
+• **Maturity:** 100 Confirmations\
+• **Prefix:** BECN adresses start with the lower case letter "b"\
+• **Ports:** 36552 (p2p) / 36553 (rpc) \
+
 
 ## Rewards Breakdown
 
