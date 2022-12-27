@@ -1,6 +1,6 @@
 # 🗃 Coins
 
-* [Azzure (AZR)](azzure-azr.md)
+* [Azzure (AZR)](aezora-azr.md)
 * [Beacon (BECN)](beacon-becn.md)
 * [Birake (BIR)](birake-bir.md)
 * [Cryptoflow (CFL)](cryptoflow-cfl.md)
