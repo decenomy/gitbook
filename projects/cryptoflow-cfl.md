@@ -1,5 +1,18 @@
 # 🔸 Cryptoflow (CFL)
 
+## Coin Info
+
+• **GitHub**\
+[<mark style="color:blue;">https://github.com/decenomy/CFL</mark>](https://github.com/decenomy/CFL)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">https://github.com/decenomy/CFL/releases/latest</mark>](https://github.com/decenomy/CFL/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/CFL/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/CFL/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/CFL/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/CFL/tree/master/contrib/masternodesetup)\
+• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/CFL</mark>](https://explorer.decenomy.net/CFL)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">https://cfl.flitswallet.app/</mark>](https://cfl.flitswallet.app/)<mark style="color:blue;"></mark>
+
+<mark style="color:blue;"></mark>
+
 ## Coin Specs
 
 • PoW Algorithm: Quark\
@@ -11,8 +24,7 @@
 • Maturity: 100 Confirmations\
 • Prefix: CFL adresses start with the letter "c"\
 • Ports: 13333 (p2p) / 13334 (rpc)\
-• Explorer [https://explorer.decenomy.net/CFL/blocks](https://explorer.decenomy.net/CFL/blocks)\
-• Website [cryptoflow.eu](https://cryptoflow.eu/)
+
 
 ## Rewards Breakdown
 
