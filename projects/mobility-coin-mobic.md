@@ -9,7 +9,7 @@
 [<mark style="color:blue;">https://github.com/decenomy/MOBIC/tree/master/contrib%2Fmasternodesetup</mark>](https://github.com/decenomy/MOBIC/tree/master/contrib%2Fmasternodesetup)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/MOBIC/blocks</mark>](https://explorer.decenomy.net/MOBIC/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://explorer.trittium.cc/MOBIC/blocks</mark>](https://explorer.trittium.cc/MOBIC/blocks)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://mobic.flitswallet.app/</mark>](https://mobic.flitswallet.app/)<mark style="color:blue;"></mark>
 
 ## Coin Specs
 
@@ -21,8 +21,8 @@
 * Maturity: 100 Confirmations
 * Prefix: MOBIC adresses start with the capital letter "M"
 * Ports: 22487 (p2p) / 22488 (rpc)
-* Explorer [https://explorer.decenomy.net/MOBIC/blocks](https://explorer.decenomy.net/MOBIC/blocks)
-* Website [https://modic.fund/](https://modic.fund/)
+
+
 
 ***
 

@@ -1,5 +1,16 @@
 # 🔸 Dash Diamond (DASHD)
 
+## Coin Info
+
+• **GitHub**\
+[<mark style="color:blue;">https://github.com/decenomy/DASHD</mark>](https://github.com/decenomy/DASHD)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">https://github.com/decenomy/DASHD/releases/latest</mark>](https://github.com/decenomy/DASHD/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/DASHD/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/DASHD/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/DASHD/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/DASHD/tree/master/contrib/masternodesetup)\
+• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/DASHD/blocks</mark>](https://explorer.decenomy.net/DASHD/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">https://dashd.flitswallet.app/</mark>](https://dashd.flitswallet.app/)<mark style="color:blue;"></mark>
+
 ## Coin Specs
 
 • PoW Algorithm: Quark\
@@ -11,8 +22,7 @@
 • Maturity: 15 Confirmations\
 • Prefix: DASHD adresses start with the capital letter "D"\
 • Ports: 12341 (p2p) / 23452 (rpc)\
-• Explorer [https://explorer.decenomy.net/DASHD/blocks](https://explorer.decenomy.net/DASHD/blocks)\
-• Website [dashdiamond.net](https://dashdiamond.net/)
+
 
 ## Rewards Breakdown
 

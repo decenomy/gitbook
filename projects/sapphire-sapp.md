@@ -9,7 +9,7 @@
 [<mark style="color:blue;">https://github.com/decenomy/SAPP/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/SAPP/tree/master/contrib/masternodesetup)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/SAPP/blocks</mark>](https://explorer.decenomy.net/SAPP/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://explorer.trittium.cc/SAPP/blocks</mark>](https://explorer.trittium.cc/SAPP/blocks)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://sapp.flitswallet.app/</mark>](https://sapp.flitswallet.app/)<mark style="color:blue;"></mark>
 
 ## Coin Specs
 
@@ -21,8 +21,7 @@
 • Maturity: 100 Confirmations\
 • Prefix: SAPP addresses start with the capital letter "S"\
 • Ports: 45328 (p2p) / 45329 (rpc)\
-• Explorer [https://explorer.decenomy.net/SAPP/blocks](https://explorer.decenomy.net/SAPP/blocks)\
-• Website [https://sappcoin.com/](https://sappcoin.com/)
+
 
 ## Rewards Breakdown
 

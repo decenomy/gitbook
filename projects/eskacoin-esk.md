@@ -9,7 +9,7 @@
 [<mark style="color:blue;">https://github.com/decenomy/ESK/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/ESK/tree/master/contrib/masternodesetup)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/ESK/blocks</mark>](https://explorer.decenomy.net/ESK/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://explorer.trittium.cc/ESK/blocks</mark>](https://explorer.trittium.cc/ESK/blocks)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://esk.flitswallet.app/</mark>](https://esk.flitswallet.app/)<mark style="color:blue;"></mark>
 
 ## Coin Specs
 
@@ -20,8 +20,7 @@
 • Maturity: 100 Confirmations\
 • Prefix: ESK adresses start with the capital letter "E"\
 • Ports: 14215 (p2p) / 14214 (rpc)\
-• Explorer [https://explorer.decenomy.net/ESK/blocks](https://explorer.decenomy.net/ESK/blocks)\
-• Website [eskacoin.com](https://eskacoin.com)
+
 
 ## Rewards Breakdown
 

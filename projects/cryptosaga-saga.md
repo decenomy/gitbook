@@ -9,7 +9,7 @@
 [<mark style="color:blue;">https://github.com/decenomy/SAGA/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/SAGA/tree/master/contrib/masternodesetup)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/SAGA/blocks</mark>](https://explorer.decenomy.net/SAGA/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://explorer.trittium.cc/SAGA/blocks</mark>](https://explorer.trittium.cc/SAGA/blocks)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://saga.flitswallet.app/</mark>](https://saga.flitswallet.app/)<mark style="color:blue;"></mark>
 
 ## Coin Specs
 
@@ -21,8 +21,7 @@
 • Maturity: 100 Confirmations\
 • Prefix: SAGA adresses start with the lowercase letter "s"\
 • Ports: 37552 (p2p) / 37553 (rpc)\
-• Explorer: [https://explorer.decenomy.net/SAGA/blocks](https://explorer.decenomy.net/SAGA/blocks)\
-• Website: new site in progress
+
 
 ## Rewards Breakdown
 

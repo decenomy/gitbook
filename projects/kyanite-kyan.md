@@ -9,7 +9,7 @@
 [<mark style="color:blue;">https://github.com/decenomy/KYAN/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/KYAN/tree/master/contrib/masternodesetup)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/KYAN/blocks</mark>](https://explorer.decenomy.net/KYAN/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://explorer.trittium.cc/KYAN/blocks</mark>](https://explorer.trittium.cc/KYAN/blocks)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://kyan.flitswallet.app/</mark>](https://kyan.flitswallet.app/)<mark style="color:blue;"></mark>
 
 ## Coin Specs
 
@@ -21,8 +21,7 @@
 • Maturity: 100 Confirmations\
 • Prefix: Kyanite addresses start with the capital letter "K"\
 • Ports: 7757 (p2p) / 7758 (rpc)\
-• Explorer [https://explorer.decenomy.net/KYAN/blocks](https://explorer.decenomy.net/KYAN/blocks)\
-• Website [kyancoin.net](https://kyancoin.net/)
+
 
 ## Rewards Breakdown
 

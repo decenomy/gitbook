@@ -9,7 +9,7 @@
 [<mark style="color:blue;">https://github.com/decenomy/UCR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/UCR/tree/master/contrib/masternodesetup)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/UCR/blocks</mark>](https://explorer.decenomy.net/UCR/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://explorer.trittium.cc/UCR/blocks</mark>](https://explorer.trittium.cc/UCR/blocks)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://ucr.flitswallet.app/</mark>](https://ucr.flitswallet.app/)<mark style="color:blue;"></mark>
 
 ## Coin Specs
 
@@ -20,9 +20,7 @@
 • Block Time: 60 Seconds\
 • Maturity: 100 Confirmations\
 • Prefix: UCR adresses start with the capital letter "C"\
-• Ports: 32628 (p2p) / 32627 (rpc)\
-• Explorer [https://explorer.decenomy.net/UCR/blocks](https://explorer.decenomy.net/UCR/blocks)\
-• Website [ucrcoin.net/](https://ucrcoin.net/)
+• Ports: 32628 (p2p) / 32627 (rpc)
 
 ## Rewards Breakdown
 

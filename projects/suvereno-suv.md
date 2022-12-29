@@ -9,7 +9,7 @@
 [<mark style="color:blue;">https://github.com/decenomy/SUV/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/SUV/tree/master/contrib/masternodesetup)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/SUV/blocks</mark>](https://explorer.decenomy.net/SUV/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://explorer.trittium.cc/SUV/blocks</mark>](https://explorer.trittium.cc/SUV/blocks)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://suv.flitswallet.app/</mark>](https://suv.flitswallet.app/)<mark style="color:blue;"></mark>
 
 ## Coin Specs
 
@@ -20,8 +20,7 @@
 • Maturity: 120 Confirmations, 600 after block 2012401\
 • Prefix: SUV adresses start with the capital letter "S"\
 • Ports: 18976 (p2p) / 18977 (rpc)\
-• Explorer [https://explorer.decenomy.net/SUV/overview](https://explorer.decenomy.net/SUV/overview)\
-• Website [suvcoin.net](https://suvcoin.net)
+
 
 ## Rewards Breakdown
 

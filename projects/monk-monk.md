@@ -9,7 +9,7 @@
 [<mark style="color:blue;">https://github.com/decenomy/MONK/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/MONK/tree/master/contrib/masternodesetup)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/MONK/blocks</mark>](https://explorer.decenomy.net/MONK/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://explorer.trittium.cc/MONK/blocks</mark>](https://explorer.trittium.cc/MONK/blocks)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://monk.flitswallet.app/</mark>](https://monk.flitswallet.app/)<mark style="color:blue;"></mark>
 
 ## Coin Specs
 
@@ -21,8 +21,7 @@
 • Maturity: 100 Confirmations\
 • Prefix: Monk addresses start with the capital letter "M"\
 • Ports: 32270 (p2p) / 32271 (rpc)\
-• Explorer: [https://explorer.decenomy.net/MONK/blocks](https://explorer.decenomy.net/MONK/blocks)\
-• Website: [monkcoin.net](https://monkcoin.net)
+
 
 ## Rewards Breakdown
 

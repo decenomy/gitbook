@@ -9,7 +9,7 @@
 [<mark style="color:blue;">https://github.com/decenomy/PNY/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/PNY/tree/master/contrib/masternodesetup)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/PNY/blocks</mark>](https://explorer.decenomy.net/PNY/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://explorer.trittium.cc/PNY/blocks</mark>](https://explorer.trittium.cc/PNY/blocks)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://pny.flitswallet.app/</mark>](https://pny.flitswallet.app/)<mark style="color:blue;"></mark>
 
 ## Coin Specs
 
@@ -23,8 +23,8 @@
 * Maturity: 100 Confirmations
 * Prefix: PNY addresses start with the capital letter "P"
 * Ports: 36779 (p2p) / 36780 (rpc)
-* Explorer [explorer.decenomy.net](https://explorer.decenomy.net/PNY/blocks)
-* Website [peony.net](https://peony.net/)
+
+
 
 ## Rewards Breakdown
 

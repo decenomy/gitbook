@@ -9,7 +9,7 @@
 [<mark style="color:blue;">https://github.com/decenomy/OWO/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/OWO/tree/master/contrib/masternodesetup)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/OWO/blocks</mark>](https://explorer.decenomy.net/OWO/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://explorer.trittium.cc/OWO/blocks</mark>](https://explorer.trittium.cc/OWO/blocks)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://owo.flitswallet.app/</mark>](https://owo.flitswallet.app/)<mark style="color:blue;"></mark>
 
 ## Coin Specs
 
@@ -21,8 +21,7 @@
 • Maturity: 100 Confirmations\
 • Prefix: OWO adresses start with the lower case letter "o"\
 • Ports: 32112 (p2p) / 32113 (rpc)\
-• Explorer [https://explorer.decenomy.net/OWO/blocks](https://explorer.decenomy.net/OWO/blocks)\
-• Website [https://owocoin.net/](https://owocoin.net/)
+
 
 ## Rewards Breakdown
 

@@ -9,7 +9,7 @@
 [<mark style="color:blue;">https://github.com/decenomy/777/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/777/tree/master/contrib/masternodesetup)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/777/blocks</mark>](https://explorer.decenomy.net/777/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://explorer.trittium.cc/777/blocks</mark>](https://explorer.trittium.cc/777/blocks)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://777.flitswallet.app/</mark>](https://777.flitswallet.app/)<mark style="color:blue;"></mark>
 
 ## Coin Specs
 
@@ -21,8 +21,7 @@
 • Maturity: 100 Confirmations\
 • Prefix: 777 adresses start with "7"\
 • Ports: 17771 (p2p) / 27772 (rpc)\
-• Explorer [https://explorer.decenomy.net/777/blocks](https://explorer.decenomy.net/777/blocks)\
-• Website [https://777coin.win/](https://777coin.win/)
+
 
 ## Rewards Breakdown
 
