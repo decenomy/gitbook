@@ -1,5 +1,16 @@
 # 🔸 Suvereno (SUV)
 
+## Coin Info
+
+• **GitHub**\
+[<mark style="color:blue;">https://github.com/decenomy/SUV</mark>](https://github.com/decenomy/SUV)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">https://github.com/decenomy/SUV/releases/latest</mark>](https://github.com/decenomy/SUV/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/SUV/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/SUV/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/SUV/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/SUV/tree/master/contrib/masternodesetup)\
+• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/SUV/blocks</mark>](https://explorer.decenomy.net/SUV/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">https://explorer.trittium.cc/SUV/blocks</mark>](https://explorer.trittium.cc/SUV/blocks)<mark style="color:blue;"></mark>
+
 ## Coin Specs
 
 • PoW Algorithm: Quark\
