@@ -1,5 +1,16 @@
 # 🔸 Eskacoin (ESK)
 
+## Coin Info
+
+• **GitHub**\
+[<mark style="color:blue;">https://github.com/decenomy/ESK</mark>](https://github.com/decenomy/ESK)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">https://github.com/decenomy/ESK/releases/latest</mark>](https://github.com/decenomy/ESK/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/ESK/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/ESK/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/ESK/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/ESK/tree/master/contrib/masternodesetup)\
+• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/ESK/blocks</mark>](https://explorer.decenomy.net/ESK/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">https://explorer.trittium.cc/ESK/blocks</mark>](https://explorer.trittium.cc/ESK/blocks)<mark style="color:blue;"></mark>
+
 ## Coin Specs
 
 • PoW Algorithm: Quark\
