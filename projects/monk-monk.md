@@ -1,5 +1,16 @@
 # 🔸 Monk (MONK)
 
+## Coin Info
+
+• **GitHub**\
+[<mark style="color:blue;">https://github.com/decenomy/MONK</mark>](https://github.com/decenomy/MONK)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">https://github.com/decenomy/MONK/releases/latest</mark>](https://github.com/decenomy/MONK/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/MONK/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/MONK/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/MONK/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/MONK/tree/master/contrib/masternodesetup)\
+• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/MONK/blocks</mark>](https://explorer.decenomy.net/MONK/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">https://explorer.trittium.cc/MONK/blocks</mark>](https://explorer.trittium.cc/MONK/blocks)<mark style="color:blue;"></mark>
+
 ## Coin Specs
 
 • PoW Algorithm: X11KVS\
