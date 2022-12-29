@@ -1,5 +1,16 @@
 # 🔸 Jackpot (777)
 
+## Coin Info
+
+• **GitHub**\
+[<mark style="color:blue;">https://github.com/decenomy/777</mark>](https://github.com/decenomy/777)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">https://github.com/decenomy/777/releases/latest</mark>](https://github.com/decenomy/777/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/777/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/777/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/777/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/777/tree/master/contrib/masternodesetup)\
+• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/777/blocks</mark>](https://explorer.decenomy.net/777/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">https://explorer.trittium.cc/777/blocks</mark>](https://explorer.trittium.cc/777/blocks)<mark style="color:blue;"></mark>
+
 ## Coin Specs
 
 • PoW Algorithm: Xevan\
