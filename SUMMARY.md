@@ -30,6 +30,7 @@
   * [🔸 Cryptosaga (SAGA)](projects/cryptosaga-saga.md)
   * [🔸 Dash Diamond (DASHD)](projects/dash-diamond-dashd.md)
   * [🔸 Eskacoin (ESK)](projects/eskacoin-esk.md)
+  * [🔸 Flits (FLS)](coins/flits-fls.md)
   * [🔸 Jackpot (777)](projects/jackpot-777.md)
   * [🔸 Kyanite (KYAN)](projects/kyanite-kyan.md)
   * [🔸 Mobility Coin (MOBIC)](projects/mobility-coin-mobic.md)
