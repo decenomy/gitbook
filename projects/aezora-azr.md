@@ -5,11 +5,38 @@
 • **GitHub**\
 [<mark style="color:blue;">https://github.com/decenomy/AZR</mark>](https://github.com/decenomy/AZR)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
 [<mark style="color:blue;">https://github.com/decenomy/AZR/releases/latest</mark>](https://github.com/decenomy/AZR/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/AZR/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/AZR/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)\
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/AZR/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/AZR/bootstrap.zip)\
 • **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/AZR</mark>](https://explorer.decenomy.net/AZR/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
 [<mark style="color:blue;">https://azr.flitswallet.app/</mark>](https://azr.flitswallet.app/)
+
+## Tutorials
+
+**• Wallet Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
+**• Masternode Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)
+
+## Social
+
+**• Twitter**\
+****[<mark style="color:blue;">**https://twitter.com/azzure\_coin**</mark>](https://twitter.com/azzure\_coin)****\
+**• Discord**\
+****[<mark style="color:blue;">**https://discord.gg/HhzHDcn**</mark>](https://discord.gg/HhzHDcn)****\
+**• Telegram Channel**\
+****[<mark style="color:blue;">**https://t.me/azzure\_announcements**</mark>](https://t.me/azzure\_announcements)****\
+**• Telegram Group**\
+****[<mark style="color:blue;">**https://t.me/azzurecoin**</mark>](https://t.me/azzurecoin)<mark style="color:blue;">****</mark>
+
+## Price, Stacking and Masternodes Statistic
+
+**• Coingecko**\
+****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/azzure**</mark>](https://www.coingecko.com/en/coins/azzure)****\
+**• Vaultwatch**\
+****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=azr**</mark>](https://vaultwatch.eu/detail.php?coin=azr)****\
+**• Masternode Online**\
+****[<mark style="color:blue;">**https://masternodes.online/currencies/AZR**</mark>](https://masternodes.online/currencies/AZR)<mark style="color:blue;">****</mark>
 
 ## Coin Specs
 
@@ -20,12 +47,9 @@
 • **Block Time**: 60 Seconds\
 • **Maturity:** 100 Confirmations\
 • **Prefix:** AZR addresses start with the capital letter "A"\
-• **Ports:** 14725 (p2p) / 14724 (rpc)\
-
+• **Ports:** 14725 (p2p) / 14724 (rpc)
 
 ## Rewards Breakdown
-
-***
 
 | Block     | Collateral | Block Reward  | MN Reward % | Staking Reward % | MN Reward | Staker Reward | Notes             |
 | --------- | ---------- | ------------- | ----------- | ---------------- | --------- | ------------- | ----------------- |
