@@ -11,7 +11,33 @@
 [<mark style="color:blue;">https://explorer.decenomy.net/CFL</mark>](https://explorer.decenomy.net/CFL)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
 [<mark style="color:blue;">https://cfl.flitswallet.app/</mark>](https://cfl.flitswallet.app/)<mark style="color:blue;"></mark>
 
-<mark style="color:blue;"></mark>
+## Tutorials
+
+**• Wallet Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
+**• Masternode Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)
+
+## Social
+
+**• Twitter**\
+****[<mark style="color:blue;">**https://twitter.com/CryptoFlowCFL**</mark>](https://twitter.com/CryptoFlowCFL)****\
+**• Discord**\
+****[<mark style="color:blue;">**https://discord.gg/CqMAXXBWFj**</mark>](https://discord.gg/CqMAXXBWFj)****\
+**• Telegram Channel**\
+****[<mark style="color:blue;">**https://t.me/cryptoflow\_announcements**</mark>](https://t.me/cryptoflow\_announcements)****\
+**• Telegram Group**\
+****[<mark style="color:blue;">**https://t.me/cryptoflowcfl**</mark>](https://t.me/cryptoflowcfl)<mark style="color:blue;">****</mark>
+
+## Price, Stacking and Masternodes Statistic
+
+**• CoinMarketCap**                                         [<mark style="color:blue;">**https://coinmarketcap.com/currencies/cryptoflow**</mark>](https://coinmarketcap.com/currencies/cryptoflow)                                                                                **• Coingecko**\
+****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/cryptoflow**</mark>](https://www.coingecko.com/en/coins/cryptoflow)****\
+**• Vaultwatch**\
+****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=cfl**</mark>](https://vaultwatch.eu/detail.php?coin=cfl)****\
+**• Masternode Online**\
+****[<mark style="color:blue;">**https://masternodes.online/currencies/CFL**</mark>](https://masternodes.online/currencies/CFL)<mark style="color:blue;">****</mark>
 
 ## Coin Specs
 

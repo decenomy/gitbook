@@ -11,6 +11,34 @@
 [<mark style="color:blue;">https://explorer.decenomy.net/777/blocks</mark>](https://explorer.decenomy.net/777/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
 [<mark style="color:blue;">https://777.flitswallet.app/</mark>](https://777.flitswallet.app/)<mark style="color:blue;"></mark>
 
+## Tutorials
+
+**• Wallet Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
+**• Masternode Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)
+
+## Social
+
+**• Twitter**\
+****[<mark style="color:blue;">**https://twitter.com/777coinwin**</mark>](https://twitter.com/777coinwin)****\
+**• Discord**\
+****[<mark style="color:blue;">**https://discord.gg/HNyRevT**</mark>](https://discord.gg/HNyRevT)****\
+**• Telegram Channel**\
+****[<mark style="color:blue;">**https://t.me/jackpot\_announcements**</mark>](https://t.me/jackpot\_announcements)****\
+**• Telegram Group**\
+****[<mark style="color:blue;">**https://t.me/seven\_seven\_seven**</mark>](https://t.me/seven\_seven\_seven)<mark style="color:blue;">****</mark>
+
+## Price, Stacking and Masternodes Statistic
+
+**• CoinMarketCap**                                         [<mark style="color:blue;">**https://coinmarketcap.com/currencies/jackpot**</mark>](https://coinmarketcap.com/currencies/jackpot)                                                                                **• Coingecko**\
+****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/jackpot**</mark>](https://www.coingecko.com/en/coins/jackpot)****\
+**• Vaultwatch**\
+****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=777**</mark>](https://vaultwatch.eu/detail.php?coin=777)****\
+**• Masternode Online**\
+****[<mark style="color:blue;">**https://masternodes.online/currencies/777**</mark>](https://masternodes.online/currencies/777)<mark style="color:blue;">****</mark>
+
 ## Coin Specs
 
 • PoW Algorithm: Xevan\

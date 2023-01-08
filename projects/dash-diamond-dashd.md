@@ -11,6 +11,34 @@
 [<mark style="color:blue;">https://explorer.decenomy.net/DASHD/blocks</mark>](https://explorer.decenomy.net/DASHD/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
 [<mark style="color:blue;">https://dashd.flitswallet.app/</mark>](https://dashd.flitswallet.app/)<mark style="color:blue;"></mark>
 
+## Tutorials
+
+**• Wallet Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
+**• Masternode Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)
+
+## Social
+
+**• Twitter**\
+****[<mark style="color:blue;">**https://twitter.com/dashdiamond7**</mark>](https://twitter.com/dashdiamond7)****\
+**• Discord**\
+****[<mark style="color:blue;">**https://discordapp.com/invite/JWkvmNyNgc**</mark>](https://discordapp.com/invite/JWkvmNyNgc)****\
+**• Telegram Channel**\
+****[<mark style="color:blue;">**https://t.me/dashdiamond\_announcements**</mark>](https://t.me/dashdiamond\_announcements)****\
+**• Telegram Group**\
+****[<mark style="color:blue;">**https://t.me/dashdiamond**</mark>](https://t.me/dashdiamond)<mark style="color:blue;">****</mark>
+
+## Price, Stacking and Masternodes Statistic
+
+**• CoinMarketCap**                                         [<mark style="color:blue;">**https://coinmarketcap.com/currencies/dash-diamond**</mark>](https://coinmarketcap.com/currencies/dash-diamond)                                                                                **• Coingecko**\
+****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/dash-diamond**</mark>](https://www.coingecko.com/en/coins/dash-diamond)****\
+**• Vaultwatch**\
+****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=dashd**</mark>](https://vaultwatch.eu/detail.php?coin=dashd)****\
+**• Masternode Online**\
+****[<mark style="color:blue;">**https://masternodes.online/currencies/DASHD**</mark>](https://masternodes.online/currencies/DASHD)<mark style="color:blue;">****</mark>
+
 ## Coin Specs
 
 • PoW Algorithm: Quark\

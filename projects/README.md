@@ -7,6 +7,7 @@
 * [Cryptosaga (SAGA)](cryptosaga-saga.md)
 * [Dash Diamond (DASHD)](dash-diamond-dashd.md)
 * [Eskacoin (ESK)](eskacoin-esk.md)
+* [Flits (FLS) ](../coins/flits-fls.md)
 * [Jackpot (777)](jackpot-777.md)
 * [Kyanite (KYAN)](kyanite-kyan.md)
 * [Mobility Coin (MOBIC)](mobility-coin-mobic.md)

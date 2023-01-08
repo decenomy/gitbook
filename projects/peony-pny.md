@@ -11,6 +11,34 @@
 [<mark style="color:blue;">https://explorer.decenomy.net/PNY/blocks</mark>](https://explorer.decenomy.net/PNY/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
 [<mark style="color:blue;">https://pny.flitswallet.app/</mark>](https://pny.flitswallet.app/)<mark style="color:blue;"></mark>
 
+## Tutorials
+
+**• Wallet Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
+**• Masternode Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)
+
+## Social
+
+**• Twitter**\
+****[<mark style="color:blue;">**https://twitter.com/PeonyCoin**</mark>](https://twitter.com/PeonyCoin)****\
+**• Discord**\
+****[<mark style="color:blue;">**https://discord.gg/nyTnAHtBX9**</mark>](https://discord.gg/nyTnAHtBX9)****\
+**• Telegram Channel**\
+****[<mark style="color:blue;">**https://t.me/peony\_announcements**</mark>](https://t.me/peony\_announcements)****\
+**• Telegram Group**\
+****[<mark style="color:blue;">**https://t.me/Peony\_Coin\_Official**</mark>](https://t.me/Peony\_Coin\_Official)<mark style="color:blue;">****</mark>
+
+## Price, Stacking and Masternodes Statistic
+
+**• CoinMarketCap**                                         [<mark style="color:blue;">**https://coinmarketcap.com/currencies/peony**</mark>](https://coinmarketcap.com/currencies/peony)                                                                                **• Coingecko**\
+****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/peony-coin**</mark>](https://coinmarketcap.com/currencies/peony)****\
+**• Vaultwatch**\
+****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=pny**</mark>](https://vaultwatch.eu/detail.php?coin=pny)****\
+**• Masternode Online**\
+****[<mark style="color:blue;">**https://masternodes.online/currencies/PNY**</mark>](https://masternodes.online/currencies/PNY)<mark style="color:blue;">****</mark>
+
 ## Coin Specs
 
 * PoW Algorithm: X11KVS

@@ -11,7 +11,40 @@
 [<mark style="color:blue;">https://explorer.decenomy.net/BIR</mark>](https://explorer.decenomy.net/BIR)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
 [<mark style="color:blue;">https://bir.flitswallet.app/</mark>](https://bir.flitswallet.app/)<mark style="color:blue;"></mark>
 
+## Tutorials
 
+**• Wallet Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
+**• Masternode Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)
+
+## Social
+
+**• Twitter**\
+****[<mark style="color:blue;">**https://twitter.com/birakecom**</mark>](https://twitter.com/birakecom)****\
+**• Discord**\
+****[<mark style="color:blue;">**https://discord.com/invite/Y7ejHGXKJk**</mark>](https://discord.com/invite/Y7ejHGXKJk)****\
+**• Telegram Group**\
+****[<mark style="color:blue;">**https://t.me/birakecom**</mark>](https://t.me/birakecom)****\
+**• Facebook**\
+****[<mark style="color:blue;">**https://facebook.com/birakecom**</mark>](https://facebook.com/birakecom)                                                                   <mark style="color:blue;">****</mark>**                                                                   • Reddit**\
+****[<mark style="color:blue;">**https://www.reddit.com/r/birakecom**</mark>](https://www.reddit.com/r/birakecom)****\
+**• Linkedin**\
+****[<mark style="color:blue;">**https://www.linkedin.com/company/birake-com**</mark>](https://www.linkedin.com/company/birake-com)****\
+**• Medium**\
+****[<mark style="color:blue;">**https://medium.com/@birakecom**</mark>](https://medium.com/@birakecom)****\
+**• Youtube**\
+****[<mark style="color:blue;">**https://www.youtube.com/channel/UCrzqRMuZvEClS2BtBBCcd-A**</mark>](https://www.youtube.com/channel/UCrzqRMuZvEClS2BtBBCcd-A)<mark style="color:blue;">****</mark>
+
+## Price, Stacking and Masternodes Statistic
+
+**• CoinMarketCap**                                         [<mark style="color:blue;">**https://coinmarketcap.com/currencies/birake**</mark>](https://coinmarketcap.com/currencies/birake)                                                                                 **• Coingecko**\
+****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/birake**</mark>](https://www.coingecko.com/en/coins/birake)****\
+**• Vaultwatch**\
+****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=bir**</mark>](https://vaultwatch.eu/detail.php?coin=bir)****\
+**• Masternode Online**\
+****[<mark style="color:blue;">**https://masternodes.online/currencies/BIR**</mark>](https://masternodes.online/currencies/BIR)<mark style="color:blue;">****</mark>
 
 ## Coin Specs
 

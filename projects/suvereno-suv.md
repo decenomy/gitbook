@@ -11,6 +11,34 @@
 [<mark style="color:blue;">https://explorer.decenomy.net/SUV/blocks</mark>](https://explorer.decenomy.net/SUV/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
 [<mark style="color:blue;">https://suv.flitswallet.app/</mark>](https://suv.flitswallet.app/)<mark style="color:blue;"></mark>
 
+## Tutorials
+
+**• Wallet Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
+**• Masternode Guide**\
+[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)
+
+## Social
+
+**• Twitter**\
+****[<mark style="color:blue;">**https://twitter.com/Suvereno2**</mark> ](https://twitter.com/Suvereno2)****\
+**• Discord**\
+****[<mark style="color:blue;">**https://discord.com/invite/EkvAevxvc8**</mark>](https://discord.com/invite/EkvAevxvc8)****\
+**• Telegram Channel**\
+****[<mark style="color:blue;">**https://t.me/suvereno\_announcements**</mark>](https://t.me/suvereno\_announcements)****\
+**• Telegram Group**\
+****[<mark style="color:blue;">**https://t.me/suvereno**</mark>](https://t.me/suvereno)<mark style="color:blue;">****</mark>
+
+## Price, Stacking and Masternodes Statistic
+
+**• CoinMarketCap**                                         [<mark style="color:blue;">**https://coinmarketcap.com/currencies/soverain**</mark>** ** ](https://coinmarketcap.com/currencies/soverain)                                                                               **• Coingecko**\
+****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/suvereno**</mark>](https://coinmarketcap.com/currencies/soverain)****\
+**• Vaultwatch**\
+****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=suv**</mark>](https://vaultwatch.eu/detail.php?coin=suv)****\
+**• Masternode Online**\
+****[<mark style="color:blue;">**https://masternodes.online/currencies/SUV**</mark>](https://masternodes.online/currencies/SUV)<mark style="color:blue;">****</mark>
+
 ## Coin Specs
 
 • PoW Algorithm: Quark\
