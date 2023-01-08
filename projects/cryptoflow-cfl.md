@@ -3,19 +3,19 @@
 ## Coin Info
 
 • **GitHub**\
-[<mark style="color:blue;">https://github.com/decenomy/CFL</mark>](https://github.com/decenomy/CFL)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
-[<mark style="color:blue;">https://github.com/decenomy/CFL/releases/latest</mark>](https://github.com/decenomy/CFL/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/CFL/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/CFL/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
-[<mark style="color:blue;">https://explorer.decenomy.net/CFL</mark>](https://explorer.decenomy.net/CFL)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://cfl.flitswallet.app/</mark>](https://cfl.flitswallet.app/)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">**https://github.com/decenomy/CFL**</mark>](https://github.com/decenomy/CFL)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">**https://github.com/decenomy/CFL/releases/latest**</mark>](https://github.com/decenomy/CFL/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/CFL/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/CFL/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
+[<mark style="color:blue;">**https://explorer.decenomy.net/CFL**</mark>](https://explorer.decenomy.net/CFL)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">**https://cfl.flitswallet.app/**</mark>](https://cfl.flitswallet.app/)<mark style="color:blue;">****</mark>
 
 ## Tutorials
 
 **• Wallet Guide**\
-[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">https://github.com/decenomy/CFL/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/CFL/tree/master/contrib/masternodesetup)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">**https://github.com/decenomy/CFL/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/CFL/tree/master/contrib/masternodesetup)<mark style="color:blue;">****</mark>
 
 ## Social
 
@@ -28,7 +28,7 @@
 **• Telegram Group**\
 ****[<mark style="color:blue;">**https://t.me/cryptoflowcfl**</mark>](https://t.me/cryptoflowcfl)<mark style="color:blue;">****</mark>
 
-## Price, Stacking and Masternodes Statistic
+## Price, Staking and Masternodes Statistic
 
 **• Coingecko**\
 ****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/cryptoflow**</mark>](https://www.coingecko.com/en/coins/cryptoflow)****\
@@ -40,13 +40,13 @@
 ## Coin Specs
 
 • PoW Algorithm: Quark\
-• Premine: 610,000,000 CFL (For sending coins to the coin olders. \
-&#x20;  Final circulating supply is \~607,146,002.03 CFL)\
+• Premine: 610,000,000 CFL (For sending coins to the coin holders. \
+&#x20;  The final circulating supply is \~607,146,002.03 CFL)\
 • PoW Blocks: 1 - 1000\
 • PoS Blocks: Starting from 1001\
 • Block Time: 60 Seconds\
 • Maturity: 100 Confirmations\
-• Prefix: CFL adresses start with the letter "c"\
+• Prefix: CFL addresses start with the letter "c"\
 • Ports: 13333 (p2p) / 13334 (rpc)\
 
 

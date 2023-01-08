@@ -3,19 +3,19 @@
 ## Coin Info
 
 • **GitHub**\
-[<mark style="color:blue;">https://github.com/decenomy/DASHD</mark>](https://github.com/decenomy/DASHD)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
-[<mark style="color:blue;">https://github.com/decenomy/DASHD/releases/latest</mark>](https://github.com/decenomy/DASHD/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/DASHD/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/DASHD/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
-[<mark style="color:blue;">https://explorer.decenomy.net/DASHD/blocks</mark>](https://explorer.decenomy.net/DASHD/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://dashd.flitswallet.app/</mark>](https://dashd.flitswallet.app/)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">**https://github.com/decenomy/DASHD**</mark>](https://github.com/decenomy/DASHD)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">**https://github.com/decenomy/DASHD/releases/latest**</mark>](https://github.com/decenomy/DASHD/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/DASHD/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/DASHD/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
+[<mark style="color:blue;">**https://explorer.decenomy.net/DASHD/blocks**</mark>](https://explorer.decenomy.net/DASHD/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">**https://dashd.flitswallet.app/**</mark>](https://dashd.flitswallet.app/)<mark style="color:blue;">****</mark>
 
 ## Tutorials
 
 **• Wallet Guide**\
-[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-<mark style="color:blue;">https://github.com/decenomy/DASHD/tree/master/contrib/masternodesetup</mark>
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+<mark style="color:blue;">**https://github.com/decenomy/DASHD/tree/master/contrib/masternodesetup**</mark>
 
 ## Social
 
@@ -28,9 +28,10 @@
 **• Telegram Group**\
 ****[<mark style="color:blue;">**https://t.me/dashdiamond**</mark>](https://t.me/dashdiamond)<mark style="color:blue;">****</mark>
 
-## Price, Stacking and Masternodes Statistic
+## Price, Staking and Masternodes Statistic
 
-**• CoinMarketCap**                                                                                                                [<mark style="color:blue;">**https://coinmarketcap.com/currencies/dash-diamond**</mark>](https://coinmarketcap.com/currencies/dash-diamond)                                                                                           **• Coingecko**\
+**• CoinMarketCap**\
+****[<mark style="color:blue;">**https://coinmarketcap.com/currencies/dash-diamond**</mark>](https://coinmarketcap.com/currencies/dash-diamond)<mark style="color:blue;">****</mark>\ <mark style="color:blue;">****</mark>**• Coingecko**\
 ****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/dash-diamond**</mark>](https://www.coingecko.com/en/coins/dash-diamond)****\
 **• Vaultwatch**\
 ****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=dashd**</mark>](https://vaultwatch.eu/detail.php?coin=dashd)****\
@@ -46,7 +47,7 @@
 • PoS Blocks: Starting from 201\
 • Block Time: 60 Seconds\
 • Maturity: 15 Confirmations\
-• Prefix: DASHD adresses start with the capital letter "D"\
+• Prefix: DASHD addresses start with the capital letter "D"\
 • Ports: 12341 (p2p) / 23452 (rpc)\
 
 

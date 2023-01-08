@@ -3,19 +3,19 @@
 ## Coin Info
 
 • **GitHub**\
-[<mark style="color:blue;">https://github.com/decenomy/PNY</mark>](https://github.com/decenomy/PNY)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
-[<mark style="color:blue;">https://github.com/decenomy/PNY/releases/latest</mark>](https://github.com/decenomy/PNY/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/PNY/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/PNY/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
-[<mark style="color:blue;">https://explorer.decenomy.net/PNY/blocks</mark>](https://explorer.decenomy.net/PNY/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">https://pny.flitswallet.app/</mark>](https://pny.flitswallet.app/)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">**https://github.com/decenomy/PNY**</mark>](https://github.com/decenomy/PNY)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
+[<mark style="color:blue;">**https://github.com/decenomy/PNY/releases/latest**</mark>](https://github.com/decenomy/PNY/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
+[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/PNY/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/PNY/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
+[<mark style="color:blue;">**https://explorer.decenomy.net/PNY/blocks**</mark>](https://explorer.decenomy.net/PNY/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
+[<mark style="color:blue;">**https://pny.flitswallet.app/**</mark>](https://pny.flitswallet.app/)<mark style="color:blue;">****</mark>
 
 ## Tutorials
 
 **• Wallet Guide**\
-[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">https://github.com/decenomy/PNY/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/PNY/tree/master/contrib/masternodesetup)
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
+[<mark style="color:blue;">**https://github.com/decenomy/PNY/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/PNY/tree/master/contrib/masternodesetup)****
 
 ## Social
 
@@ -28,9 +28,10 @@
 **• Telegram Group**\
 ****[<mark style="color:blue;">**https://t.me/Peony\_Coin\_Official**</mark>](https://t.me/Peony\_Coin\_Official)<mark style="color:blue;">****</mark>
 
-## Price, Stacking and Masternodes Statistic
+## Price, Staking and Masternodes Statistic
 
-**• CoinMarketCap**                                                                                                                       [<mark style="color:blue;">**https://coinmarketcap.com/currencies/peony**</mark>](https://coinmarketcap.com/currencies/peony)                                                                                                         **• Coingecko**\
+**• CoinMarketCap**\
+****[<mark style="color:blue;">**https://coinmarketcap.com/currencies/peony**</mark>](https://coinmarketcap.com/currencies/peony)<mark style="color:blue;">****</mark>\ <mark style="color:blue;">****</mark>**• Coingecko**\
 ****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/peony-coin**</mark>](https://coinmarketcap.com/currencies/peony)****\
 **• Vaultwatch**\
 ****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=pny**</mark>](https://vaultwatch.eu/detail.php?coin=pny)****\
@@ -40,7 +41,7 @@
 ## Coin Specs
 
 * PoW Algorithm: X11KVS
-* Premine: 7.750.000 PNY (Total coin supply from previous blockchain, distributed after maturing, the remaining is burned)
+* Premine: 7.750.000 PNY (Total coin supply from the previous blockchain, distributed after maturing, the remaining is burned)
 * Max. Supply: 1.200.000.000 PNY
 * PoW Blocks: 1 - 1000
 * PoS Blocks: Starting from 1001
