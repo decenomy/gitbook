@@ -5,9 +5,7 @@
 • **GitHub**\
 [<mark style="color:blue;">https://github.com/decenomy/F</mark>](https://github.com/decenomy/AZR)<mark style="color:blue;">LS</mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
 [<mark style="color:blue;">https://github.com/decenomy/FLS/releases/latest</mark>](https://github.com/decenomy/AZR/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/FLS/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/AZR/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">https://github.com/decenomy/FLS/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)\
-• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/FLS/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/AZR/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/</mark>](https://explorer.decenomy.net/AZR/)<mark style="color:blue;">FLS</mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
 [<mark style="color:blue;">https://fls.flitswallet.app/</mark>](https://azr.flitswallet.app/)<mark style="color:blue;"></mark>
 
@@ -17,7 +15,7 @@
 [<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
 [<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://github.com/decenomy/FLS/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/FLS/tree/master/contrib/masternodesetup)<mark style="color:blue;"></mark>
 
 ## Social
 
@@ -30,7 +28,7 @@
 
 ## Price, Stacking and Masternodes Statistic
 
-**• CoinMarketCap**                                         [<mark style="color:blue;">**https://coinmarketcap.com/currencies/flits**</mark>](https://coinmarketcap.com/currencies/flits)                                                                                **• Coingecko**\
+**• CoinMarketCap**                                                                                                                       [<mark style="color:blue;">**https://coinmarketcap.com/currencies/flits**</mark>](https://coinmarketcap.com/currencies/flits)                                                                                                             **• Coingecko**\
 ****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/flits**</mark>](https://www.coingecko.com/en/coins/flits)****\
 **• Vaultwatch**\
 ****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=FLS**</mark>](https://vaultwatch.eu/detail.php?coin=FLS)****\

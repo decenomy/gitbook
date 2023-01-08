@@ -5,9 +5,7 @@
 • **GitHub**\
 [<mark style="color:blue;">https://github.com/decenomy/KYAN</mark>](https://github.com/decenomy/KYAN)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
 [<mark style="color:blue;">https://github.com/decenomy/KYAN/releases/latest</mark>](https://github.com/decenomy/KYAN/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/KYAN/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/KYAN/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">https://github.com/decenomy/KYAN/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/KYAN/tree/master/contrib/masternodesetup)\
-• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/bootstraps/KYAN/bootstrap.zip</mark>](https://explorer.decenomy.net/bootstraps/KYAN/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
 [<mark style="color:blue;">https://explorer.decenomy.net/KYAN/blocks</mark>](https://explorer.decenomy.net/KYAN/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
 [<mark style="color:blue;">https://kyan.flitswallet.app/</mark>](https://kyan.flitswallet.app/)<mark style="color:blue;"></mark>
 
@@ -17,7 +15,7 @@
 [<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
 [<mark style="color:blue;">https://docs.decenomy.net/tutorials/wallet</mark>](../tutorials/wallet/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/AZR/tree/master/contrib/masternodesetup)
+[<mark style="color:blue;">https://github.com/decenomy/KYAN/tree/master/contrib/masternodesetup</mark>](https://github.com/decenomy/KYAN/tree/master/contrib/masternodesetup)
 
 ## Social
 
