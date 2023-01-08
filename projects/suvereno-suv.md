@@ -31,7 +31,7 @@
 ## Price, Stacking and Masternodes Statistic
 
 **• CoinMarketCap**                                                                                                                    [<mark style="color:blue;">**https://coinmarketcap.com/currencies/soverain**</mark>** ** ](https://coinmarketcap.com/currencies/soverain)                                                                                                    **• Coingecko**\
-****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/suvereno**</mark>](https://coinmarketcap.com/currencies/soverain)****\
+****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/suvereno**</mark>](https://www.coingecko.com/en/coins/suvereno)****\
 **• Vaultwatch**\
 ****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=suv**</mark>](https://vaultwatch.eu/detail.php?coin=suv)****\
 **• Masternode Online**\
