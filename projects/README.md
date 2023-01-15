@@ -1,5 +1,13 @@
 # 🗃 Coins
 
+Decenomy coins are based on a central blockchain coin development known as the Decenomy Standard Wallet (DSW). The work for DSW is done and collected in a main repository at [<mark style="color:blue;">https://github.com/decenomy/DSW</mark>](https://github.com/decenomy/DSW)\
+\
+In a process referred to as rollouts, a code merge is delivered to each Decenomy coin repository once a certain amount of new features and/or improvements have been collected. Additionally, in the event of a bug being discovered on one of the blockchains, the fix is introduced to the corresponding blockchain and then delivered to the DSW main code.
+
+It is important to note that DSW is not intended for use as a wallet or coin but rather serves as a base code that can be utilized for programming purposes. As the code is open source, the Decenomy team encourages contributions from the community, including new features, fixes, or bug reports, through the creation of an issue or pull request on the DSW Github repository.\
+\
+Details of each coin can be found in the following list&#x20;
+
 * [Azzure (AZR)](aezora-azr.md)
 * [Beacon (BECN)](beacon-becn.md)
 * [Birake (BIR)](birake-bir.md)
