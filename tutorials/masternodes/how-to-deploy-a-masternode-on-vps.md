@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/gitbook header.jpg
+coverY: 0
+---
+
 # 🔸 How to deploy a masternode on VPS
 
 NB each masternode needs a unique IP address, it is not possible to install 2 or more masternodes of the same coin on the same server.
