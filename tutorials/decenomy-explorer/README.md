@@ -1,7 +1,7 @@
 ---
 description: >-
-  The following documentation aims to provide a guide on using the explorer and
-  the advantages it offers to users of a DECENOMY coin.
+  The following documentation aims to assist DECENOMY users in effectively
+  utilizing the explorer and taking full advantage of its benefits.
 ---
 
 # DECENOMY Explorer
@@ -20,7 +20,7 @@ The explorers play a vital role in analyzing the health and transaction history 
 
 [<mark style="color:blue;">https://explorer.decenomy.net</mark>](https://explorer.decenomy.net)<mark style="color:blue;">/</mark><mark style="color:orange;">coin</mark>
 
-Note: change the path parameter ( <mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;"><mark style="color:red;">coin<mark style="color:red;"></mark> ) to a Decenomy ticker coin always in CAPS\
+Note: change the path parameter (<mark style="color:orange;">coin</mark>) to a Decenomy ticker coin always in CAPS\
 example: https://explorer.decenomy.net/SAPP
 
 ### Summary
