@@ -17,7 +17,7 @@ Being a public API, there is no need to use any kind of authentication.
 
 ## API v1 Endpoint URL
 
-<mark style="color:blue;">https://explorer.decenomy.net/api/v1/coins/</mark><mark style="color:red;">coin</mark><mark style="color:blue;">/</mark>
+<mark style="color:blue;">https://explorer.decenomy.net/api/v1/coins/</mark><mark style="color:orange;">coin</mark><mark style="color:blue;">/</mark>
 
 ### Path parameters v1
 
@@ -46,7 +46,7 @@ https://explorer.decenomy.net/api/v1/coins/SAPP/getblockcount
 
 ## API v2 Endpoint URL
 
-<mark style="color:blue;">https://explorer.decenomy.net/api/v2/</mark><mark style="color:red;">coin</mark><mark style="color:blue;">/</mark>
+<mark style="color:blue;">https://explorer.decenomy.net/api/v2/</mark><mark style="color:orange;">coin</mark><mark style="color:blue;">/</mark>
 
 ### Path parameters v2
 

@@ -18,9 +18,9 @@ The explorers play a vital role in analyzing the health and transaction history 
 
 ### Breakdown Link to direct access to each coin explorer
 
-[<mark style="color:blue;">https://explorer.decenomy.net</mark>](https://explorer.decenomy.net)<mark style="color:blue;">/</mark><mark style="color:red;">coin</mark>
+[<mark style="color:blue;">https://explorer.decenomy.net</mark>](https://explorer.decenomy.net)<mark style="color:blue;">/</mark><mark style="color:orange;">coin</mark>
 
-Note: change the path parameter ( <mark style="color:red;">coin</mark> ) to a Decenomy ticker coin always in CAPS\
+Note: change the path parameter ( <mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;"><mark style="color:red;">coin<mark style="color:red;"></mark> ) to a Decenomy ticker coin always in CAPS\
 example: https://explorer.decenomy.net/SAPP
 
 ### Summary
