@@ -1,4 +1,11 @@
-# 🔸 How to deploy a masternode on VPS
+---
+description: >-
+  Deploying a masternode on a virtual private server (VPS) involves several
+  steps, including setting up the VPS, configuring the masternode, and verifying
+  that it is running correctly.
+---
+
+# ▪ Masternode deploy on VPS
 
 \
 NB each masternode needs a unique IP address, it is not possible to install 2 or more masternodes of the same coin on the same server.

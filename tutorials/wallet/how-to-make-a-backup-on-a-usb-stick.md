@@ -1,4 +1,12 @@
-# 🔸 How to make a backup on a USB stick
+---
+description: >-
+  Backing up your wallet is an important step to ensure that you can recover
+  your funds if something goes wrong with your device or wallet software.
+---
+
+# ▪ Backup Wallet on an external device
+
+One way to backup your wallet is to save a copy of the wallet.dat file on an external device.
 
 {% embed url="https://www.youtube.com/watch?v=SqIdsz6mn7w" %}
 

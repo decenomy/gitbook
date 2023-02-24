@@ -1,4 +1,8 @@
-# 🔸 Staking optimization and common problems
+---
+description: Optimizing the process and overcoming common challenges
+---
+
+# ▪ Staking Best Practices
 
 {% embed url="https://www.youtube.com/watch?v=aW2ubmbIFPY" %}
 

@@ -1,4 +1,10 @@
-# 🔸 How to update a masternode collateral
+---
+description: >-
+  Updating a masternode collateral refers to the process of changing the amount
+  of cryptocurrency used as collateral to operate a masternode.
+---
+
+# ▪ Masternode collateral update
 
 {% embed url="https://youtu.be/Sanzn0U_WK4" %}
 

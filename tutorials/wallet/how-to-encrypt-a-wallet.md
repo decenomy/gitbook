@@ -1,4 +1,10 @@
-# 🔸 How to encrypt a wallet
+---
+description: >-
+  Add a layer of security to your DECENOMY cryptocurrency wallet by creating a
+  password-protected key.
+---
+
+# ▪ Encrypting a wallet
 
 {% embed url="https://www.youtube.com/watch?v=qmalydbgt8A" %}
 

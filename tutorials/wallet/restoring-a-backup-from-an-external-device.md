@@ -1,4 +1,11 @@
-# 🔸 How to restore a backup from an USB stick
+---
+description: >-
+  If your wallet has been lost, stolen, or damaged, restoring a backup is the
+  only way to recover your funds. In this guide, we provide a general overview
+  of the steps required to perform such a process
+---
+
+# ▪ Restoring a backup from an external device
 
 {% embed url="https://youtu.be/XipzjQdzZU0" %}
 

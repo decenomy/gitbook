@@ -1,4 +1,4 @@
-# 🔸 How to manage masternode sharing on Crypos
+# ▪ Shared Masternode management on Crypos
 
 {% embed url="https://www.youtube.com/watch?v=CS9M2Rytz-Q" %}
 

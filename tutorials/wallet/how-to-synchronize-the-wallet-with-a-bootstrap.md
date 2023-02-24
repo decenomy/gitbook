@@ -1,4 +1,11 @@
-# 🔸 How to synchronize the wallet with a bootstrap
+---
+description: >-
+  Method of quickly synchronizing a DECENOMY cryptocurrency node with the
+  blockchain by downloading a pre-built copy of the blockchain database, also
+  known as a Bootstrap file.
+---
+
+# ▪ Fast sync with a Bootstrap
 
 {% embed url="https://www.youtube.com/watch?v=GX8YOYQGOZw" %}
 

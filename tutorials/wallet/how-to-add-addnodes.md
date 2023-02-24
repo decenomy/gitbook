@@ -1,4 +1,11 @@
-# 🔸 How to add addnodes
+---
+description: >-
+  Addnodes are network addresses of nodes that can be added to a DECENOMY
+  cryptocurrency wallet configuration file to enhance its connectivity with the
+  network.
+---
+
+# ▪ Extra connections (addnodes)
 
 {% embed url="https://www.youtube.com/watch?v=RXJ6qkR2xgI" %}
 

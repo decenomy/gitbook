@@ -1,4 +1,11 @@
-# 🔸 How to stake coins
+---
+description: >-
+  This process involves using a wallet client to hold a certain amount of
+  cryptocurrency coins in a wallet and earn rewards by participating in the
+  network's consensus process.
+---
+
+# ▪ Staking process on desktop wallet
 
 In this guide we will explain how to stake our DECENOMY coins.
 

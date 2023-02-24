@@ -1,8 +1,12 @@
 ---
-description: In this guide we explain the main functions to use Decenomy wallets.
+description: >-
+  In this guide we explain the main functions to use Decenomy cryptocurrencies
+  wallets.
 ---
 
-# 🔸 How to use the DECENOMY wallets
+# ▪ How to use the DECENOMY wallets
+
+
 
 {% embed url="https://www.youtube.com/watch?v=A2euj-G-CDA" %}
 

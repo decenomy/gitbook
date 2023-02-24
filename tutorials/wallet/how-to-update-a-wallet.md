@@ -1,4 +1,12 @@
-# 🔸 How to update a wallet
+---
+description: >-
+  The wallet update process involves installing the latest version of the wallet
+  software provided by the DECENOMY development team.
+---
+
+# ▪ Wallet update
+
+This is important to ensure that your wallet is up to date with the latest security features, bug fixes, and other improvements.
 
 {% embed url="https://www.youtube.com/watch?v=YyETlLE8-fM" %}
 

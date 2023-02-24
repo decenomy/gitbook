@@ -1,4 +1,11 @@
-# 🔸 How to stake on a VPS
+---
+description: >-
+  Staking on a Virtual Private Server (VPS) is similar to staking on a desktop
+  wallet, but instead of running the staking process on your local computer, it
+  runs on a remote server.
+---
+
+# ▪ Staking process on a VPS
 
 {% embed url="https://www.youtube.com/watch?v=7xZ4z480T3Q" %}
 
