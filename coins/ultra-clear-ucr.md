@@ -1,4 +1,4 @@
-# 🔸 Ultra Clear (UCR)
+# ▪ Ultra Clear (UCR)
 
 ## Coin Info
 

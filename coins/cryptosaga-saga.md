@@ -1,4 +1,4 @@
-# 🔸 Cryptosaga (SAGA)
+# ▪ Cryptosaga (SAGA)
 
 ## Coin Info
 

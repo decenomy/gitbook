@@ -1,4 +1,4 @@
-# 🔸 One World (OWO)
+# ▪ One World (OWO)
 
 ## Coin Info
 

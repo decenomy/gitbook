@@ -1,4 +1,4 @@
-# 🔸 Azzure (AZR)
+# ▪ Azzure (AZR)
 
 ## Coin Info
 

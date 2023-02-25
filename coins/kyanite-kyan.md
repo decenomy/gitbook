@@ -1,4 +1,4 @@
-# 🔸 Kyanite (KYAN)
+# ▪ Kyanite (KYAN)
 
 ## Coin Info
 

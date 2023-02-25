@@ -1,4 +1,4 @@
-# 🔸 How to buy Decenomy coins on Heliobank
+# ▪ How to buy Decenomy coins on Heliobank
 
 {% embed url="https://www.youtube.com/watch?v=hetywZgcizs" %}
 

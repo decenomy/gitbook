@@ -1,4 +1,4 @@
-# 🔸 Flits (FLS)
+# ▪ Flits (FLS)
 
 ## Coin Info
 

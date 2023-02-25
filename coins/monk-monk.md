@@ -1,4 +1,4 @@
-# 🔸 Monk (MONK)
+# ▪ Monk (MONK)
 
 ## Coin Info
 

@@ -1,4 +1,4 @@
-# 🗃 Coins
+# Coins
 
 DECENOMY coins are based on a central blockchain coin development known as the DECENOMY Standard Wallet (DSW). The work for DSW is done and collected in a main repository at [<mark style="color:blue;">https://github.com/decenomy/DSW</mark>](https://github.com/decenomy/DSW)\
 \
@@ -16,7 +16,7 @@ Details of each coin can be found in the following list \
 * <mark style="color:blue;"></mark>[<mark style="color:blue;">Cryptosaga (SAGA)</mark>](cryptosaga-saga.md)<mark style="color:blue;"></mark>
 * <mark style="color:blue;"></mark>[<mark style="color:blue;">Dash Diamond (DASHD)</mark>](dash-diamond-dashd.md)<mark style="color:blue;"></mark>
 * <mark style="color:blue;"></mark>[<mark style="color:blue;">Eskacoin (ESK)</mark>](eskacoin-esk.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Flits (FLS)</mark> ](../coins/flits-fls.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Flits (FLS)</mark> ](flits-fls.md)<mark style="color:blue;"></mark>
 * <mark style="color:blue;"></mark>[<mark style="color:blue;">Jackpot (777)</mark>](jackpot-777.md)<mark style="color:blue;"></mark>
 * <mark style="color:blue;"></mark>[<mark style="color:blue;">Kyanite (KYAN)</mark>](kyanite-kyan.md)<mark style="color:blue;"></mark>
 * <mark style="color:blue;"></mark>[<mark style="color:blue;">Mobility Coin (MOBIC)</mark>](mobility-coin-mobic.md)<mark style="color:blue;"></mark>

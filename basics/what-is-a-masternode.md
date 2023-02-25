@@ -1,4 +1,4 @@
-# 🔸 What is a Masternode?
+# ▪ What is a Masternode?
 
 ## What is a Masternode
 

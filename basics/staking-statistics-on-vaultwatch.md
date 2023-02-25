@@ -1,4 +1,4 @@
-# 🔸 Staking statistics on VaultWatch
+# ▪ Staking statistics on VaultWatch
 
 {% embed url="https://youtu.be/BdBH4GapqOo" %}
 

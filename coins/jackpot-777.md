@@ -1,4 +1,4 @@
-# 🔸 Jackpot (777)
+# ▪ Jackpot (777)
 
 ## Coin Info
 

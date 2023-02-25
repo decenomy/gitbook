@@ -1,4 +1,4 @@
-# 🔸 Cryptoflow (CFL)
+# ▪ Cryptoflow (CFL)
 
 ## Coin Info
 

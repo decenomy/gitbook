@@ -1,4 +1,4 @@
-# 🔸 Sapphire (SAPP)
+# ▪ Sapphire (SAPP)
 
 ## Coin Info
 

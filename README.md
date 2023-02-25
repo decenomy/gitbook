@@ -59,25 +59,25 @@ Please use existing categories for efficient searches.
 
 <details>
 
-<summary><a href="projects/">Coins</a></summary>
+<summary><a href="coins/">Coins</a></summary>
 
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Azzure (AZR)</mark>](projects/aezora-azr.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Beacon (BECN)</mark>](projects/beacon-becn.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Birake (BIR)</mark>](projects/birake-bir.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Cryptoflow (CFL)</mark>](projects/cryptoflow-cfl.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Cryptosaga (SAGA)</mark>](projects/cryptosaga-saga.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Dash Diamond (DASHD)</mark>](projects/dash-diamond-dashd.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Eskacoin (ESK)</mark>](projects/eskacoin-esk.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Azzure (AZR)</mark>](coins/aezora-azr.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Beacon (BECN)</mark>](coins/beacon-becn.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Birake (BIR)</mark>](coins/birake-bir.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Cryptoflow (CFL)</mark>](coins/cryptoflow-cfl.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Cryptosaga (SAGA)</mark>](coins/cryptosaga-saga.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Dash Diamond (DASHD)</mark>](coins/dash-diamond-dashd.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Eskacoin (ESK)</mark>](coins/eskacoin-esk.md)<mark style="color:blue;"></mark>
 * <mark style="color:blue;"></mark>[<mark style="color:blue;">Flits (FLS)</mark> ](coins/flits-fls.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Jackpot (777)</mark>](projects/jackpot-777.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Kyanite (KYAN)</mark>](projects/kyanite-kyan.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Mobility Coin (MOBIC)</mark>](projects/mobility-coin-mobic.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Monk (MONK)</mark>](projects/monk-monk.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">One World (OWO)</mark>](projects/one-world-owo.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Peony (PNY)</mark>](projects/peony-pny.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Sapphire (SAPP)</mark>](projects/sapphire-sapp.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Suvereno (SUV)</mark>](projects/suvereno-suv.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Ultra Clear (UCR)</mark>](projects/ultra-clear-ucr.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Jackpot (777)</mark>](coins/jackpot-777.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Kyanite (KYAN)</mark>](coins/kyanite-kyan.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Mobility Coin (MOBIC)</mark>](coins/mobility-coin-mobic.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Monk (MONK)</mark>](coins/monk-monk.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">One World (OWO)</mark>](coins/one-world-owo.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Peony (PNY)</mark>](coins/peony-pny.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Sapphire (SAPP)</mark>](coins/sapphire-sapp.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Suvereno (SUV)</mark>](coins/suvereno-suv.md)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Ultra Clear (UCR)</mark>](coins/ultra-clear-ucr.md)<mark style="color:blue;"></mark>
 
 </details>
 

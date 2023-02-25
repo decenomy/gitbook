@@ -1,4 +1,4 @@
-# 🔸 Beacon (BECN)
+# ▪ Beacon (BECN)
 
 ## Coin Info
 

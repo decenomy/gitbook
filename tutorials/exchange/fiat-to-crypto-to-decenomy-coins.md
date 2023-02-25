@@ -1,4 +1,4 @@
-# 🔸 Fiat to Crypto to Decenomy Coins
+# ▪ Fiat to Crypto to Decenomy Coins
 
 {% embed url="https://youtu.be/uHC3mzXtUu0" %}
 
