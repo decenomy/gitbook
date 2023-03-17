@@ -27,10 +27,12 @@ Being a public API, there is no need to use any kind of authentication.
 
 ### Query parameters v1
 
-| Name           |  Type  | Description                                               | Info     |
-| -------------- | :----: | --------------------------------------------------------- | -------- |
-| getblockcount  | string | Plain block count, just the block number value            | Optional |
-| getmoneysupply | string | Supply - circulating supply, just the supply number value | Optional |
+| Name            |  Type  | Description                                                                                           | Info     |
+| --------------- | :----: | ----------------------------------------------------------------------------------------------------- | -------- |
+| getblockcount   | string | Plain block count, just the block number value                                                        | Optional |
+| getmoneysupply  | string | Circulating supply - It will output just the number value of the total supply minus the locked supply | Optional |
+| getlockedsupply | string | Locked supply - It will output just the number value of the locked/burned supply                      | Optional |
+| gettotalsupply  | string | Total supply - It will output just the number value of the circulation supply plus the locked supply  | Optional |
 
 ### Example query v1
 
@@ -65,6 +67,7 @@ https://explorer.decenomy.net/api/v1/coins/SAPP/getblockcount
 | info             | string | Wallet and blockchain information                                                                    | Optional |
 | masternode/count | string | Total number of masternodes connected in the network                                                 | Optional |
 | status           | string | Status of blockchain based in last block received                                                    | Optional |
+| burnaddresses    | string | Burn address Information                                                                             | Optional |
 
 ### Example query v2
 
