@@ -3,40 +3,46 @@
 ## Coin Info
 
 • **GitHub**\
-[<mark style="color:blue;">**https://github.com/decenomy/SAPP**</mark>](https://github.com/decenomy/SAPP)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
-[<mark style="color:blue;">**https://github.com/decenomy/SAPP/releases/latest**</mark>](https://github.com/decenomy/SAPP/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/SAPP/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/SAPP/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
-[<mark style="color:blue;">**https://explorer.decenomy.net/SAPP/blocks**</mark>](https://explorer.decenomy.net/SAPP/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">**https://sapp.flitswallet.app/**</mark>](https://sapp.flitswallet.app/)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://github.com/decenomy/SAPP**</mark>](https://github.com/decenomy/SAPP)\
+• **Wallet Download**\
+[<mark style="color:blue;">**https://github.com/decenomy/SAPP/releases/latest**</mark>](https://github.com/decenomy/SAPP/releases/latest)\
+• **Bootstrap**\
+[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/SAPP/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/SAPP/bootstrap.zip)\
+• **Explorer 1** \
+[<mark style="color:blue;">**https://explorer.decenomy.net/SAPP/blocks**</mark>](https://explorer.decenomy.net/SAPP/blocks)\
+• **Explorer 2**\
+[<mark style="color:blue;">**https://sapp.flitswallet.app/**</mark>](https://sapp.flitswallet.app/)
 
 ## Tutorials
 
 **• Wallet Guide**\
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">**https://github.com/decenomy/SAPP/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/SAPP/tree/master/contrib/masternodesetup)****
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)\
+• **Masternode Setup Guide**\
+[<mark style="color:blue;">**https://github.com/decenomy/SAPP/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/SAPP/tree/master/contrib/masternodesetup)
 
 ## Social
 
 **• Twitter**\
-****[<mark style="color:blue;">**https://twitter.com/Sapphire\_Core**</mark>](https://twitter.com/Sapphire\_Core)****\
+[<mark style="color:blue;">**https://twitter.com/Sapphire\_Core**</mark>](https://twitter.com/Sapphire\_Core)\
 **• Discord**\
-****[<mark style="color:blue;">**https://discord.gg/Rkxu77S**</mark>](https://discord.gg/Rkxu77S)****\
+[<mark style="color:blue;">**https://discord.gg/Rkxu77S**</mark>](https://discord.gg/Rkxu77S)\
 **• Telegram Channel**\
-****[<mark style="color:blue;">**https://t.me/sapphire\_announcements**</mark>](https://t.me/sapphire\_announcements)****\
+[<mark style="color:blue;">**https://t.me/sapphire\_announcements**</mark>](https://t.me/sapphire\_announcements)\
 **• Telegram Group**\
-****[<mark style="color:blue;">**https://t.me/sapphirecore**</mark>](https://t.me/sapphirecore)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://t.me/sapphirecore**</mark>](https://t.me/sapphirecore)
 
 ## Price, Staking and Masternodes Statistic
 
 **• CoinMarketCap**\
-****[<mark style="color:blue;">**https://coinmarketcap.com/currencies/sapphire**</mark>](https://coinmarketcap.com/currencies/sapphire)<mark style="color:blue;">****</mark>\ <mark style="color:blue;">****</mark>**• Coingecko**\
-****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/sapphire**</mark>](https://www.coingecko.com/en/coins/sapphire)****\
+[<mark style="color:blue;">**https://coinmarketcap.com/currencies/sapphire**</mark>](https://coinmarketcap.com/currencies/sapphire)\
+**• Coingecko**\
+[<mark style="color:blue;">**https://www.coingecko.com/en/coins/sapphire**</mark>](https://www.coingecko.com/en/coins/sapphire)\
 **• Vaultwatch**\
-****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=sapp**</mark>](https://vaultwatch.eu/detail.php?coin=sapp)****\
+[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=sapp**</mark>](https://vaultwatch.eu/detail.php?coin=sapp)\
 **• Masternode Online**\
-****[<mark style="color:blue;">**https://masternodes.online/currencies/SAPP**</mark>](https://masternodes.online/currencies/SAPP)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://masternodes.online/currencies/SAPP**</mark>](https://masternodes.online/currencies/SAPP)
 
 ## Coin Specs
 

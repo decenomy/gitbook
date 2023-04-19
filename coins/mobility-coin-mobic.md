@@ -3,40 +3,46 @@
 ## Coin Info
 
 • **GitHub**\
-[<mark style="color:blue;">**https://github.com/decenomy/MOBIC**</mark>](https://github.com/decenomy/MOBIC)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
-[<mark style="color:blue;">**https://github.com/decenomy/MOBIC/releases/latest**</mark>](https://github.com/decenomy/MOBIC/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/MOBIC/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/MOBIC/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
-[<mark style="color:blue;">**https://explorer.decenomy.net/MOBIC/blocks**</mark>](https://explorer.decenomy.net/MOBIC/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">**https://mobic.flitswallet.app/**</mark>](https://mobic.flitswallet.app/)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://github.com/decenomy/MOBIC**</mark>](https://github.com/decenomy/MOBIC)\
+• **Wallet Download**\
+[<mark style="color:blue;">**https://github.com/decenomy/MOBIC/releases/latest**</mark>](https://github.com/decenomy/MOBIC/releases/latest)\
+• **Bootstrap**\
+[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/MOBIC/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/MOBIC/bootstrap.zip)\
+• **Explorer 1** \
+[<mark style="color:blue;">**https://explorer.decenomy.net/MOBIC/blocks**</mark>](https://explorer.decenomy.net/MOBIC/blocks)\
+• **Explorer 2**\
+[<mark style="color:blue;">**https://mobic.flitswallet.app/**</mark>](https://mobic.flitswallet.app/)
 
 ## Tutorials
 
 **• Wallet Guide**\
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">**https://github.com/decenomy/MOBIC/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/MOBIC/tree/master/contrib/masternodesetup)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)\
+• **Masternode Setup Guide**\
+[<mark style="color:blue;">**https://github.com/decenomy/MOBIC/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/MOBIC/tree/master/contrib/masternodesetup)
 
 ## Social
 
 **• Twitter**\
-****[<mark style="color:blue;">**https://twitter.com/CoinMobility**</mark>](https://twitter.com/CoinMobility)****\
+[<mark style="color:blue;">**https://twitter.com/CoinMobility**</mark>](https://twitter.com/CoinMobility)\
 **• Discord**\
-****[<mark style="color:blue;">**https://discord.com/invite/qxhuCEKrfd**</mark>](https://discord.com/invite/qxhuCEKrfd)****\
+[<mark style="color:blue;">**https://discord.com/invite/qxhuCEKrfd**</mark>](https://discord.com/invite/qxhuCEKrfd)\
 **• Telegram Channel**\
-****[<mark style="color:blue;">**https://t.me/mobic\_announcements**</mark>](https://t.me/mobic\_announcements)****\
+[<mark style="color:blue;">**https://t.me/mobic\_announcements**</mark>](https://t.me/mobic\_announcements)\
 **• Telegram Group**\
-****[<mark style="color:blue;">**https://t.me/mobic\_coin**</mark>](https://t.me/mobic\_coin)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://t.me/mobic\_coin**</mark>](https://t.me/mobic\_coin)
 
 ## Price, Staking and Masternodes Statistic
 
 **• CoinMarketCap**\
-****[<mark style="color:blue;">**https://coinmarketcap.com/currencies/modern-investment-coin**</mark>](https://coinmarketcap.com/currencies/modern-investment-coin)<mark style="color:blue;">****</mark>\ <mark style="color:blue;">****</mark>**• Coingecko**\
-****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/mobility-coin**</mark>](https://www.coingecko.com/en/coins/mobility-coin)****\
+[<mark style="color:blue;">**https://coinmarketcap.com/currencies/modern-investment-coin**</mark>](https://coinmarketcap.com/currencies/modern-investment-coin)\
+**• Coingecko**\
+[<mark style="color:blue;">**https://www.coingecko.com/en/coins/mobility-coin**</mark>](https://www.coingecko.com/en/coins/mobility-coin)\
 **• Vaultwatch**\
-****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=mobic**</mark>](https://vaultwatch.eu/detail.php?coin=mobic)****\
+[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=mobic**</mark>](https://vaultwatch.eu/detail.php?coin=mobic)\
 **• Masternode Online**\
-****[<mark style="color:blue;">**https://masternodes.online/currencies/MOBIC**</mark>](https://masternodes.online/currencies/MOBIC)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://masternodes.online/currencies/MOBIC**</mark>](https://masternodes.online/currencies/MOBIC)
 
 ## Coin Specs
 

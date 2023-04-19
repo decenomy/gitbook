@@ -3,40 +3,46 @@
 ## Coin Info
 
 • **GitHub**\
-[<mark style="color:blue;">**https://github.com/decenomy/SUV**</mark>](https://github.com/decenomy/SUV)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
-[<mark style="color:blue;">**https://github.com/decenomy/SUV/releases/latest**</mark>](https://github.com/decenomy/SUV/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/SUV/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/SUV/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
-[<mark style="color:blue;">**https://explorer.decenomy.net/SUV/blocks**</mark>](https://explorer.decenomy.net/SUV/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">**https://suv.flitswallet.app/**</mark>](https://suv.flitswallet.app/)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://github.com/decenomy/SUV**</mark>](https://github.com/decenomy/SUV)\
+• **Wallet Download**\
+[<mark style="color:blue;">**https://github.com/decenomy/SUV/releases/latest**</mark>](https://github.com/decenomy/SUV/releases/latest)\
+• **Bootstrap**\
+[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/SUV/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/SUV/bootstrap.zip)\
+• **Explorer 1** \
+[<mark style="color:blue;">**https://explorer.decenomy.net/SUV/blocks**</mark>](https://explorer.decenomy.net/SUV/blocks)\
+• **Explorer 2**\
+[<mark style="color:blue;">**https://suv.flitswallet.app/**</mark>](https://suv.flitswallet.app/)
 
 ## Tutorials
 
 **• Wallet Guide**\
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">**https://github.com/decenomy/SUV/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/SUV/tree/master/contrib/masternodesetup)****
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)\
+• **Masternode Setup Guide**\
+[<mark style="color:blue;">**https://github.com/decenomy/SUV/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/SUV/tree/master/contrib/masternodesetup)
 
 ## Social
 
 **• Twitter**\
-****[<mark style="color:blue;">**https://twitter.com/Suvereno2**</mark> ](https://twitter.com/Suvereno2)****\
+[<mark style="color:blue;">**https://twitter.com/Suvereno2**</mark> ](https://twitter.com/Suvereno2)\
 **• Discord**\
-****[<mark style="color:blue;">**https://discord.com/invite/EkvAevxvc8**</mark>](https://discord.com/invite/EkvAevxvc8)****\
+[<mark style="color:blue;">**https://discord.com/invite/EkvAevxvc8**</mark>](https://discord.com/invite/EkvAevxvc8)\
 **• Telegram Channel**\
-****[<mark style="color:blue;">**https://t.me/suvereno\_announcements**</mark>](https://t.me/suvereno\_announcements)****\
+[<mark style="color:blue;">**https://t.me/suvereno\_announcements**</mark>](https://t.me/suvereno\_announcements)\
 **• Telegram Group**\
-****[<mark style="color:blue;">**https://t.me/suvereno**</mark>](https://t.me/suvereno)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://t.me/suvereno**</mark>](https://t.me/suvereno)
 
 ## Price, Staking and Masternodes Statistic
 
 **• CoinMarketCap**\
-****[<mark style="color:blue;">**https://coinmarketcap.com/currencies/soverain**</mark>](https://coinmarketcap.com/currencies/soverain)<mark style="color:blue;">****</mark>\ <mark style="color:blue;">****</mark>**• Coingecko**\
-****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/suvereno**</mark>](https://www.coingecko.com/en/coins/suvereno)****\
+[<mark style="color:blue;">**https://coinmarketcap.com/currencies/soverain**</mark>](https://coinmarketcap.com/currencies/soverain)\
+**• Coingecko**\
+[<mark style="color:blue;">**https://www.coingecko.com/en/coins/suvereno**</mark>](https://www.coingecko.com/en/coins/suvereno)\
 **• Vaultwatch**\
-****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=suv**</mark>](https://vaultwatch.eu/detail.php?coin=suv)****\
+[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=suv**</mark>](https://vaultwatch.eu/detail.php?coin=suv)\
 **• Masternode Online**\
-****[<mark style="color:blue;">**https://masternodes.online/currencies/SUV**</mark>](https://masternodes.online/currencies/SUV)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://masternodes.online/currencies/SUV**</mark>](https://masternodes.online/currencies/SUV)
 
 ## Coin Specs
 

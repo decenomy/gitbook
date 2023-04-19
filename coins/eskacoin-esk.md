@@ -3,39 +3,44 @@
 ## Coin Info
 
 • **GitHub**\
-[<mark style="color:blue;">**https://github.com/decenomy/ESK**</mark>](https://github.com/decenomy/ESK)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
-[<mark style="color:blue;">**https://github.com/decenomy/ESK/releases/latest**</mark>](https://github.com/decenomy/ESK/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/ESK/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/ESK/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
-[<mark style="color:blue;">**https://explorer.decenomy.net/ESK/blocks**</mark>](https://explorer.decenomy.net/ESK/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">**https://esk.flitswallet.app/**</mark>](https://esk.flitswallet.app/)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://github.com/decenomy/ESK**</mark>](https://github.com/decenomy/ESK)\
+• **Wallet Download**\
+[<mark style="color:blue;">**https://github.com/decenomy/ESK/releases/latest**</mark>](https://github.com/decenomy/ESK/releases/latest)\
+• **Bootstrap**\
+[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/ESK/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/ESK/bootstrap.zip)\
+• **Explorer 1** \
+[<mark style="color:blue;">**https://explorer.decenomy.net/ESK/blocks**</mark>](https://explorer.decenomy.net/ESK/blocks)\
+• **Explorer 2**\
+[<mark style="color:blue;">**https://esk.flitswallet.app/**</mark>](https://esk.flitswallet.app/)
 
 ## Tutorials
 
 **• Wallet Guide**\
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">**https://github.com/decenomy/ESK/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/ESK/tree/master/contrib/masternodesetup)****
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)\
+• **Masternode Setup Guide**\
+[<mark style="color:blue;">**https://github.com/decenomy/ESK/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/ESK/tree/master/contrib/masternodesetup)
 
 ## Social
 
 **• Twitter**\
-****[<mark style="color:blue;">**https://twitter.com/EskaCoin**</mark>](https://twitter.com/EskaCoin)****\
+[<mark style="color:blue;">**https://twitter.com/EskaCoin**</mark>](https://twitter.com/EskaCoin)\
 **• Discord**\
-****[<mark style="color:blue;">**https://discord.com/invite/4vh59amzcW**</mark>](https://discord.com/invite/4vh59amzcW)****\
+[<mark style="color:blue;">**https://discord.com/invite/4vh59amzcW**</mark>](https://discord.com/invite/4vh59amzcW)\
 **• Telegram Channel**\
-****[<mark style="color:blue;">**https://t.me/eskacoin\_announcements**</mark>](https://t.me/eskacoin\_announcements)****\
+[<mark style="color:blue;">**https://t.me/eskacoin\_announcements**</mark>](https://t.me/eskacoin\_announcements)\
 **• Telegram Group**\
-****[<mark style="color:blue;">**https://t.me/eskacoincore**</mark>](https://t.me/eskacoincore)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://t.me/eskacoincore**</mark>](https://t.me/eskacoincore)
 
 ## Price, Staking and Masternodes Statistic
 
 **• Coingecko**\
-****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/eska**</mark>](https://www.coingecko.com/en/coins/eska)****\
+[<mark style="color:blue;">**https://www.coingecko.com/en/coins/eska**</mark>](https://www.coingecko.com/en/coins/eska)\
 **• Vaultwatch**\
-****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=ESK**</mark>](https://vaultwatch.eu/detail.php?coin=ESK)****\
+[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=ESK**</mark>](https://vaultwatch.eu/detail.php?coin=ESK)\
 **• Masternode Online**\
-****[<mark style="color:blue;">**https://masternodes.online/currencies/ESK**</mark>](https://masternodes.online/currencies/ESK)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://masternodes.online/currencies/ESK**</mark>](https://masternodes.online/currencies/ESK)
 
 ## Coin Specs
 

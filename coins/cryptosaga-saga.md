@@ -3,39 +3,44 @@
 ## Coin Info
 
 • **GitHub**\
-[<mark style="color:blue;">**https://github.com/decenomy/SAGA**</mark>](https://github.com/decenomy/SAGA)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
-[<mark style="color:blue;">**https://github.com/decenomy/SAGA/releases/latest**</mark>](https://github.com/decenomy/SAGA/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/SAGA/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/SAGA/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
-[<mark style="color:blue;">**https://explorer.decenomy.net/SAGA/blocks**</mark>](https://explorer.decenomy.net/SAGA/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">**https://saga.flitswallet.app/**</mark>](https://saga.flitswallet.app/)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://github.com/decenomy/SAGA**</mark>](https://github.com/decenomy/SAGA)\
+• **Wallet Download**\
+[<mark style="color:blue;">**https://github.com/decenomy/SAGA/releases/latest**</mark>](https://github.com/decenomy/SAGA/releases/latest)\
+• **Bootstrap**\
+[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/SAGA/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/SAGA/bootstrap.zip)\
+• **Explorer 1** \
+[<mark style="color:blue;">**https://explorer.decenomy.net/SAGA/blocks**</mark>](https://explorer.decenomy.net/SAGA/blocks)\
+• **Explorer 2**\
+[<mark style="color:blue;">**https://saga.flitswallet.app/**</mark>](https://saga.flitswallet.app/)
 
 ## Tutorials
 
 **• Wallet Guide**\
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">**https://github.com/decenomy/SAGA/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/SAGA/tree/master/contrib/masternodesetup)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)\
+• **Masternode Setup Guide**\
+[<mark style="color:blue;">**https://github.com/decenomy/SAGA/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/SAGA/tree/master/contrib/masternodesetup)
 
 ## Social
 
 **• Twitter**\
-****[<mark style="color:blue;">**https://twitter.com/Saga\_Coin**</mark>](https://twitter.com/Saga\_Coin)****\
+[<mark style="color:blue;">**https://twitter.com/Saga\_Coin**</mark>](https://twitter.com/Saga\_Coin)\
 **• Discord**\
-****[<mark style="color:blue;">**https://discord.com/invite/jkugwy9kPp**</mark>](https://discord.com/invite/jkugwy9kPp)****\
+[<mark style="color:blue;">**https://discord.com/invite/jkugwy9kPp**</mark>](https://discord.com/invite/jkugwy9kPp)\
 **• Telegram Channel**\
-****[<mark style="color:blue;">**https://t.me/cryptosaga\_announcements**</mark>](https://t.me/cryptosaga\_announcements)****\
+[<mark style="color:blue;">**https://t.me/cryptosaga\_announcements**</mark>](https://t.me/cryptosaga\_announcements)\
 **• Telegram Group**\
-****[<mark style="color:blue;">**https://t.me/cryptosagaofficial**</mark>](https://t.me/cryptosagaofficial)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://t.me/cryptosagaofficial**</mark>](https://t.me/cryptosagaofficial)
 
 ## Price, Staking and Masternodes Statistic
 
 **• Coingecko**\
-****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/cryptosaga**</mark>](https://www.coingecko.com/en/coins/cryptosaga)****\
+[<mark style="color:blue;">**https://www.coingecko.com/en/coins/cryptosaga**</mark>](https://www.coingecko.com/en/coins/cryptosaga)\
 **• Vaultwatch**\
-****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=saga**</mark>](https://vaultwatch.eu/detail.php?coin=saga)****\
+[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=saga**</mark>](https://vaultwatch.eu/detail.php?coin=saga)\
 **• Masternode Online**\
-****[<mark style="color:blue;">**https://masternodes.online/currencies/SAGA**</mark>](https://masternodes.online/currencies/SAGA)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://masternodes.online/currencies/SAGA**</mark>](https://masternodes.online/currencies/SAGA)
 
 ## Coin Specs
 

@@ -3,40 +3,46 @@
 ## Coin Info
 
 • **GitHub**\
-[<mark style="color:blue;">**https://github.com/decenomy/PNY**</mark>](https://github.com/decenomy/PNY)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
-[<mark style="color:blue;">**https://github.com/decenomy/PNY/releases/latest**</mark>](https://github.com/decenomy/PNY/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/PNY/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/PNY/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
-[<mark style="color:blue;">**https://explorer.decenomy.net/PNY/blocks**</mark>](https://explorer.decenomy.net/PNY/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">**https://pny.flitswallet.app/**</mark>](https://pny.flitswallet.app/)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://github.com/decenomy/PNY**</mark>](https://github.com/decenomy/PNY)\
+• **Wallet Download**\
+[<mark style="color:blue;">**https://github.com/decenomy/PNY/releases/latest**</mark>](https://github.com/decenomy/PNY/releases/latest)\
+• **Bootstrap**\
+[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/PNY/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/PNY/bootstrap.zip)\
+• **Explorer 1** \
+[<mark style="color:blue;">**https://explorer.decenomy.net/PNY/blocks**</mark>](https://explorer.decenomy.net/PNY/blocks)\
+• **Explorer 2**\
+[<mark style="color:blue;">**https://pny.flitswallet.app/**</mark>](https://pny.flitswallet.app/)
 
 ## Tutorials
 
 **• Wallet Guide**\
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">**https://github.com/decenomy/PNY/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/PNY/tree/master/contrib/masternodesetup)****
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)\
+• **Masternode Setup Guide**\
+[<mark style="color:blue;">**https://github.com/decenomy/PNY/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/PNY/tree/master/contrib/masternodesetup)
 
 ## Social
 
 **• Twitter**\
-****[<mark style="color:blue;">**https://twitter.com/PeonyCoin**</mark>](https://twitter.com/PeonyCoin)****\
+[<mark style="color:blue;">**https://twitter.com/PeonyCoin**</mark>](https://twitter.com/PeonyCoin)\
 **• Discord**\
-****[<mark style="color:blue;">**https://discord.gg/nyTnAHtBX9**</mark>](https://discord.gg/nyTnAHtBX9)****\
+[<mark style="color:blue;">**https://discord.gg/nyTnAHtBX9**</mark>](https://discord.gg/nyTnAHtBX9)\
 **• Telegram Channel**\
-****[<mark style="color:blue;">**https://t.me/peony\_announcements**</mark>](https://t.me/peony\_announcements)****\
+[<mark style="color:blue;">**https://t.me/peony\_announcements**</mark>](https://t.me/peony\_announcements)\
 **• Telegram Group**\
-****[<mark style="color:blue;">**https://t.me/Peony\_Coin\_Official**</mark>](https://t.me/Peony\_Coin\_Official)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://t.me/Peony\_Coin\_Official**</mark>](https://t.me/Peony\_Coin\_Official)
 
 ## Price, Staking and Masternodes Statistic
 
 **• CoinMarketCap**\
-****[<mark style="color:blue;">**https://coinmarketcap.com/currencies/peony**</mark>](https://coinmarketcap.com/currencies/peony)<mark style="color:blue;">****</mark>\ <mark style="color:blue;">****</mark>**• Coingecko**\
-****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/peony-coin**</mark>](https://coinmarketcap.com/currencies/peony)****\
+[<mark style="color:blue;">**https://coinmarketcap.com/currencies/peony**</mark>](https://coinmarketcap.com/currencies/peony)\
+**• Coingecko**\
+[<mark style="color:blue;">**https://www.coingecko.com/en/coins/peony-coin**</mark>](https://coinmarketcap.com/currencies/peony)\
 **• Vaultwatch**\
-****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=pny**</mark>](https://vaultwatch.eu/detail.php?coin=pny)****\
+[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=pny**</mark>](https://vaultwatch.eu/detail.php?coin=pny)\
 **• Masternode Online**\
-****[<mark style="color:blue;">**https://masternodes.online/currencies/PNY**</mark>](https://masternodes.online/currencies/PNY)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://masternodes.online/currencies/PNY**</mark>](https://masternodes.online/currencies/PNY)
 
 ## Coin Specs
 

@@ -3,40 +3,46 @@
 ## Coin Info
 
 • **GitHub**\
-[<mark style="color:blue;">**https://github.com/decenomy/BECN**</mark>](https://github.com/decenomy/BECN)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
-[<mark style="color:blue;">**https://github.com/decenomy/BECN/releases/latest**</mark>](https://github.com/decenomy/BECN/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/BECN/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/BECN/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
-[<mark style="color:blue;">https://explorer.decenomy.net/</mark>](https://explorer.decenomy.net/BECN)<mark style="color:blue;">**BECN**</mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">**https://becn.flitswallet.app/**</mark>](https://becn.flitswallet.app/)****
+[<mark style="color:blue;">**https://github.com/decenomy/BECN**</mark>](https://github.com/decenomy/BECN)\
+• **Wallet Download**\
+[<mark style="color:blue;">**https://github.com/decenomy/BECN/releases/latest**</mark>](https://github.com/decenomy/BECN/releases/latest)\
+• **Bootstrap**\
+[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/BECN/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/BECN/bootstrap.zip)\
+• **Explorer 1** \
+[<mark style="color:blue;">https://explorer.decenomy.net/</mark>](https://explorer.decenomy.net/BECN)<mark style="color:blue;">**BECN**</mark>\
+• **Explorer 2**\
+[<mark style="color:blue;">**https://becn.flitswallet.app/**</mark>](https://becn.flitswallet.app/)
 
 ## Tutorials
 
 **• Wallet Guide**\
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">**https://github.com/decenomy/BECN/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/BECN/tree/master/contrib/masternodesetup)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)\
+• **Masternode Setup Guide**\
+[<mark style="color:blue;">**https://github.com/decenomy/BECN/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/BECN/tree/master/contrib/masternodesetup)
 
 ## Social
 
 **• Twitter**\
-****[<mark style="color:blue;">**https://twitter.com/BeaconCrypto1**</mark>](https://twitter.com/BeaconCrypto1)****\
+[<mark style="color:blue;">**https://twitter.com/BeaconCrypto1**</mark>](https://twitter.com/BeaconCrypto1)\
 **• Discord**\
-****[<mark style="color:blue;">**https://discord.com/invite/Gx5jsBCwz8**</mark>](https://discord.com/invite/Gx5jsBCwz8)****\
+[<mark style="color:blue;">**https://discord.com/invite/Gx5jsBCwz8**</mark>](https://discord.com/invite/Gx5jsBCwz8)\
 **• Telegram Channel**\
-****[<mark style="color:blue;">**https://t.me/beacon\_announcement**</mark>](https://t.me/beacon\_announcement)****\
+[<mark style="color:blue;">**https://t.me/beacon\_announcement**</mark>](https://t.me/beacon\_announcement)\
 **• Telegram Group**\
-****[<mark style="color:blue;">**https://t.me/beaconcrypto**</mark>](https://t.me/beaconcrypto)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://t.me/beaconcrypto**</mark>](https://t.me/beaconcrypto)
 
 ## Price, Staking and Masternodes Statistic
 
 **• CoinMarketCap** \
-****[<mark style="color:blue;">**https://coinmarketcap.com/currencies/beacon**</mark>](https://coinmarketcap.com/currencies/beacon)<mark style="color:blue;">****</mark>\ <mark style="color:blue;">****</mark>**• Coingecko**\
-****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/beacon**</mark>](https://www.coingecko.com/en/coins/beacon)****\
+[<mark style="color:blue;">**https://coinmarketcap.com/currencies/beacon**</mark>](https://coinmarketcap.com/currencies/beacon)\
+**• Coingecko**\
+[<mark style="color:blue;">**https://www.coingecko.com/en/coins/beacon**</mark>](https://www.coingecko.com/en/coins/beacon)\
 **• Vaultwatch**\
-****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=becn**</mark>](https://vaultwatch.eu/detail.php?coin=becn)****\
+[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=becn**</mark>](https://vaultwatch.eu/detail.php?coin=becn)\
 **• Masternode Online**\
-****[<mark style="color:blue;">**https://masternodes.online/currencies/BECN**</mark>](https://masternodes.online/currencies/BECN)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://masternodes.online/currencies/BECN**</mark>](https://masternodes.online/currencies/BECN)
 
 ## Coin Specs
 

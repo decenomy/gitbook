@@ -3,39 +3,44 @@
 ## Coin Info
 
 • **GitHub**\
-[<mark style="color:blue;">**https://github.com/decenomy/OWO**</mark>](https://github.com/decenomy/OWO)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Wallet Download**\
-[<mark style="color:blue;">**https://github.com/decenomy/OWO/releases/latest**</mark>](https://github.com/decenomy/OWO/releases/latest)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/OWO/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/OWO/bootstrap.zip)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 1** \
-[<mark style="color:blue;">**https://explorer.decenomy.net/OWO/blocks**</mark>](https://explorer.decenomy.net/OWO/blocks)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Explorer 2**\
-[<mark style="color:blue;">**https://owo.flitswallet.app/**</mark>](https://owo.flitswallet.app/)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://github.com/decenomy/OWO**</mark>](https://github.com/decenomy/OWO)\
+• **Wallet Download**\
+[<mark style="color:blue;">**https://github.com/decenomy/OWO/releases/latest**</mark>](https://github.com/decenomy/OWO/releases/latest)\
+• **Bootstrap**\
+[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/OWO/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/OWO/bootstrap.zip)\
+• **Explorer 1** \
+[<mark style="color:blue;">**https://explorer.decenomy.net/OWO/blocks**</mark>](https://explorer.decenomy.net/OWO/blocks)\
+• **Explorer 2**\
+[<mark style="color:blue;">**https://owo.flitswallet.app/**</mark>](https://owo.flitswallet.app/)
 
 ## Tutorials
 
 **• Wallet Guide**\
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)<mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>• **Masternode Setup Guide**\
-[<mark style="color:blue;">**https://github.com/decenomy/OWO/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/OWO/tree/master/contrib/masternodesetup)****
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)\
+• **Masternode Setup Guide**\
+[<mark style="color:blue;">**https://github.com/decenomy/OWO/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/OWO/tree/master/contrib/masternodesetup)
 
 ## Social
 
 **• Twitter**\
-****[<mark style="color:blue;">**https://twitter.com/OWO\_Coin**</mark>](https://twitter.com/OWO\_Coin)****\
+[<mark style="color:blue;">**https://twitter.com/OWO\_Coin**</mark>](https://twitter.com/OWO\_Coin)\
 **• Discord**\
-****[<mark style="color:blue;">**https://discord.com/invite/wN8B6rv9GM**</mark>](https://discord.com/invite/wN8B6rv9GM)****\
+[<mark style="color:blue;">**https://discord.com/invite/wN8B6rv9GM**</mark>](https://discord.com/invite/wN8B6rv9GM)\
 **• Telegram Channel**\
-****[<mark style="color:blue;">**https://t.me/oneworld\_announcements**</mark>](https://t.me/oneworld\_announcements)****\
+[<mark style="color:blue;">**https://t.me/oneworld\_announcements**</mark>](https://t.me/oneworld\_announcements)\
 **• Telegram Group**\
-****[<mark style="color:blue;">**https://t.me/oneworldowo**</mark>](https://t.me/oneworldowo)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://t.me/oneworldowo**</mark>](https://t.me/oneworldowo)
 
 ## Price, Staking and Masternodes Statistic
 
 **• Coingecko**\
-****[<mark style="color:blue;">**https://www.coingecko.com/en/coins/one-world-coin**</mark>](https://www.coingecko.com/en/coins/one-world-coin)****\
+[<mark style="color:blue;">**https://www.coingecko.com/en/coins/one-world-coin**</mark>](https://www.coingecko.com/en/coins/one-world-coin)\
 **• Vaultwatch**\
-****[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=owo**</mark>](https://vaultwatch.eu/detail.php?coin=owo)****\
+[<mark style="color:blue;">**https://vaultwatch.eu/detail.php?coin=owo**</mark>](https://vaultwatch.eu/detail.php?coin=owo)\
 **• Masternode Online**\
-****[<mark style="color:blue;">**https://masternodes.online/currencies/OWO**</mark>](https://masternodes.online/currencies/OWO)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://masternodes.online/currencies/OWO**</mark>](https://masternodes.online/currencies/OWO)
 
 ## Coin Specs
 

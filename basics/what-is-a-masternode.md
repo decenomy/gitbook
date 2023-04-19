@@ -17,7 +17,7 @@ These services include:
 
 To simplify, a masternode can provide a passive income by locking your coins up for as long as you choose and in return receive coins back regularly for doing so.
 
-****
+
 
 **What is collateral?**
 
@@ -38,7 +38,7 @@ Every coin differs in collateral amounts, in addition the collateral may change 
 \
 **What is ROI?**
 
-ROI is Return on Investment. **** It is the percentage you will earn back on your initial investment based on an annual figure.
+ROI is Return on Investment. It is the percentage you will earn back on your initial investment based on an annual figure.
 
 
 
