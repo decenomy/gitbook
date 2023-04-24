@@ -8,17 +8,17 @@ description: >-
 
 Welcome to DECENOMY Documentation\
 \
-We strive to provide comprehensive support for various features and tasks in the POS/MN space through our informative articles, which include text, video, and pictures to ensure clarity and ease of understanding.
+We strive to provide comprehensive support for various features and tasks in the POS/MN space through our informative articles, which include text, video, and pictures, to ensure clarity and ease of understanding.
 
-Our documentation is a continuous effort and will be constantly updated and expanded as we deem it necessary to include more useful information.\
+Our documentation is a continuous effort and will be constantly updated and expanded as we deem it necessary to include more helpful information.\
 \
-Please use existing categories for efficient searches.
+Please use existing categories for efficient searches:
 
 <details>
 
 <summary><a href="tutorials/">Tutorials</a></summary>
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**DECENOMY Explorer**</mark>](tutorials/decenomy-explorer/)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**DECENOMY Explorer**</mark>](tutorials/decenomy-explorer/)
 
 * [Overview](tutorials/decenomy-explorer/overview.md)
 * [Latest blocks](tutorials/decenomy-explorer/latest-blocks.md)
@@ -61,29 +61,29 @@ Please use existing categories for efficient searches.
 
 <summary><a href="coins/">Coins</a></summary>
 
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Azzure (AZR)</mark>](coins/aezora-azr.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Beacon (BECN)</mark>](coins/beacon-becn.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Birake (BIR)</mark>](coins/birake-bir.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Cryptoflow (CFL)</mark>](coins/cryptoflow-cfl.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Cryptosaga (SAGA)</mark>](coins/cryptosaga-saga.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Dash Diamond (DASHD)</mark>](coins/dash-diamond-dashd.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Eskacoin (ESK)</mark>](coins/eskacoin-esk.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Flits (FLS)</mark> ](coins/flits-fls.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Jackpot (777)</mark>](coins/jackpot-777.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Kyanite (KYAN)</mark>](coins/kyanite-kyan.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Mobility Coin (MOBIC)</mark>](coins/mobility-coin-mobic.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Monk (MONK)</mark>](coins/monk-monk.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">One World (OWO)</mark>](coins/one-world-owo.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Peony (PNY)</mark>](coins/peony-pny.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Sapphire (SAPP)</mark>](coins/sapphire-sapp.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Suvereno (SUV)</mark>](coins/suvereno-suv.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Ultra Clear (UCR)</mark>](coins/ultra-clear-ucr.md)<mark style="color:blue;"></mark>
+* [<mark style="color:blue;">Azzure (AZR)</mark>](coins/aezora-azr.md)
+* [<mark style="color:blue;">Beacon (BECN)</mark>](coins/beacon-becn.md)
+* [<mark style="color:blue;">Birake (BIR)</mark>](coins/birake-bir.md)
+* [<mark style="color:blue;">Cryptoflow (CFL)</mark>](coins/cryptoflow-cfl.md)
+* [<mark style="color:blue;">Cryptosaga (SAGA)</mark>](coins/cryptosaga-saga.md)
+* [<mark style="color:blue;">Dash Diamond (DASHD)</mark>](coins/dash-diamond-dashd.md)
+* [<mark style="color:blue;">Eskacoin (ESK)</mark>](coins/eskacoin-esk.md)
+* [<mark style="color:blue;">Flits (FLS)</mark> ](coins/flits-fls.md)
+* [<mark style="color:blue;">Jackpot (777)</mark>](coins/jackpot-777.md)
+* [<mark style="color:blue;">Kyanite (KYAN)</mark>](coins/kyanite-kyan.md)
+* [<mark style="color:blue;">Mobility Coin (MOBIC)</mark>](coins/mobility-coin-mobic.md)
+* [<mark style="color:blue;">Monk (MONK)</mark>](coins/monk-monk.md)
+* [<mark style="color:blue;">One World (OWO)</mark>](coins/one-world-owo.md)
+* [<mark style="color:blue;">Peony (PNY)</mark>](coins/peony-pny.md)
+* [<mark style="color:blue;">Sapphire (SAPP)</mark>](coins/sapphire-sapp.md)
+* [<mark style="color:blue;">Suvereno (SUV)</mark>](coins/suvereno-suv.md)
+* [<mark style="color:blue;">Ultra Clear (UCR)</mark>](coins/ultra-clear-ucr.md)
 
 </details>
 
 <details>
 
-<summary><strong></strong><a href="basics/"><strong>Basics</strong></a><strong></strong></summary>
+<summary><a href="basics/"><strong>Basics</strong></a></summary>
 
 * [What is a Masternode?](basics/what-is-a-masternode.md)
 * [Staying safe on Discord](basics/staying-safe-on-discord.md)
