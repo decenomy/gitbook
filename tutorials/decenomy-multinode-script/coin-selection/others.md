@@ -1,5 +1,5 @@
 ---
-description: ( Script option detailed )
+description: Script option detailed
 ---
 
 # Others

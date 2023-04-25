@@ -44,9 +44,9 @@ Please use existing categories for efficient searches:
 
 <mark style="color:blue;">**Masternodes**</mark>
 
-* [Masternode deploy on VPS](tutorials/masternodes/how-to-deploy-a-masternode-on-vps.md)
+* [Masternode deploy on VPS](broken-reference)
 * [Masternode collateral update](tutorials/masternodes/how-to-update-a-masternode-collateral.md)
-* [How to run multiple MNs on the same VPS](tutorials/masternodes/how-to-run-multiple-mns-on-the-same-vps.md)
+* [How to run multiple MNs on the same VPS](broken-reference)
 * [Create a Masternode on IHostMN.com](tutorials/masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
 * [Shared Masternode management on Crypos](tutorials/masternodes/shared-masternode-management-on-crypos.md)
 

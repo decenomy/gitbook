@@ -4,7 +4,7 @@ description: >-
   deployment.
 ---
 
-# Environment basis
+# ▪ Environment basis
 
 The installation of the files provided by this script has been done properly, taking into account the best security practices.\
 \

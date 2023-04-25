@@ -20,7 +20,7 @@ So let's dive in and explore the exciting possibilities of masternodes and proof
 
 <summary><a href="./">Tutorials</a></summary>
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**DECENOMY Explorer**</mark>](decenomy-explorer/)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**DECENOMY Explorer**</mark>](decenomy-explorer/)
 
 * [Overview](decenomy-explorer/overview.md)
 * [Latest blocks](decenomy-explorer/latest-blocks.md)
@@ -46,9 +46,9 @@ So let's dive in and explore the exciting possibilities of masternodes and proof
 
 <mark style="color:blue;">**Masternodes**</mark>
 
-* [Masternode deploy on VPS](masternodes/how-to-deploy-a-masternode-on-vps.md)
+* [Masternode deploy on VPS](broken-reference)
 * [Masternode collateral update](masternodes/how-to-update-a-masternode-collateral.md)
-* [How to run multiple MNs on the same VPS](masternodes/how-to-run-multiple-mns-on-the-same-vps.md)
+* [How to run multiple MNs on the same VPS](broken-reference)
 * [Create a Masternode on IHostMN.com](masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
 * [Shared Masternode management on Crypos](masternodes/shared-masternode-management-on-crypos.md)
 
