@@ -18,7 +18,7 @@ The script will always have the latest wallet coin versions available as soon as
 
 The script was designed to be installed on pre-purchased Virtual Private Servers (VPS) running a Linux distribution.\
 \
-To install and run the script for the first time, copy and paste the full command below into a terminal prompt :
+To install and run the script for the first time, copy and paste the full command below into a terminal prompt with root privileges:
 
 **`wget -q https://raw.githubusercontent.com/decenomy/mnscript/main/decenomy.sh && bash decenomy.sh`**
 

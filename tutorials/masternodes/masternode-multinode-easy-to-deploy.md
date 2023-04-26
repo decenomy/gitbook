@@ -37,7 +37,7 @@ description: >-
 \
 To get started, we need to install the [**DECENOMY Multinode Script**](../decenomy-multinode-script/) on the purchased VPS.\
 \
-To install and run the script for the first time, you should copy and paste the following command into your terminal emulator after connecting to your VPS :
+To install and run the script for the first time, you should copy and paste the following command into your terminal emulator after connecting to your VPS, with root privileges:&#x20;
 
 **`wget -q https://raw.githubusercontent.com/decenomy/mnscript/main/decenomy.sh && bash decenomy.sh`**
 
