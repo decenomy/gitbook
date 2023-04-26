@@ -33,24 +33,24 @@ So let's dive in and explore the exciting possibilities of masternodes and proof
 
 <mark style="color:blue;">**Wallet**</mark>
 
-* [How to use the DECENOMY wallet](wallet/how-to-use-the-decenomy-wallets.md)
-* [Encrypting a wallet](wallet/how-to-encrypt-a-wallet.md)
-* [Extra connections ( addnodes )](wallet/how-to-add-addnodes.md)
-* [Fast sync with a Bootstrap](wallet/how-to-synchronize-the-wallet-with-a-bootstrap.md)
-* [Wallet update](wallet/how-to-update-a-wallet.md)
-* [Staking process on desktop wallet](wallet/how-to-stake-coins.md)
-* [Staking process on a VPS](wallet/staking-process-on-a-vps.md)
-* [Staking Best Practices](wallet/staking-optimization-and-common-problems.md)
-* [Backup wallet on an external device](wallet/how-to-make-a-backup-on-a-usb-stick.md)
-* [Restoring a backup from an external device](wallet/restoring-a-backup-from-an-external-device.md)
+* [How to use the DECENOMY wallet](decenomy-wallet/how-to-use-the-decenomy-wallets.md)
+* [Encrypting a wallet](decenomy-wallet/how-to-encrypt-a-wallet.md)
+* [Extra connections ( addnodes )](decenomy-wallet/how-to-add-addnodes.md)
+* [Fast sync with a Bootstrap](decenomy-wallet/how-to-synchronize-the-wallet-with-a-bootstrap.md)
+* [Wallet update](decenomy-wallet/how-to-update-a-wallet.md)
+* [Staking process on desktop wallet](decenomy-wallet/how-to-stake-coins.md)
+* [Staking process on a VPS](decenomy-wallet/staking-process-on-a-vps.md)
+* [Staking Best Practices](decenomy-wallet/staking-optimization-and-common-problems.md)
+* [Backup wallet on an external device](decenomy-wallet/how-to-make-a-backup-on-a-usb-stick.md)
+* [Restoring a backup from an external device](decenomy-wallet/restoring-a-backup-from-an-external-device.md)
 
 <mark style="color:blue;">**Masternodes**</mark>
 
 * [Masternode deploy on VPS](broken-reference)
-* [Masternode collateral update](masternodes/how-to-update-a-masternode-collateral.md)
+* [Masternode collateral update](decenomy-masternodes/how-to-update-a-masternode-collateral.md)
 * [How to run multiple MNs on the same VPS](broken-reference)
-* [Create a Masternode on IHostMN.com](masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
-* [Shared Masternode management on Crypos](masternodes/shared-masternode-management-on-crypos.md)
+* [Create a Masternode on IHostMN.com](decenomy-masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
+* [Shared Masternode management on Crypos](decenomy-masternodes/shared-masternode-management-on-crypos.md)
 
 <mark style="color:blue;">**Exchange**</mark>
 

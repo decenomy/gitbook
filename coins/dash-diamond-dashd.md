@@ -16,9 +16,9 @@
 ## Tutorials
 
 **• Wallet Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/wallet/)\
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/decenomy-wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/masternodes/)\
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/decenomy-masternodes/)\
 • **Masternode Setup Guide**\
 <mark style="color:blue;">**https://github.com/decenomy/DASHD/tree/master/contrib/masternodesetup**</mark>
 

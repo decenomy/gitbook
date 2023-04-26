@@ -31,24 +31,24 @@ Please use existing categories for efficient searches:
 
 <mark style="color:blue;">**Wallet**</mark>
 
-* [How to use the DECENOMY wallet](tutorials/wallet/how-to-use-the-decenomy-wallets.md)
-* [Encrypting a wallet](tutorials/wallet/how-to-encrypt-a-wallet.md)
-* [Extra connections ( addnodes )](tutorials/wallet/how-to-add-addnodes.md)
-* [Fast sync with a Bootstrap](tutorials/wallet/how-to-synchronize-the-wallet-with-a-bootstrap.md)
-* [Wallet update](tutorials/wallet/how-to-update-a-wallet.md)
-* [Staking process on desktop wallet](tutorials/wallet/how-to-stake-coins.md)
-* [Staking process on a VPS](tutorials/wallet/staking-process-on-a-vps.md)
-* [Staking Best Practices](tutorials/wallet/staking-optimization-and-common-problems.md)
-* [Backup wallet on an external device](tutorials/wallet/how-to-make-a-backup-on-a-usb-stick.md)
-* [Restoring a backup from an external device](tutorials/wallet/restoring-a-backup-from-an-external-device.md)
+* [How to use the DECENOMY wallet](tutorials/decenomy-wallet/how-to-use-the-decenomy-wallets.md)
+* [Encrypting a wallet](tutorials/decenomy-wallet/how-to-encrypt-a-wallet.md)
+* [Extra connections ( addnodes )](tutorials/decenomy-wallet/how-to-add-addnodes.md)
+* [Fast sync with a Bootstrap](tutorials/decenomy-wallet/how-to-synchronize-the-wallet-with-a-bootstrap.md)
+* [Wallet update](tutorials/decenomy-wallet/how-to-update-a-wallet.md)
+* [Staking process on desktop wallet](tutorials/decenomy-wallet/how-to-stake-coins.md)
+* [Staking process on a VPS](tutorials/decenomy-wallet/staking-process-on-a-vps.md)
+* [Staking Best Practices](tutorials/decenomy-wallet/staking-optimization-and-common-problems.md)
+* [Backup wallet on an external device](tutorials/decenomy-wallet/how-to-make-a-backup-on-a-usb-stick.md)
+* [Restoring a backup from an external device](tutorials/decenomy-wallet/restoring-a-backup-from-an-external-device.md)
 
 <mark style="color:blue;">**Masternodes**</mark>
 
 * [Masternode deploy on VPS](broken-reference)
-* [Masternode collateral update](tutorials/masternodes/how-to-update-a-masternode-collateral.md)
+* [Masternode collateral update](tutorials/decenomy-masternodes/how-to-update-a-masternode-collateral.md)
 * [How to run multiple MNs on the same VPS](broken-reference)
-* [Create a Masternode on IHostMN.com](tutorials/masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
-* [Shared Masternode management on Crypos](tutorials/masternodes/shared-masternode-management-on-crypos.md)
+* [Create a Masternode on IHostMN.com](tutorials/decenomy-masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
+* [Shared Masternode management on Crypos](tutorials/decenomy-masternodes/shared-masternode-management-on-crypos.md)
 
 <mark style="color:blue;">**Exchange**</mark>
 

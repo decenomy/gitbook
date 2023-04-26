@@ -18,7 +18,7 @@ The information provided in this section is easily understandable. It is importa
 \
 Simply click on the 'Download' button, and a \*.zip file will be transferred to your device.\
 \
-For additional assistance regarding bootstrap, please refer to the bootstrap documentation following [<mark style="color:blue;">this link</mark>](../wallet/how-to-synchronize-the-wallet-with-a-bootstrap.md)
+For additional assistance regarding bootstrap, please refer to the bootstrap documentation following [<mark style="color:blue;">this link</mark>](../decenomy-wallet/how-to-synchronize-the-wallet-with-a-bootstrap.md)
 
 ### <mark style="background-color:red;">Section 2</mark>
 
