@@ -38,6 +38,7 @@
     * [▪ Masternode collateral update](tutorials/decenomy-masternodes/how-to-update-a-masternode-collateral.md)
     * [▪ Create a Masternode on IhostMN.com](tutorials/decenomy-masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
     * [▪ Shared Masternode management on Crypos](tutorials/decenomy-masternodes/shared-masternode-management-on-crypos.md)
+    * [▪ Masternode deploy on VPS ( no multinode )](tutorials/decenomy-masternodes/masternode-deploy-on-vps-no-multinode.md)
   * [Exchange](tutorials/exchange/README.md)
     * [▪ How to buy Decenomy coins on Heliobank](tutorials/exchange/how-to-buy-decenomy-coins-on-heliobank.md)
     * [▪ Fiat to Crypto to Decenomy Coins](tutorials/exchange/fiat-to-crypto-to-decenomy-coins.md)
