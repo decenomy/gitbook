@@ -29,7 +29,15 @@ Please use existing categories for efficient searches:
 * [Search by Address](tutorials/decenomy-explorer/search-by-address.md)
 * [Explorer API](tutorials/decenomy-explorer/explorer-api.md)
 
-<mark style="color:blue;">**Wallet**</mark>
+<mark style="color:blue;">**DECENOMY Multinode Script**</mark>
+
+* [<mark style="color:blue;">Environment basis</mark>](tutorials/decenomy-multinode-script/environment-basis.md)
+* [<mark style="color:blue;">Script Screen Overview</mark>](tutorials/decenomy-multinode-script/script-screen-overview.md)
+* [<mark style="color:blue;">Menu Structure</mark>](tutorials/decenomy-multinode-script/menu-structure.md)
+* [<mark style="color:blue;">Main Menu</mark>](tutorials/decenomy-multinode-script/main-menu.md)
+* [<mark style="color:blue;">Coin Selection</mark>](tutorials/decenomy-multinode-script/coin-selection/)
+
+<mark style="color:blue;">**DECENOMY Wallet**</mark>
 
 * [How to use the DECENOMY wallet](tutorials/decenomy-wallet/how-to-use-the-decenomy-wallets.md)
 * [Encrypting a wallet](tutorials/decenomy-wallet/how-to-encrypt-a-wallet.md)
@@ -42,13 +50,13 @@ Please use existing categories for efficient searches:
 * [Backup wallet on an external device](tutorials/decenomy-wallet/how-to-make-a-backup-on-a-usb-stick.md)
 * [Restoring a backup from an external device](tutorials/decenomy-wallet/restoring-a-backup-from-an-external-device.md)
 
-<mark style="color:blue;">**Masternodes**</mark>
+<mark style="color:blue;">**DECENOMY Masternodes**</mark>
 
-* [Masternode deploy on VPS](broken-reference)
+* [<mark style="color:blue;">Maternode Multinode easy to deploy</mark>](tutorials/decenomy-masternodes/masternode-multinode-easy-to-deploy.md)
 * [Masternode collateral update](tutorials/decenomy-masternodes/how-to-update-a-masternode-collateral.md)
-* [How to run multiple MNs on the same VPS](broken-reference)
 * [Create a Masternode on IHostMN.com](tutorials/decenomy-masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
 * [Shared Masternode management on Crypos](tutorials/decenomy-masternodes/shared-masternode-management-on-crypos.md)
+* [<mark style="color:blue;">Masternode deploy on VPS ( no multinode )</mark>](tutorials/decenomy-masternodes/masternode-deploy-on-vps-no-multinode.md)
 
 <mark style="color:blue;">**Exchange**</mark>
 

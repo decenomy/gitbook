@@ -31,7 +31,15 @@ So let's dive in and explore the exciting possibilities of masternodes and proof
 * [Search by Address](decenomy-explorer/search-by-address.md)
 * [Explorer API](decenomy-explorer/explorer-api.md)
 
-<mark style="color:blue;">**Wallet**</mark>
+<mark style="color:blue;">**DECENOMY Multinode Script**</mark>
+
+* [<mark style="color:blue;">Environment basis</mark>](decenomy-multinode-script/environment-basis.md)
+* [<mark style="color:blue;">Script Screen Overview</mark>](decenomy-multinode-script/script-screen-overview.md)
+* [<mark style="color:blue;">Menu Structure</mark>](decenomy-multinode-script/menu-structure.md)
+* [<mark style="color:blue;">Main Menu</mark>](decenomy-multinode-script/main-menu.md)
+* [<mark style="color:blue;">Coin Selection</mark>](decenomy-multinode-script/coin-selection/)
+
+<mark style="color:blue;">**DECENOMY Wallet**</mark>
 
 * [How to use the DECENOMY wallet](decenomy-wallet/how-to-use-the-decenomy-wallets.md)
 * [Encrypting a wallet](decenomy-wallet/how-to-encrypt-a-wallet.md)
@@ -44,17 +52,21 @@ So let's dive in and explore the exciting possibilities of masternodes and proof
 * [Backup wallet on an external device](decenomy-wallet/how-to-make-a-backup-on-a-usb-stick.md)
 * [Restoring a backup from an external device](decenomy-wallet/restoring-a-backup-from-an-external-device.md)
 
-<mark style="color:blue;">**Masternodes**</mark>
+<mark style="color:blue;">**DECENOMY Masternodes**</mark>
 
-* [Masternode deploy on VPS](broken-reference)
+* [<mark style="color:blue;">Maternode Multinode easy to deploy</mark>](decenomy-masternodes/masternode-multinode-easy-to-deploy.md)
 * [Masternode collateral update](decenomy-masternodes/how-to-update-a-masternode-collateral.md)
-* [How to run multiple MNs on the same VPS](broken-reference)
 * [Create a Masternode on IHostMN.com](decenomy-masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
 * [Shared Masternode management on Crypos](decenomy-masternodes/shared-masternode-management-on-crypos.md)
+* [<mark style="color:blue;">Masternode deploy on VPS ( no multinode )</mark>](decenomy-masternodes/masternode-deploy-on-vps-no-multinode.md)
 
 <mark style="color:blue;">**Exchange**</mark>
 
 * [How to buy DECENOMY coins on Heliobank](exchange/how-to-buy-decenomy-coins-on-heliobank.md)
 * [Fiat to Crypto to DECENOMY Coins](exchange/fiat-to-crypto-to-decenomy-coins.md)
+
+
+
+
 
 </details>

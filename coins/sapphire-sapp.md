@@ -16,11 +16,11 @@
 ## Tutorials
 
 **• Wallet Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/wallet**</mark>](../tutorials/decenomy-wallet/)\
+[**https://docs.decenomy.net/tutorials/decenomy-wallet**](../tutorials/decenomy-wallet/)\
 **• Masternode Guide**\
-[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/masternodes**</mark>](../tutorials/decenomy-masternodes/)\
-• **Masternode Setup Guide**\
-[<mark style="color:blue;">**https://github.com/decenomy/SAPP/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/SAPP/tree/master/contrib/masternodesetup)
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/decenomy-masternodes**</mark>](../tutorials/decenomy-masternodes/)\
+• **Masternode Multinode Setup Guide**\
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/decenomy-masternodes/masternode-multinode-easy-to-deploy**</mark>](https://docs.decenomy.net/tutorials/decenomy-masternodes/masternode-multinode-easy-to-deploy)
 
 ## Social
 
