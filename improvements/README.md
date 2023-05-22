@@ -12,6 +12,6 @@ This documentation page provides an overview of the improvements that are being 
 [last-paid-v2.md](last-paid-v2.md)
 {% endcontent-ref %}
 
-{% content-ref url="ebfs-wip.md" %}
-[ebfs-wip.md](ebfs-wip.md)
+{% content-ref url="ebfs.md" %}
+[ebfs.md](ebfs.md)
 {% endcontent-ref %}

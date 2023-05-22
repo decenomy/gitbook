@@ -12,7 +12,11 @@ One place to manage everything related to multinode.
 
 This section lists all the multinodes already installed in the system, taking into account the previously selected coin.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/Script_4_1_List_of_masternodes_in_multinode_List.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The multinode result is always sorted by the alias and then by the masternodeKey.
 
@@ -20,7 +24,11 @@ The multinode result is always sorted by the alias and then by the masternodeKey
 
 This option allows you to add new multinode configurations and view those that have already been created or are currently being created.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/Script_4_2_Add_masternode_to_multinode_List.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### **Section 1**
 
@@ -39,7 +47,11 @@ This is a guide to help you easily understand how to fill out the multinode file
 The multinode information must be entered in steps. \
 First, the alias is requested, and then only the masternodeKey is requested. In this last step, the key can be entered manually or generated automatically by pressing the Enter key.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/Script_4_3_Add_masternode_to_multinode_List.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 This screen also shows the previously introduced alias as a reference.
 
@@ -47,6 +59,10 @@ This screen also shows the previously introduced alias as a reference.
 
 This is an easy way to delete previously introduced multinode information.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/Script_4_4_Delete_masternode_from_multinode_List.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Each line is numbered, making it easier to select the exact information to be deleted. After the selection is made, a confirmation screen is displayed and upon confirmation, the screen is updated with the final information.

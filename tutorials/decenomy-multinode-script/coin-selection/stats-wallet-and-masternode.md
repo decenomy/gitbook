@@ -12,7 +12,11 @@ When selecting **\[3] Stats Wallet and masternode**, a screen will appear with o
 
 A comprehensive overview of all the information needed to keep track of the wallet associated with the masternode.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/Script_5_1_Wallet_statistics.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### Section 1
 
@@ -44,7 +48,11 @@ If any of the reported information is incorrect, the **"Wallet Management"** opt
 
 Detailed information about masternodes running in the system
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/1_12_Script_masternode_stats (1).PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 * _**Multinode Status**_\
   Displays information about the entire broadcast of the multinode
@@ -59,13 +67,21 @@ This option is a simple action that refreshes the screen content to provide up-t
 
 Classic view of each masternode, with more detailed information about its status in the network
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/1_13_Script_Masternode_status_complete_info (1).PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### \[3] - Masternode on explorer
 
 This option will ping the Decenomy explorer using the VPS IP to check if the masternode is actually running and broadcasting information to the blockchain. This process and the information provided will help avoid the need for the user to check the explorer themselves, making this tool the only place needed to check the real state of the masternode.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/1_14_Script_Masternode_on_explorer (1).PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### \[4] - Wallet management
 

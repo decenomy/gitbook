@@ -6,7 +6,11 @@ description: Breakdown of the important areas in the screen
 
 To provide a more detailed understanding of this tool, it would be helpful to explain how the information is organized on the screen. This will make it easier for users to understand the documentation and how to use the script.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/Script_0_screen_overview.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Section 1
 

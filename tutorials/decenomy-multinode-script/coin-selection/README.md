@@ -8,17 +8,29 @@ This menu has a dynamic result depending on what is installed in the system.\
 \
 If the coin masternode is not installed, you will be prompted to install it, as shown in the image below.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/Script_2_0_coin_selection.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The master node installation process will display information about the current step. It is unlikely that the installation will get stuck, although the screen may appear frozen or the process may appear to have stopped. It is advisable to wait for some time before abruptly terminating the process. \
 \
 For reference, the complete automated process is shown in the image below.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/Script_2_1_wallet_installation.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Once the installation is complete, the coin selection screen for the installation will no longer be available and the coin selection screen will now be this one:
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/Script_2_2_coin_selection.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 As you move forward in the script, everything is related to the coin selected in the main menu. In this case, it is Sapphire.\
 \

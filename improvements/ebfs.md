@@ -2,7 +2,11 @@
 description: Enhanced Blockchain Features (EBFs)
 ---
 
-# EBFs (WIP)
+# EBFs
+
+### _<mark style="color:yellow;">EBF features are still in the work-in-progress phase</mark>_
+
+
 
 Enhanced Blockchain Features (EBFs) refer to functional extensions of a regular UTXO-based blockchain, such as Bitcoin. Comparable to Ethereum contracts, EBFs are stateful and Turing complete, providing the ability to compose functionalities that complement and strengthen the regular stateless UTXO model. However, it is noteworthy that EBFs should not be authored or released by the general public since they will extend and interact with vital components of the blockchain. Such crucial components include the capacity for generating new coins, thereby rendering EBFs a high-security standard and sensitive element. EBFs amalgamate the practicability and determinism of a blockchain's UTXO model with the strengths of natively developed Turing complete functionalities.
 

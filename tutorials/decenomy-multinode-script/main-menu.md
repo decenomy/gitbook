@@ -4,7 +4,11 @@ description: Screen overview and detailed options
 
 # ▪ Main Menu
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/Script_1_main_menu.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 On this first screen, we can perform 3 different operations.
 

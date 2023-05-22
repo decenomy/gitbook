@@ -4,7 +4,11 @@ description: Script option detailed
 
 # Reinstall masternode multinode
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/Script_3_0_reinstall_masternode_multinode.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 This option will perform a new installation of the masternode wallet in the system. This action will delete all previous files related to the previously selected coin. \
 \

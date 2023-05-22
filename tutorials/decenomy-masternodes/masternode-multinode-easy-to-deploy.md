@@ -48,13 +48,21 @@ _**./decenomy**_\
 \
 Your terminal emulator will display a screen like the one shown below:
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/Script_1_main_menu.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Enter the number of the coin you want to install the masternode on and follow the script instructions. ( if you need help on the script side, please follow this chapter at Multinode script - [<mark style="color:blue;">**link**</mark>](../decenomy-multinode-script/coin-selection/) )\
 \
 At the end you will get a screen like this:
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/Script_2_2_1coin_selection.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Leave the terminal emulator in this state so that you have access to the VPS IP shown above, which will be used in the next step for the Local Wallet.
 
@@ -68,7 +76,11 @@ Make sure you have enough funds in your wallet to process the collateral creatio
 
 Once the collateral is created, please open the _**masternode.conf**_ file by selecting the icon in the upper right corner and using your preferred text editor.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/1_18_Script_Masternode_open_masternode_conf.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The contents of the file will always be organized in the same order.
 
@@ -91,7 +103,11 @@ In this example, we will have three masternodeprivkeys for each of the three mas
 
 On your terminal emulator, follow the steps illustrated below to add the masternodeprivkey and create your masternode multinode. If you need more help with the script, please refer to this chapter on the **Multinode script** - [<mark style="color:blue;">**link**</mark>](../decenomy-multinode-script/coin-selection/masternode-multinode-management.md) )
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/Add_Multinodes.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 At this point, we should already have:\
 \
@@ -103,7 +119,11 @@ On the terminal emulator, on the script side, follow the instructions:\
 **Coin Selected** - **Wallet and masternode stats** - **Masternode Statistics** \
 We should be able to see the following information, indicating that three masternodes have been created, but are still disabled:
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/1_10_MN_ready_launch.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 When we reach this point we can go back to our local wallet and start the masternodes by clicking on the "**Start all**" button.\
 \
@@ -113,7 +133,11 @@ Note: If you are adding more masternodes to those already created and enabled, p
 
 After executing the start command on the local wallet, if we reload the information available to our script running on the VPS, we can see that our masternodes have become active on the network.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/1_12_Script_masternode_stats.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Going deeper into the script, we can see the classic masternode report with **status 4**. To do this, select **option 2**, "**Masternode status complete info**". This will give us more detailed information about the status of our masternodes in the network.
 
