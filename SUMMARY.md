@@ -65,3 +65,7 @@
   * [▪ Staying safe on Discord](basics/staying-safe-on-discord.md)
   * [▪ How to secure your environment](basics/how-to-secure-your-environment.md)
   * [▪ Staking statistics on VaultWatch](basics/staking-statistics-on-vaultwatch.md)
+* [Improvements](improvements/README.md)
+  * [Last Paid V2](improvements/last-paid-v2.md)
+  * [Masternode Payment V2](improvements/masternode-payment-v2.md)
+  * [EBFs (WIP)](improvements/ebfs-wip.md)
