@@ -4,9 +4,6 @@ This documentation page provides an overview of the improvements that are being 
 
 ### New Features
 
-* [Last Paid V2](https://app.gitbook.com/o/-MiHp-KHheyHIlVQn3UX/s/-MiHm486VotxVq44a\_Jg/\~/changes/193/improvements/last-paid-v2)
-* [Masternode Payment V2](https://app.gitbook.com/o/-MiHp-KHheyHIlVQn3UX/s/-MiHm486VotxVq44a\_Jg/\~/changes/193/improvements/masternode-payment-v2)
-
 {% content-ref url="masternode-payment-v2.md" %}
 [masternode-payment-v2.md](masternode-payment-v2.md)
 {% endcontent-ref %}
@@ -15,6 +12,6 @@ This documentation page provides an overview of the improvements that are being 
 [last-paid-v2.md](last-paid-v2.md)
 {% endcontent-ref %}
 
-{% content-ref url="masternode-payment-v2.md" %}
-[masternode-payment-v2.md](masternode-payment-v2.md)
+{% content-ref url="ebfs-wip.md" %}
+[ebfs-wip.md](ebfs-wip.md)
 {% endcontent-ref %}
