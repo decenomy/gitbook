@@ -68,4 +68,4 @@
 * [Improvements](improvements/README.md)
   * [Last Paid V2](improvements/last-paid-v2.md)
   * [Masternode Payment V2](improvements/masternode-payment-v2.md)
-  * [EBFs](improvements/ebfs.md)
+  * [EBF system](improvements/ebf-system.md)

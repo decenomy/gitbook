@@ -1,10 +1,10 @@
 ---
-description: Enhanced Blockchain Features (EBFs)
+description: Enhanced Blockchain Features (EBFs) system
 ---
 
-# EBFs
+# EBF system
 
-### _<mark style="color:yellow;">EBF features are still in the work-in-progress phase</mark>_
+### _<mark style="color:yellow;">EBF system is still in the work-in-progress phase</mark>_
 
 
 
