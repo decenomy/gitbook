@@ -99,3 +99,14 @@ Please use existing categories for efficient searches:
 * [Staking statistics on VaultWatch](basics/staking-statistics-on-vaultwatch.md)
 
 </details>
+
+<details>
+
+<summary><a href="tutorials/decenomy-explorer/search-by-block-and-or-hash.md">Blockchain Development</a></summary>
+
+* [Last Paid V2](blockchain-development/improvements/last-paid-v2.md)
+* [Masternode Payment V2](blockchain-development/improvements/masternode-payment-v2.md)
+* [Dynamic Collateral](blockchain-development/improvements/dynamic-collateral.md)
+* [EBF System](blockchain-development/improvements/ebf-system.md)
+
+</details>

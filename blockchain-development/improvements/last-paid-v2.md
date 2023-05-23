@@ -6,7 +6,7 @@ description: >-
 
 # Last Paid V2
 
-### **Introducing Last Paid V2**
+## **Introducing Last Paid V2**
 
 One of the features of the masternode system is the ability to track when a masternode (MN) was last paid. This information is useful for determining the order of payments and the expected time until the next payment. \
 \
@@ -16,10 +16,12 @@ _**The last paid v2 is a new feature that aims to solve these problems and impro
 
 
 
-### Challenges and limitations of the current version last paid v1
+## Challenges and limitations of the current version last paid v1
 
 The current method of calculating the last paid value of an MN is based on the number of votes that an MN receives from other MNs in the network. \
+\
 The inherited PIVX system uses a voting mechanism to select which MN will receive the next payment. Each MN casts a vote for another MN that it thinks should be paid next, based on various criteria such as the last paid value, the protocol version, and the collateral age. \
+\
 The MN that receives the most votes in a given block is selected as the winner and receives the payment.
 
 However, this voting mechanism has some drawbacks and limitations.&#x20;
@@ -30,9 +32,10 @@ However, this voting mechanism has some drawbacks and limitations.&#x20;
 
 
 
-### **Introducing a Blockchain-based solution**
+## **Introducing a Blockchain-based solution**
 
 The last paid v2 is a new feature that addresses these issues and replaces the old voting mechanism entirely. \
+\
 _**Instead of using votes to determine when an MN was paid, it uses the blockchain itself as the source of truth.**_
 
 * The blockchain records every payment that is made to an MN in a special field called "payee".&#x20;
@@ -43,7 +46,7 @@ This way, **it can accurately and objectively determine which MN was waiting lon
 
 
 
-### **Advantages of Last Paid V2**
+## **Advantages of Last Paid V2**
 
 The last paid v2 has several advantages over the old voting mechanism.
 
@@ -53,6 +56,6 @@ The last paid v2 has several advantages over the old voting mechanism.
 
 3. **Provides a consistent and transparent way to measure the last paid value of an MN** across different nodes in the network. Every node can easily calculate and verify this value by scanning the same blockchain data.
 
-The **last paid v2 is a major improvement for the masternode system** and for DECENOMY coins as a whole. \
-It enhances the accuracy and reliability of the payment system, increases its fairness and efficiency, and reduces its complexity and potential for errors. \
+The **last paid v2 is a major improvement for the masternode system** and for DECENOMY coins as a whole. It enhances the accuracy and reliability of the payment system, increases its fairness and efficiency, and reduces its complexity and potential for errors. \
+\
 It also makes DECENOMY coins more attractive and competitive as a cryptocurrency that rewards its users for securing and supporting its network.
