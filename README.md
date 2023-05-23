@@ -93,7 +93,7 @@ Please use existing categories for efficient searches:
 
 <summary><a href="basics/"><strong>Basics</strong></a></summary>
 
-* [What is a Masternode?](basics/what-is-a-masternode.md)
+* [What is a Masternode?](basics/what-is-a-masternode-1.md)
 * [Staying safe on Discord](basics/staying-safe-on-discord.md)
 * [How to secure your environment](basics/how-to-secure-your-environment.md)
 * [Staking statistics on VaultWatch](basics/staking-statistics-on-vaultwatch.md)
