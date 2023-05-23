@@ -3,6 +3,7 @@
 * [DECENOMY Documentation](README.md)
 * [Blockchain Development](blockchain-development/README.md)
   * [Improvements](blockchain-development/improvements/README.md)
+    * [Dynamic Collateral](blockchain-development/improvements/dynamic-collateral.md)
     * [Last Paid V2](blockchain-development/improvements/last-paid-v2.md)
     * [Masternode Payment V2](blockchain-development/improvements/masternode-payment-v2.md)
     * [EBF system](blockchain-development/improvements/ebf-system.md)
