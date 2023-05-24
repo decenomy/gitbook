@@ -10,15 +10,15 @@ description: >-
 
 One of the features of the masternode system is the ability to track when a masternode (MN) was last paid. This information is useful for determining the order of payments and the expected time until the next payment. \
 \
-However, the current method of calculating the last paid value of an MN has some flaws and inaccuracies that can affect the fairness and efficiency of the payment system. \
+However, the current standard method of calculating the last paid value of an MN has some flaws and inaccuracies that can affect the fairness and efficiency of the payment system. \
 \
 _**The last paid v2 is a new feature that aims to solve these problems and improve the accuracy and reliability of the last paid value.**_
 
 
 
-## Challenges and limitations of the current version last paid v1
+## Challenges and limitations of the standard version
 
-The current method of calculating the last paid value of an MN is based on the number of votes that an MN receives from other MNs in the network. \
+The current standard method of calculating the last paid value of an MN is based on the number of votes that an MN receives from other MNs in the network. \
 \
 The inherited PIVX system uses a voting mechanism to select which MN will receive the next payment. Each MN casts a vote for another MN that it thinks should be paid next, based on various criteria such as the last paid value, the protocol version, and the collateral age. \
 \

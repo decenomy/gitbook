@@ -4,18 +4,21 @@ description: Detailed information about the Masternode concept and how it works
 
 # ▪ What is a Masternode?
 
-A Masternode (MN for short) is a full node that meets certain criteria set by the blockchain network. \
+A Masternode (MN for short) is a full node in a blockchain network that helps secure the network by consensus and improves the blockchain's functionality.
+
 It operates on a dedicated server with a static IP address, ensuring a high level of availability and reliability, and is only eligible if it meets the required amount of secured collateral.
 
-A Masternode in the network performs some specialized tasks and enhances the functionality and security of the blockchain network. In exchange for providing such capabilities to the network, the MN owner receives a portion of the block reward.
+The MN owner is compensated for contributing to the network's capabilities with a portion of the block reward.
 
 ## Masternode specialized tasks
 
 A Masternode enhances the functionality and security of the blockchain network. \
-They validate and store blocks of transactions, helping to maintain the integrity of the network's ledger and prevent malicious activities like double-spending playing this way a role in ensuring the security and immutability of the blockchain data.\
 \
-Masternodes can also help enhance the scalability and stability of the blockchain network. \
-By offloading certain tasks and responsibilities from regular nodes, Masternodes help reduce the network's burden, improve performance, and ensure efficient operation even as the network grows.
+They validate and store blocks of transactions, helping to maintain the integrity of the network's ledger and prevent malicious activities like double spending, thus helping to ensure the security and immutability of blockchain data.\
+\
+Masternodes can also help improve the scalability and stability of the blockchain network.\
+&#x20;\
+By offloading certain tasks and responsibilities from regular nodes, Masternodes help reduce the network load, improve performance, and ensure efficient operation even as the network grows.
 
 ## Collateral Required
 

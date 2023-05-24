@@ -8,7 +8,7 @@ description: >-
 
 DSW stands for Decenomy Standard Wallet and is a cryptocurrency platform part of DECENOMY, a project network that shares the same wallet codebase and blockchain infrastructure, enabling cross-chain interoperability and governance among the DECENOMY projects. \
 \
-DSW is a BITCOIN fork based on PIVX, which is also based on DASH.\
+DSW is a PIVX fork based on DASH, which is also based on Bitcoin.\
 \
 One of the features that DSW supports is changing collateral values for masternodes, opposite to DASH and PIVX where the collateral is constant. \
 

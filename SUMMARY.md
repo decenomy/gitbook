@@ -2,8 +2,9 @@
 
 * [DECENOMY Documentation](README.md)
 * [Basics](basics/README.md)
-  * [▪ What is a Spork?](basics/what-is-a-spork.md)
+  * [▪ What is a Blockchain?](basics/what-is-a-blockchain.md)
   * [▪ What is a Masternode?](basics/what-is-a-masternode.md)
+  * [▪ What is a Spork?](basics/what-is-a-spork.md)
   * [▪ Staying safe on Discord](basics/staying-safe-on-discord.md)
   * [▪ How to secure your environment](basics/how-to-secure-your-environment.md)
   * [▪ Staking statistics on VaultWatch](basics/staking-statistics-on-vaultwatch.md)
