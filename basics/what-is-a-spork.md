@@ -18,8 +18,8 @@ Sporks work by allowing cryptocurrency developers to change some network paramet
 
 ## Some examples of cryptocurrencies using sporks are:
 
-* **Dash** is a digital currency that uses sporks to activate new features such as InstantSend and PrivateSend without disrupting the network³.
-* **Zcash** is a privacy-focused cryptocurrency that uses sporks to control the activation of network upgrades such as Sapling and Heartwood³.
+* **Dash** is a digital currency that uses sporks to activate new features such as InstantSend and PrivateSend without disrupting the network.
+* **Zcash** is a privacy-focused cryptocurrency that uses sporks to control the activation of network upgrades such as Sapling and Heartwood.
 * **PIVX** is a fork of Dash that also uses sporks to implement changes and improvements to the network. PIVX stands for **Protected Instant Verified Transactions** and aims to provide fast, secure, and private transactions.
 * **DSW is** a common platform used by **DECENOMY** and is a network of projects that share the same wallet codebase and blockchain infrastructure. DSW stands for **Decenomy Standard Wallet** and enables cross-chain interoperability and governance among the DECENOMY projects.
 

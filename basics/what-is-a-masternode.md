@@ -1,83 +1,59 @@
+---
+description: Detailed information about the Masternode concept and how it works
+---
+
 # ▪ What is a Masternode?
 
-## What is a Masternode
+A Masternode (MN for short) is a full node that meets certain criteria set by the blockchain network. \
+It operates on a dedicated server with a static IP address, ensuring a high level of availability and reliability, and is only eligible if it meets the required amount of secured collateral.
 
-{% embed url="https://youtu.be/WUOcQZBcC7E" %}
+A Masternode in the network performs some specialized tasks and enhances the functionality and security of the blockchain network. In exchange for providing such capabilities to the network, the MN owner receives a portion of the block reward.
 
-**What is a Masternode?**
+## Masternode specialized tasks
 
+A Masternode enhances the functionality and security of the blockchain network. \
+They validate and store blocks of transactions, helping to maintain the integrity of the network's ledger and prevent malicious activities like double-spending playing this way a role in ensuring the security and immutability of the blockchain data.\
 \
-A Masternode is a computer running a full node wallet of the desired coin, with a required amount of secured collateral in order to provide extra services to the network, and in return, receive a portion of the block reward regularly.
+Masternodes can also help enhance the scalability and stability of the blockchain network. \
+By offloading certain tasks and responsibilities from regular nodes, Masternodes help reduce the network's burden, improve performance, and ensure efficient operation even as the network grows.
 
-These services include:
+## Collateral Required
 
-* A decentralized governance.
-* Validation of transactions within each block.
-* It acts as an additional full node in the network.
+Operating a masternode requires a collateral amount of the cryptocurrency's coin to be locked in a dedicated wallet. This collateral ensures that the Masternode owner has a financial stake in the network and discourages malicious behavior.
 
-To simplify, a masternode can provide a passive income by locking your coins up for as long as you choose and in return receive coins back regularly for doing so.
-
-
-
-**What is collateral?**
-
-This is the amount of coins required to run a Masternode.
-
-
-
-**If I put my coins or collateral into a Master-node, are they gone forever?**
-
-No, when you run a Masternode yourself the coins remain in your wallet, once you decide to stop running the Masternode the coins become "unlocked" again and are free to use.
-
-
-
-**How much is the collateral for running a Masternode?**
-
-Every coin differs in collateral amounts, in addition the collateral may change after certain blocks. You can find all info on this from the coins discord server.
-
+The amount of coins in the collateral is always provided by the blockchain and is a unique value that must be exactly as requested. Can't be more or less, must be the exact value, and must be done in a single transaction.\
 \
-**What is ROI?**
-
-ROI is Return on Investment. It is the percentage you will earn back on your initial investment based on an annual figure.
-
-
-
-**Does the ROI change?**
-
-Yes, the more Masternodes that are running, the less the ROI will become, and in return the less Masternodes running, the more the ROI.
+A common question is whether the collateral allocated in a Masternode is lost forever. \
+The answer is no. \
+When you run a Masternode, the coins remain in your wallet. If you decide to stop running the Masternode, the coins become "unlocked" and can be freely used again.
 
 
 
-**What if I don't have enough collateral to start a Masternode?**
+## Rewards for running a Masternode
 
-You have a few options, you can purchase the remaining coins needed from an exchange such as Heliobank or Birake. Or, you can put your coins into a shared masternode service.
+In order to reward the Masternode owner for running such an important feature for the network, a percentage of the block reward is delivered directly to the wallet from which the masternode was created (the wallet with the collateral).\
+\
+When considering running a Masternode as an investment allocation, things like ROI (Return on Investment) are important concepts to understand.\
+&#x20;\
+ROI is the percentage of initial investment that can be expected to earn back annually. \
+\
+Calculating ROI, in this case, involves several factors, such as the Masternode's collateral, the block reward, and the current number of Masternodes on the network.\
+\
+In general, as more Masternodes participate, the ROI decreases, while a decrease in the number of Masternodes leads to a higher ROI.\
+\
+It can be calculated as follows:\
+\
+ROI = (((MN reward per block x number of blocks in a year) / number of MN currently on the network)/ collateral amount)x100\
+\
+Information on the above points is always provided by the project.
 
+## Creating a Masternode
 
+A specific task with a certain level of technical knowledge that we have simplified considerably by providing our unique Masternode Multinode Script.
 
-**What is a shared Masternode service?**
-
-These are services that allow a number of people to consolidate their coins in order to make a full Masternode of a particular coin in order to receive an equal return based on your share (less any fees). Please note you should only use services recommended by the coins servers. Alternatively you can "stake" your coins until you have enough for a full masternode. We will cover staking in a different video.\
-
-
-
-
-**Where will the rewards go?**
-
-The rewards will go back into your wallet you created the Masternode from.
-
-
-
-**How do I calculate ROI?**
-
-Ok, so let's use the following figures as an example. A coin's Masternodes collateral is 20,000 coins. The total block reward is 200 coins per block. And there are 600 Masternodes on the network.
-
-To calculate the ROI you use the following equation. The Masternode reward per block (with all Decenomyncoins this is 65% of the total block reward) which is 130 coins, multiplied by the amount of blocks in a year which is 525,600 (one every minute).
-
-Divide the answer by the amount of Masternodes currently on the network, which is 600 (available from the coins explorer).
-
-This gives the amount of coins one masternode will make in a year. We then divide that by the collateral amount of 20,000. And finally multiply the answer by 100, to give the ROI as a percentage.\
+A tutorial on how to easily install and deploy a Masternode using this DECENOMY Masternode Multinode Script can also be found on this website:\
+[<mark style="color:blue;">Masternode Multinode easily deploy</mark>](../tutorials/decenomy-masternodes/masternode-multinode-easy-to-deploy.md)\
+\
+\
 
 
-**Are all coins statistics like this available online?**
-
-Yes, you can check all Decenomy and other coins statistics on [vaultwatch.eu](https://vaultwatch.eu/)
