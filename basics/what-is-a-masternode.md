@@ -6,13 +6,13 @@ description: Detailed information about the Masternode concept and how it works
 
 A Masternode (MN for short) is a full node in a blockchain network that helps secure the network by consensus and improves the blockchain's functionality.
 
-It operates on a dedicated server with a static IP address, ensuring a high level of availability and reliability, and is only eligible if it meets the required amount of secured collateral.
+It operates on a dedicated server with a static IP address while ensuring a high level of availability and reliability. Furthermore, it is only eligible if it meets the required amount of secured collateral.
 
 The MN owner is compensated for contributing to the network's capabilities with a portion of the block reward.
 
 ## Masternode specialized tasks
 
-A Masternode enhances the functionality and security of the blockchain network. \
+A Masternode enhances the functionality and security of a blockchain network. \
 \
 They validate and store blocks of transactions, helping to maintain the integrity of the network's ledger and prevent malicious activities like double spending, thus helping to ensure the security and immutability of blockchain data.\
 \
@@ -22,27 +22,25 @@ By offloading certain tasks and responsibilities from regular nodes, Masternodes
 
 ## Collateral Required
 
-Operating a masternode requires a collateral amount of the cryptocurrency's coin to be locked in a dedicated wallet. This collateral ensures that the Masternode owner has a financial stake in the network and discourages malicious behavior.
+Operating a masternode requires a collateral amount of the cryptocurrency to be locked in a dedicated wallet. This collateral ensures that the Masternode owner has a financial stake in the network and discourages malicious behavior.
 
-The amount of coins in the collateral is always provided by the blockchain and is a unique value that must be exactly as requested. Can't be more or less, must be the exact value, and must be done in a single transaction.\
+The amount of coins in the collateral is always stipulated by the blockchain and is a unique value that must be exactly as requested. It can't be more or less, must be the exact value, and must be done in a single transaction.\
 \
-A common question is whether the collateral allocated in a Masternode is lost forever. \
-The answer is no. \
-When you run a Masternode, the coins remain in your wallet. If you decide to stop running the Masternode, the coins become "unlocked" and can be freely used again.
+A common question is whether the collateral allocated in a Masternode is lost forever. The answer is no. When you run a Masternode, the coins remain in your wallet. If you decide to stop running the Masternode, the coins become "unlocked" and can be used again without restrictions.
 
 
 
 ## Rewards for running a Masternode
 
-In order to reward the Masternode owner for running such an important feature for the network, a percentage of the block reward is delivered directly to the wallet from which the masternode was created (the wallet with the collateral).\
+To reward the Masternode owner for playing such an important role in the network, a percentage of the block reward is delivered directly to the wallet from which the masternode was created (i.e. the wallet with the collateral).\
 \
-When considering running a Masternode as an investment allocation, things like ROI (Return on Investment) are important concepts to understand.\
+When considering running a Masternode as an investment allocation, things like Return on Investment (ROI) are important concepts to understand.\
 &#x20;\
 ROI is the percentage of initial investment that can be expected to earn back annually. \
 \
 Calculating ROI, in this case, involves several factors, such as the Masternode's collateral, the block reward, and the current number of Masternodes on the network.\
 \
-In general, as more Masternodes participate, the ROI decreases, while a decrease in the number of Masternodes leads to a higher ROI.\
+In general, as more Masternodes participate, the ROI decreases. On the other hand, a decrease in the number of Masternodes literally means a higher ROI.\
 \
 It can be calculated as follows:\
 \
@@ -52,10 +50,10 @@ Information on the above points is always provided by the project.
 
 ## Creating a Masternode
 
-A specific task with a certain level of technical knowledge that we have simplified considerably by providing our unique Masternode Multinode Script.
+With the help of our unique Masternode Multinode Script, a task that often requires a certain level of technical knowledge has been simplified. This makes it possible for anyone to seamlessly deploy a masternode.
 
 A tutorial on how to easily install and deploy a Masternode using this DECENOMY Masternode Multinode Script can also be found on this website:\
-[<mark style="color:blue;">Masternode Multinode easily deploy</mark>](../tutorials/decenomy-masternodes/masternode-multinode-easy-to-deploy.md)\
+[<mark style="color:blue;">Masternode Multinode easily d</mark>](../tutorials/decenomy-masternodes/masternode-multinode-easy-to-deploy.md)<mark style="color:blue;">eploys</mark>\
 \
 \
 

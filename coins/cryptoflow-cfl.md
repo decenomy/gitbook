@@ -57,7 +57,7 @@
 
 ## Rewards Breakdown
 
-***
+
 
 | Block   | Collateral | Block Reward   | MN Reward % | Staking Reward % | MN Reward | Staker Reward |
 | ------- | ---------- | -------------- | ----------- | ---------------- | --------- | ------------- |

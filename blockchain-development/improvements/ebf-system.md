@@ -22,13 +22,7 @@ Digital signatures are utilized to ensure the authenticity and integrity of EBF 
 
 The following fields describe the EBF message generic envelope:
 
-| Size | Name      | Type      | Description                                         |
-| ---- | --------- | --------- | --------------------------------------------------- |
-| 1    | op        | opcode    | OP\_RETURN `0x6A` opcode                            |
-| 1+   | contract  | varint    | Contract id                                         |
-| 1+   | method    | varint    | Method id                                           |
-| 1+   | arguments | byte\[]   | Arguments                                           |
-| 2    | checksum  | uint16\_t | First 2 bytes of sha256(sha256(contract-arguments)) |
+<table><thead><tr><th width="95">Size</th><th width="120">Name</th><th width="123">Type</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>op</td><td>opcode</td><td>OP_RETURN <code>0x6A</code> opcode</td></tr><tr><td>1+</td><td>contract</td><td>varint</td><td>Contract id</td></tr><tr><td>1+</td><td>method</td><td>varint</td><td>Method id</td></tr><tr><td>1+</td><td>arguments</td><td>byte[]</td><td>Arguments</td></tr><tr><td>2</td><td>checksum</td><td>uint16_t</td><td>First 2 bytes of sha256(sha256(contract-arguments))</td></tr></tbody></table>
 
 ### Message Processing
 

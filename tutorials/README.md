@@ -10,7 +10,7 @@ In this tutorial series, we'll explore the ins and outs of Decenomy's masternode
 \
 With step-by-step guides and expert insights, our tutorials are designed to equip you with the knowledge and tools you need to succeed in today's fast-paced crypto landscape. \
 \
-Whether you're a seasoned user or just getting started in the world of digital assets, our tutorials will help you to unlock the full potential of Decenomy's cutting-edge technology. \
+Whether you're a seasoned user or just getting started in the world of digital assets, our tutorials will help you unlock the full potential of Decenomy's cutting-edge technology. \
 \
 So let's dive in and explore the exciting possibilities of masternodes and proof of stake with Decenomy!
 

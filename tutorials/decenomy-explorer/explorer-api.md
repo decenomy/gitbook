@@ -21,18 +21,11 @@ Being a public API, there is no need to use any kind of authentication.
 
 ### Path parameters v1
 
-| Name |  Type  | Description                                           | Info     |
-| ---- | :----: | ----------------------------------------------------- | -------- |
-| coin | string | should be replaced by the coin ticker, always in caps | Required |
+<table><thead><tr><th width="175">Name</th><th width="98" align="center">Type</th><th width="334">Description</th><th>Info</th></tr></thead><tbody><tr><td>coin</td><td align="center">string</td><td>should be replaced by the coin ticker, always in caps</td><td>Required</td></tr></tbody></table>
 
 ### Query parameters v1
 
-| Name            |  Type  | Description                                                                                           | Info     |
-| --------------- | :----: | ----------------------------------------------------------------------------------------------------- | -------- |
-| getblockcount   | string | Plain block count, just the block number value                                                        | Optional |
-| getmoneysupply  | string | Circulating supply - It will output just the number value of the total supply minus the locked supply | Optional |
-| getlockedsupply | string | Locked supply - It will output just the number value of the locked/burned supply                      | Optional |
-| gettotalsupply  | string | Total supply - It will output just the number value of the circulation supply plus the locked supply  | Optional |
+<table><thead><tr><th width="176">Name</th><th width="94" align="center">Type</th><th width="337">Description</th><th>Info</th></tr></thead><tbody><tr><td>getblockcount</td><td align="center">string</td><td>Plain block count, just the block number value</td><td>Optional</td></tr><tr><td>getmoneysupply</td><td align="center">string</td><td>Circulating supply - It will output just the number value of the total supply minus the locked supply</td><td>Optional</td></tr><tr><td>getlockedsupply</td><td align="center">string</td><td>Locked supply - It will output just the number value of the locked/burned supply</td><td>Optional</td></tr><tr><td>gettotalsupply</td><td align="center">string</td><td>Total supply - It will output just the number value of the circulation supply plus the locked supply</td><td>Optional</td></tr></tbody></table>
 
 ### Example query v1
 
@@ -52,22 +45,11 @@ https://explorer.decenomy.net/api/v1/coins/SAPP/getblockcount
 
 ### Path parameters v2
 
-| Name |  Type  | Description                                           |   Info   |
-| ---- | :----: | ----------------------------------------------------- | :------: |
-| coin | string | should be replaced by the coin ticker, always in caps | Required |
+<table><thead><tr><th width="164">Name</th><th width="124" align="center">Type</th><th width="355">Description</th><th align="center">Info</th></tr></thead><tbody><tr><td>coin</td><td align="center">string</td><td>should be replaced by the coin ticker, always in caps</td><td align="center">Required</td></tr></tbody></table>
 
 ### Query parameters v2
 
-| Name             |  Type  | Description                                                                                          | Info     |
-| ---------------- | :----: | ---------------------------------------------------------------------------------------------------- | -------- |
-| blocks           | string | <p>Last 30 blocks - blockhash tx /<br>/ blocktime / height / confirmations</p>                       | Optional |
-| transactions     | string | <p>Last 30 blocks - blockhash / blocktime / height / tx /<br>confirmations / recipients / amount</p> | Optional |
-| peers            | string | Full information of peers available                                                                  | Optional |
-| masternodes      | string | Full information of each masternode in the network                                                   | Optional |
-| info             | string | Wallet and blockchain information                                                                    | Optional |
-| masternode/count | string | Total number of masternodes connected in the network                                                 | Optional |
-| status           | string | Status of blockchain based in last block received                                                    | Optional |
-| burnaddresses    | string | Burn address Information                                                                             | Optional |
+<table><thead><tr><th width="163">Name</th><th width="122" align="center">Type</th><th width="355">Description</th><th>Info</th></tr></thead><tbody><tr><td>blocks</td><td align="center">string</td><td>Last 30 blocks - blockhash tx /<br>/ blocktime / height / confirmations</td><td>Optional</td></tr><tr><td>transactions</td><td align="center">string</td><td>Last 30 blocks - blockhash / blocktime / height / tx /<br>confirmations / recipients / amount</td><td>Optional</td></tr><tr><td>peers</td><td align="center">string</td><td>Full information of peers available</td><td>Optional</td></tr><tr><td>masternodes</td><td align="center">string</td><td>Full information of each masternode in the network</td><td>Optional</td></tr><tr><td>info</td><td align="center">string</td><td>Wallet and blockchain information</td><td>Optional</td></tr><tr><td>masternode/count</td><td align="center">string</td><td>Total number of masternodes connected in the network</td><td>Optional</td></tr><tr><td>status</td><td align="center">string</td><td>Status of blockchain based in last block received</td><td>Optional</td></tr><tr><td>burnaddresses</td><td align="center">string</td><td>Burn address Information</td><td>Optional</td></tr></tbody></table>
 
 ### Example query v2
 

@@ -17,7 +17,9 @@ However, the question of selecting which MN will receive the reward in each bloc
 ## Challenges and limitations of the **voting mechanism**
 
 The inherited PIVX's current method of selecting the reward recipient is based on a voting mechanism. \
+\
 Each MN in the network casts a vote for another MN that it thinks should receive the next reward, based on the criteria of the last paid value. \
+\
 The last paid value is an estimate of when an MN was last paid, calculated by counting the number of votes that it received from other MNs. The MN that receives the most votes in a given block is selected as the winner and receives the reward.
 
 However, this voting mechanism has some drawbacks and limitations.&#x20;

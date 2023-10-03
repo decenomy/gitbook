@@ -30,8 +30,6 @@ However, this voting mechanism has some drawbacks and limitations.&#x20;
 * It does not account for the actual time when an MN was paid, but only for the number of votes that it received. This means that sometimes an MN may lose a payment round because it received fewer votes than another MN, even though it was actually waiting longer to be paid.&#x20;
 * It does not provide a clear and consistent way to measure the last paid value of an MN across different nodes in the network. Different nodes may have different views of the voting history and may disagree on which MN was paid and when.
 
-
-
 ## **Introducing a Blockchain-based solution**
 
 The last paid v2 is a new feature that addresses these issues and replaces the old voting mechanism entirely. \
@@ -40,7 +38,7 @@ _**Instead of using votes to determine when an MN was paid, it uses the blockcha
 
 * The blockchain records every payment that is made to an MN in a special field called "payee".&#x20;
 * The last paid v2 scans the blockchain from the most recent block to the oldest block and looks for this field to identify when an MN was paid.&#x20;
-* It then assigns a last paid value to each MN based on the block height (or number) of its last payment.&#x20;
+* It then assigns a last-paid value to each MN based on the block height (or number) of its last payment.&#x20;
 
 This way, **it can accurately and objectively determine which MN was waiting longer to be paid** and select it as the next winner.
 

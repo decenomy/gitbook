@@ -1,34 +1,32 @@
-# ▪ How to buy Decenomy coins on Heliobank
+# ▪ How to buy Decenomy coins on Birake
 
 {% embed url="https://www.youtube.com/watch?v=hetywZgcizs" %}
 
+In this guide, we will walk you through the steps needed to buy Decenomy coins on Birake.
 
+First of all, we go to this link [https://trade.birake.com/](https://trade.birake.com/) then we create an account.
 
-In this guide we will explain how to buy Decenomy coins on Heliobank.
+We recommend that you do not lose your password, otherwise, you might have issues accessing your account. (save the password in a safe place).
 
-First of all we go to this link [https://dex.heliobank.net](https://dex.heliobank.net/) then we register.
+<figure><img src="../../.gitbook/assets/sign up.PNG" alt=""><figcaption></figcaption></figure>
 
-We recommend that you do not lose your password, otherwise you will no longer be able to access your account. (save the password in a safe place).
+After creating an account, it will be necessary to verify your account with an identity document in order to deposit and withdraw (usually accounts are verified within 48 hours).
 
-![](<../../.gitbook/assets/0 (3).png>)
+Click on the profile icon at the top right corner of the screen and choose "Verification" from the list.
 
-After registration it will be necessary to verify our account with an identity document in order to make deposits and withdrawals (usually accounts are verified in 48 hours).
+<figure><img src="../../.gitbook/assets/dashboard.PNG" alt=""><figcaption></figcaption></figure>
 
-In the menu at the top right we choose the link verification.
+On the next screen, you will be able to upload the required documents.
 
-![](<../../.gitbook/assets/1 (4).png>)
+<figure><img src="../../.gitbook/assets/kyc page.PNG" alt=""><figcaption></figcaption></figure>
 
-In the next screen you will be able to upload the required documents.
-
-![](<../../.gitbook/assets/2 (9).png>)
-
-When our account is verified we will be able to make a deposit, in this case in Bitcoin.
+When our account is verified we will be able to make a deposit, in this case with Bitcoin.
 
 So now we click on Deposit / Withdraw
 
-![](<../../.gitbook/assets/3 (4).png>)
+<figure><img src="../../.gitbook/assets/deposit-withdraw.PNG" alt=""><figcaption></figcaption></figure>
 
-Once this is done we will find ourselves on the deposits page
+Once this is done we will find ourselves on the deposit page
 
 Now let's choose.
 
@@ -36,70 +34,59 @@ Now let's choose.
 * Choose Deposit
 * Copy the address
 
-![](<../../.gitbook/assets/4 (6).png>)
+<figure><img src="../../.gitbook/assets/deposit btc.PNG" alt=""><figcaption></figcaption></figure>
 
 We can now send our Bitcoins to the newly copied deposit address.
 
-After about a few minutes we will have our Bitcoins on Heliobank, as we can see from our Current balance.
+After about a few minutes we will have our Bitcoins on Birake, as we can see from our Current balance.
 
-![](../../.gitbook/assets/5.png)
+<figure><img src="../../.gitbook/assets/btc deposited.PNG" alt=""><figcaption></figcaption></figure>
 
-Now we have to go on
+Now we have to go to
 
 * Exchange
 * Show Markets
 
-![](<../../.gitbook/assets/6 (6).png>)
+<figure><img src="../../.gitbook/assets/exchange-show markets.PNG" alt=""><figcaption></figcaption></figure>
 
-Once this is done, a search bar will open where we can choose the coins.
+Once this is done, a search bar will open where we can filter by entering a coin name. In this case, we input SAPP (Sapphire).
 
-In this case we have chosen to buy Trittium (TRTT).
+<figure><img src="../../.gitbook/assets/search SAPP.PNG" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/7 (1).png>)
+Now click on the SAPP market to enter the market page with the buy and sell orders.
 
-Now click on the TRTT market name to enter it.
-
-A page will open with the buy and sell orders (in this case Trittium)\
-
-
-![](<../../.gitbook/assets/8 (2).png>)
+<figure><img src="../../.gitbook/assets/sapp-btc market.PNG" alt=""><figcaption></figcaption></figure>
 
 Now we can proceed with the purchase.
 
-We have 0.00250000 BTC available.
+We have 0.00076163 BTC available.
 
-So we can buy Trittium for this value in the SELL orders table.
+So we can buy SAPP for this value in the SELL orders table.
 
-![](<../../.gitbook/assets/9 (3).png>)
+<figure><img src="../../.gitbook/assets/buy and sell orders.PNG" alt=""><figcaption></figcaption></figure>
 
 Now we need to click on the rows of the SELL table until the total of our order is equal to or greater than our Bitcoin balance.
 
-In our case the third row of orders in the table gives us a total higher than our Bitcoins
+In our case, the third row of orders in the table gives us a total higher than our Bitcoins available.
 
-available.
+<figure><img src="../../.gitbook/assets/fill buy form.PNG" alt=""><figcaption></figcaption></figure>
 
-As in the picture
-
-![](<../../.gitbook/assets/10 (3).png>)
-
-So you have to click on the available balance to buy as many Trittium as the Bitcoins available to us.
-
-As in the picture
+So you have to click on the available balance to buy the equivalence of SAPP with our BTC balance.
 
 * Click on the Balance
 * Click on BUY
 
-![](<../../.gitbook/assets/11 (6).png>)
+<figure><img src="../../.gitbook/assets/purchase sapp.PNG" alt=""><figcaption></figcaption></figure>
 
 Now a window will open confirming the operation. Then click CONFIRM.
 
-![](<../../.gitbook/assets/12 (2).png>)
+<figure><img src="../../.gitbook/assets/confirmation.PNG" alt=""><figcaption></figcaption></figure>
 
 Once the purchase is complete, we return to the Deposit / withdraw page.
 
-And we choose Trittium (TRTT) from the dropdown menu.
+And we choose SAPP from the dropdown menu.
 
-![](<../../.gitbook/assets/13 (3).png>).
+<figure><img src="../../.gitbook/assets/withraw sapp.PNG" alt=""><figcaption></figcaption></figure>
 
 Done this
 
@@ -108,27 +95,27 @@ Done this
 
 As we can see at the bottom left is our Current balance.
 
-![](<../../.gitbook/assets/14 (3).png>)
+<figure><img src="../../.gitbook/assets/withdraw now.PNG" alt=""><figcaption></figcaption></figure>
 
-Now let's open our Trittium wallet
+Now let's open our Sapphire wallet
 
 * Click on Receive
 * Copy the address
 
-![](<../../.gitbook/assets/15 (2).png>)
+<figure><img src="../../.gitbook/assets/receive address.PNG" alt=""><figcaption></figcaption></figure>
 
-Once the address has been copied, we return to Heliobank.
+Once the address has been copied, we return to Birake.
 
 * Click on AVAILABLE (to withdraw the full amount available)
-* Paste the address previously copied from our Trittium wallet
+* Paste the address previously copied from our Sapphire wallet
 * Click WITHDRAW
 
-![](<../../.gitbook/assets/16 (1).png>)
+<figure><img src="../../.gitbook/assets/withdrawal form.PNG" alt=""><figcaption></figcaption></figure>
 
 We confirm and wait for the withdrawal request to be processed.
 
-![](<../../.gitbook/assets/17 (1).png>)
+<figure><img src="../../.gitbook/assets/confirm withdrawal.PNG" alt=""><figcaption></figcaption></figure>
 
-Now in our wallet we will see the transaction received, on the main screen.
+We will then check our Sapphire wallet in a while to confirm receipt.
 
-![](<../../.gitbook/assets/18 (2).png>)
+<figure><img src="../../.gitbook/assets/received in wallet.PNG" alt=""><figcaption></figcaption></figure>

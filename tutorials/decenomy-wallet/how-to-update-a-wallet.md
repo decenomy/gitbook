@@ -10,52 +10,53 @@ This is important to ensure that your wallet is up to date with the latest secur
 
 {% embed url="https://www.youtube.com/watch?v=YyETlLE8-fM" %}
 
+In this guide, we will explain how to update a wallet:
 
+Let's start by opening the wallet, in this case, Sapphire, to verify the wallet version located at the bottom left of the wallet window.
 
-In this guide we will explain how to update a wallet:
+<figure><img src="../../.gitbook/assets/wallet version.PNG" alt=""><figcaption></figcaption></figure>
 
-First we open the wallet (in this case Trittium) so we can verify the wallet version at the bottom left.
+We can check for updates through our official channels (Twitter, Discord, website, or directly on GitHub)
 
-![](../../.gitbook/assets/0.png)
+After we have verified that there is an update (in some cases the updates are mandatory otherwise the wallet will stop working) we have to download the latest version. For Sapphire, you can locate it on GitHub using the following link:
 
-We can check for updates through our official channels (Discord, website, or directly on GitHub).
+[https://github.com/decenomy/sapp](https://github.com/decenomy/sapp)
 
-After we have verified that there is an update to be done (in some cases the updates are mandatory otherwise the wallet will stop working) we have to download the latest version, in the case of Trittium we can find it on GitHub at the following address:
+To access the latest version on GitHub, simply copy and paste the GitHub address into the address bar, as shown in the image below:
 
-[https://github.com/Trittium/trittium](https://github.com/Trittium/trittium)
+<figure><img src="../../.gitbook/assets/paste address.PNG" alt=""><figcaption></figcaption></figure>
 
-The GitHub address should be copied and pasted into the address bar as in the image below:
+Once you are on GitHub, Click on the RELEASES link as shown in the image below:
 
-![](<../../.gitbook/assets/1 (3).png>)
+<figure><img src="../../.gitbook/assets/releases.PNG" alt=""><figcaption></figcaption></figure>
 
-Entering the GitHub site you will have this screen:\
-Then click on the right on the RELEASES link.
+This screen will appear:
 
-![](<../../.gitbook/assets/2 (2).png>)
+<figure><img src="../../.gitbook/assets/latest release.PNG" alt=""><figcaption></figcaption></figure>
 
-And this screen will appear:
+Apparently, the latest version is v1.5.2.1, which differs from our current wallet version (v1.5.2.0).
 
-![](<../../.gitbook/assets/3 (9).png>)
+Now, we need to select the appropriate version for our operating system, which, in this instance, is Windows. For Windows, you should choose the file named '**SAPP-1.5.2.1-Windows.zip**'.
 
-As we can see the latest version is V4.0.1.2, which is different from our wallet (ours was V4.0.1.1)
-
-Now we choose the correct version for our operating system (in our case Windows) then the one for Windows will be TRTT-4.0.1.2-Windows.zip
-
-![](<../../.gitbook/assets/4 (1).png>)
+<figure><img src="../../.gitbook/assets/windows version.PNG" alt=""><figcaption></figcaption></figure>
 
 Once the file has been downloaded, we can go back to our wallet to close it.
 
-Once this is done, go to the download folder and extract the zip
+Once this is done, go to the download folder and extract the zip file which contains the new version of the wallet as in the image below:
 
-which contains the new version of the wallet as in the image below:
+<figure><img src="../../.gitbook/assets/wallet downloaded.PNG" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/5 (8).png>)
+Once the file has been extracted we can copy "**sapphire-qt**" and paste it into the Sapphire wallet folder on our computer. This will replace the previous version.
 
-Once the file has been extracted we can copy "trittium-qt" and paste it (in this case in the desktop) to replace the previous version, in the next images you will see how:
+<figure><img src="../../.gitbook/assets/qt.PNG" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/6 (7).png>)
+An easy way to locate the Sapphire wallet folder is to find the "Sapphire Core" shortcut on our desktop. Right-click on the icon and select "Open file location" as seen in the image below:
 
-![](<../../.gitbook/assets/7 (6).png>)
+<figure><img src="../../.gitbook/assets/file location.PNG" alt=""><figcaption></figcaption></figure>
+
+Upon selection, you will be directed to the correct folder where you should paste the '**sapphire-qt**' file. Confirm the replacement of the file, and you're all set to proceed.
+
+<figure><img src="../../.gitbook/assets/replace qt.PNG" alt=""><figcaption></figcaption></figure>
 
 \
-Now we can start our wallet which will be updated and ready to be used.
+Now you can start your wallet, which has been updated and is now ready for use.

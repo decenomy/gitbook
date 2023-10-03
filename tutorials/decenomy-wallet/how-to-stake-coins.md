@@ -7,24 +7,26 @@ description: >-
 
 # ▪ Staking process on desktop wallet
 
-In this guide we will explain how to stake our DECENOMY coins.
+In this guide, we will explain how to stake our DECENOMY coins.
 
-First of all let's open our wallet (in our case TRTT)
+First of all, let's open our wallet (in our case SAPP). In order for staking to be active, our coins must have at least 600 confirmations (about 10 hours).
 
-In order for staking to be active, our coins must have at least 600 confirmations (about 10 hours).
+A second requirement is that the wallet is unlocked. To do this we can click on the padlock icon at the top right.
 
-A second requirement is that the wallet is unlocked.
+**Make sure to choose the “Staking only” option!**
 
-To do this we can click on the padlock icon at the top right.
+<figure><img src="../../.gitbook/assets/staking only option.PNG" alt=""><figcaption></figcaption></figure>
 
-**Make sure to choose “Staking only” option!**
+If you happen to have [encrypted your wallet](how-to-encrypt-a-wallet.md), you will be asked to enter your password and confirm the operation by clicking "OK" as seen below:
 
-![](<../../.gitbook/assets/0 (6).png>)
+<figure><img src="../../.gitbook/assets/confirm unlocking.PNG" alt=""><figcaption></figcaption></figure>
 
-Once this is done, the staking icon will activate.
+Once this is done, the staking icon will activate. To be able to stake, the wallet must always remain open.
 
-To be able to stake, the wallet must always remain open.
+<figure><img src="../../.gitbook/assets/wallet unlcoked for staking.PNG" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/1 (6).png>)
+If staking is not activated, you can use the `getstakingstatus` command in the debug console to gain more insight into the root causes of the issue.&#x20;
 
-In case staking is not activated, we can use the “getstakingstatus” command in the debug console, to see more details on the causes of the problem.
+<figure><img src="../../.gitbook/assets/get staking status.PNG" alt=""><figcaption></figcaption></figure>
+
+We have provided more information on this command can be accessed on the [Staking Best Practices](staking-optimization-and-common-problems.md) page.

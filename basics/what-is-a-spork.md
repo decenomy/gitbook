@@ -6,7 +6,7 @@ Sporks are different from forks, which are permanent changes to the network that
 
 ## How do sporks work?
 
-Sporks work by allowing cryptocurrency developers to change some network parameters without requiring all nodes to upgrade their software. Sporks are essentially switches that the developers can turn on or off using a special private key. Sporks can activate new features, fix bugs, or adjust network settings.
+Sporks work by allowing cryptocurrency developers to change some network parameters without requiring all nodes to upgrade their software. Sporks are literally switches that the developers can turn on or off using a special private key. Sporks can activate new features, fix bugs, or adjust network settings.
 
 ## What are the benefits of sporks?
 

@@ -8,17 +8,13 @@ description: >-
 
 {% embed url="https://youtu.be/Sanzn0U_WK4" %}
 
-
-
 Let's open our wallet (in this case Monk)
 
-The collateral has increased from 4000 to 8000 Monk and as we can see from the masternodes menu our masternode is missing.
+The collateral has increased from 4000 to 8000 Monk and apparently from the masternodes menu our masternode is missing.
 
 ![](<../../.gitbook/assets/0 (2).png>)
 
-Now we need to unlock the old collateral (the previously blocked 4000 coins transaction).
-
-To do this we go to
+We need to unlock the old collateral (the previously blocked 4000 coins transaction).To do this we go to
 
 * Send
 * Coin Control
@@ -27,7 +23,7 @@ To do this we go to
 
 Now a window will open, as we can see in the image the masternode transaction is labeled with a padlock icon.
 
-We have to right click on it and choose Unlock unspent to unlock it.
+We have to right-click on it and choose "Unlock unspent" from the list to unlock it.
 
 ![](../../.gitbook/assets/2.png)
 
@@ -44,9 +40,9 @@ So
 
 Now let's go to the menu
 
-* Click send
+* Click "send"
 * Paste the address
-* Insert exactly 8000 in the amount
+* Insert precisely 8000 in the amount
 * Click send
 
 ![](../../.gitbook/assets/4.png)
@@ -63,9 +59,9 @@ Now let's go to the Debug Console and click on it.
 
 ![](<../../.gitbook/assets/7 (3).png>)
 
-The debug console will open where we have to enter the command below
+The debug console will open where we have to enter the command below:
 
-* getmasternodeoutputs
+* `getmasternodeoutputs`
 
 Press enter to get the following information
 
@@ -74,11 +70,11 @@ Press enter to get the following information
 
 ![](../../.gitbook/assets/8.png)
 
-Let's go to msternode.conf and click on it.
+Let's go to masternode.conf and click on it.
 
 ![](<../../.gitbook/assets/9 (2).png>)
 
-The Notepad will then open in which we need to replace
+This will open Notepad and we will need to replace the following:
 
 * hash of the transaction
 * outputidx
@@ -90,9 +86,7 @@ From the console we copy
 * hash of the transaction
 * outputidx
 
-Let's replace them in the Notepad.
-
-We save and restart the wallet.
+Let's replace them in Notepad. We the save the file after the changes and restart the wallet.
 
 ![](<../../.gitbook/assets/11 (2).png>)
 

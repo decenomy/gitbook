@@ -11,55 +11,51 @@ description: >-
 
 In case we have problems connecting our wallet to the blockchain we need addnodes (peers).
 
-Here we explain in a few simple steps how to do it.
+In this guide, we will explain in a few simple steps how to add peers to your wallet.
 
-First of all, let's open our wallet (in our case Trittium)
+First of all, let's open our wallet (in our case Sapphire)
 
-![](<../../.gitbook/assets/0 (7).png>)
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
-Now we go to the top right and we will see the configuration file icon (in our case trittium.conf).
+Now we go to the top right and we will see the configuration file icon (in our case sapphire.conf).
 
-As in the following picture
+As seen in the following picture
 
-![](../../.gitbook/assets/1.png)
+<figure><img src="../../.gitbook/assets/sapp config file.PNG" alt=""><figcaption></figcaption></figure>
 
 Now click on the configuration file icon to open it.
 
 In case Windows asks us which program we want to use to open it, it is advisable to choose Notepad.
 
-As in the following image
+<figure><img src="../../.gitbook/assets/notepad.PNG" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/2 (3).png>)
+Now we go to [https://explorer.decenomy.net/](https://explorer.decenomy.net/) and search for the coin. (in this case Sapphire).
 
-Now we type in the search bar the coin we are looking for (in this case Trittium).
+Then we click on the coin to access the "Overview" page.
 
-Then we click on the name of the chosen coin.
+<figure><img src="../../.gitbook/assets/sapp decenomy explorer.PNG" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/4 (4).png>)
+As we can see on the next screen, we can choose "**Network**" from the left menu.
 
-As we can see in the next screen, we can choose the Network label from the left menu.
+<figure><img src="../../.gitbook/assets/network option.PNG" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/5 (5).png>)
+Now we choose from the list the option that corresponds to the version of our wallet (in this case 1.5.2.1)
 
-Now we choose the list of nodes that correspond to the version of the most updated wallet in this case 4.0.2
+**The version of our wallet can be found at the bottom left when the wallet is opened.**
 
-**The version of our wallet can be seen at the bottom left of the main screen of our wallet.**
+<figure><img src="../../.gitbook/assets/node list.PNG" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/6 (2).png>)
+Now we click on the "node list" button next to our preferred wallet version, this window will open and we copy the addnodes.
 
-Now we click on 4.0.2, this window will open and we copy the addnodes.
+<figure><img src="../../.gitbook/assets/node list pop up.PNG" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/7 (7).png>)
+We go back to the Notepad to paste the addnodes.
 
-Now let's go back to the Notepad to paste the addnodes.
+<figure><img src="../../.gitbook/assets/copy paste to nodepad.PNG" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/8 (5).png>)
+Now we can save and close the configuration file as seen in the picture below:
 
-Now we can close the Notepad and save the file.
-
-As in the picture
-
-![](../../.gitbook/assets/9.png)
+<figure><img src="../../.gitbook/assets/save and close.PNG" alt=""><figcaption></figcaption></figure>
 
 Once this is done, we close and restart our wallet to apply the changes.\
 Now our wallet is ready to be used!
