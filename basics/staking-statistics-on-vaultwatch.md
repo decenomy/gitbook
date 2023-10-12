@@ -28,9 +28,9 @@ We will focus on staking and show you the main tools offered by VaultWatch.
 
 **Profit Calculator**
 
-The profit calculator offers an estimate of the rewards that we can expect given a certain amount of coins (this statistic is not 100% guaranteed as the blockchain is a dynamic system in which the factors change constantly).
+The profit calculator provides an estimate of the rewards you can anticipate based on a specified amount of coins (this statistic is not 100% guaranteed as the blockchain is a dynamic system in which the factors change constantly).
 
-As we can see in the image below we have entered the value of 30 000 SAPP:
+As shown in the image below, we have input a value of 30 000 SAPP:
 
 <figure><img src="../.gitbook/assets/sapp profit calculator.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ In this last section, we see the same statistics as before, but referring to the
 
 We can therefore use an average input size value as a reference value for the **`setstakesplitthreshold`** in our wallet, from the debug console.
 
-If you prefer, you can also adjust the stake split threshold value from your wallet's interface. Navigate to '**Settings**,' then '**Options,**' and select '**Wallet**.'&#x20;
+Alternatively, you can adjust the stake split threshold value from your wallet's interface. Navigate to '**Settings**,' then '**Options,**' and select '**Wallet**.'&#x20;
 
 Within the wallet section, you will find the option to manually input the desired value. Remember to save your changes once you are finished.
 
@@ -76,7 +76,7 @@ Within the wallet section, you will find the option to manually input the desire
 
 After a while we will see that the coins in an immature state will be about <mark style="background-color:red;">3400 SAPP,</mark> leaving the rest of the balance free.
 
-In this way, our chances of receiving a reward will slightly increase. As we can see from the image below only a small part of our coins are immature. By doing so we have the possibility of having a slight increase in reward.\
+As seen in the image below, only a small portion of our coins are immature. This allows us the potential for a slight increase in rewards.\
 
 
 ![](<../.gitbook/assets/8 (1) (1)>)

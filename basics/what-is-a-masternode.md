@@ -10,7 +10,7 @@ It operates on a dedicated server with a static IP address while ensuring a high
 
 The MN owner is compensated for contributing to the network's capabilities with a portion of the block reward.
 
-## Masternode specialized tasks
+## Masternode Specialized Tasks
 
 A Masternode enhances the functionality and security of a blockchain network. \
 \
@@ -20,27 +20,21 @@ Masternodes can also help improve the scalability and stability of the blockchai
 &#x20;\
 By offloading certain tasks and responsibilities from regular nodes, Masternodes help reduce the network load, improve performance, and ensure efficient operation even as the network grows.
 
-## Collateral Required
+## Masternode Collateral Requirement
 
 Operating a masternode requires a collateral amount of the cryptocurrency to be locked in a dedicated wallet. This collateral ensures that the Masternode owner has a financial stake in the network and discourages malicious behavior.
 
-The amount of coins in the collateral is always stipulated by the blockchain and is a unique value that must be exactly as requested. It can't be more or less, must be the exact value, and must be done in a single transaction.\
+The amount of coins in the collateral is always stipulated by the blockchain and is a unique value that must be exactly as requested. The value must be exact, without any deviation, and it must be done in a single transaction.\
 \
-A common question is whether the collateral allocated in a Masternode is lost forever. The answer is no. When you run a Masternode, the coins remain in your wallet. If you decide to stop running the Masternode, the coins become "unlocked" and can be used again without restrictions.
+A frequently asked question is whether the collateral allocated in a Masternode is permanently lost. The answer is NO. When you run a Masternode, the coins remain in your wallet. If you decide to stop running the Masternode, the coins become "unlocked" and can be used again without restrictions.
 
-
-
-## Rewards for running a Masternode
+## Rewards for Running a Masternode
 
 To reward the Masternode owner for playing such an important role in the network, a percentage of the block reward is delivered directly to the wallet from which the masternode was created (i.e. the wallet with the collateral).\
 \
-When considering running a Masternode as an investment allocation, things like Return on Investment (ROI) are important concepts to understand.\
-&#x20;\
-ROI is the percentage of initial investment that can be expected to earn back annually. \
+When considering running a Masternode as an investment allocation, things like Return on Investment (ROI) are important concepts to understand. ROI is the percentage of initial investment that can be expected to earn back annually. \
 \
-Calculating ROI, in this case, involves several factors, such as the Masternode's collateral, the block reward, and the current number of Masternodes on the network.\
-\
-In general, as more Masternodes participate, the ROI decreases. On the other hand, a decrease in the number of Masternodes literally means a higher ROI.\
+Calculating ROI, in this case, involves several factors, such as the Masternode's collateral, the block reward, and the current number of Masternodes on the network. In general, as more Masternodes participate, the ROI decreases. On the other hand, a decrease in the number of Masternodes literally means a higher ROI.\
 \
 It can be calculated as follows:\
 \

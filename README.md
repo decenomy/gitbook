@@ -16,6 +16,17 @@ Please use existing categories for efficient searches:
 
 <details>
 
+<summary><a href="basics/"><strong>Basics</strong></a></summary>
+
+* [What is a Masternode?](basics/what-is-a-masternode.md)
+* [Staying safe on Discord](basics/staying-safe-on-discord.md)
+* [How to secure your environment](basics/how-to-secure-your-environment.md)
+* [Staking statistics on VaultWatch](basics/staking-statistics-on-vaultwatch.md)
+
+</details>
+
+<details>
+
 <summary><a href="tutorials/">Tutorials</a></summary>
 
 [<mark style="color:blue;">**DECENOMY Explorer**</mark>](tutorials/decenomy-explorer/)
@@ -60,8 +71,8 @@ Please use existing categories for efficient searches:
 
 <mark style="color:blue;">**Exchange**</mark>
 
-* [How to buy DECENOMY coins on Heliobank](tutorials/exchange/how-to-buy-decenomy-coins-on-heliobank.md)
-* [Fiat to Crypto to DECENOMY Coins](tutorials/exchange/fiat-to-crypto-to-decenomy-coins.md)
+* [How to buy DECENOMY coins on Heliobank](tutorials/exchange/how-to-buy-decenomy-coins-on-heliobank/)
+* [Fiat to Crypto to DECENOMY Coins](tutorials/exchange/fiat-to-crypto-to-decenomy-coins/)
 
 </details>
 
@@ -86,17 +97,6 @@ Please use existing categories for efficient searches:
 * [<mark style="color:blue;">Sapphire (SAPP)</mark>](coins/sapphire-sapp.md)
 * [<mark style="color:blue;">Suvereno (SUV)</mark>](coins/suvereno-suv.md)
 * [<mark style="color:blue;">Ultra Clear (UCR)</mark>](coins/ultra-clear-ucr.md)
-
-</details>
-
-<details>
-
-<summary><a href="basics/"><strong>Basics</strong></a></summary>
-
-* [What is a Masternode?](basics/what-is-a-masternode.md)
-* [Staying safe on Discord](basics/staying-safe-on-discord.md)
-* [How to secure your environment](basics/how-to-secure-your-environment.md)
-* [Staking statistics on VaultWatch](basics/staking-statistics-on-vaultwatch.md)
 
 </details>
 
