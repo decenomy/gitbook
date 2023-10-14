@@ -24,12 +24,12 @@ For additional assistance regarding bootstrap, please refer to the bootstrap doc
 
 The information presented in this section belongs to the masternode statistics of this coin.\
 \
-All coin related data is automatically gathered from the blockchain.\
+All coin-related data is automatically gathered from the blockchain.\
 Price values are sourced from external cryptocurrency price trackers.
 
 ### <mark style="background-color:red;">Section 3</mark>
 
-This section provides a brief reference to the last 10 blocks from the blockchain.\
+This section provides a brief reference to the last 10 blocks of the blockchain.\
 \
 Users can adjust the number of blocks displayed by selecting different queries from the 'Per page' box selection located in the top right corner.
 
@@ -37,4 +37,4 @@ Users can adjust the number of blocks displayed by selecting different queries f
 
 This section provides detailed information about the coin specifications of the blockchain.\
 \
-Users can also access this information directly from the GitHub repository of the coin or the Coins section of this documentation by following [<mark style="color:blue;">this link</mark>](https://app.gitbook.com/o/-MiHp-KHheyHIlVQn3UX/s/-MiHm486VotxVq44a\_Jg/\~/changes/171/coins)\
+Users can also access this information directly from the GitHub repository of the coin or the Coins section of this documentation by following this [link](../../coins/)\
