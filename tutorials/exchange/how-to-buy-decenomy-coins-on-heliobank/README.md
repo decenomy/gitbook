@@ -11,5 +11,5 @@ By the end of this tutorial series, you'll have a verified Birake account, ready
 ### Summary
 
 * [<mark style="color:blue;">User Account Creation and KYC Verification</mark> ](user-account-creation-and-kyc-verification.md)
-* [Deposits and Withdrawals](deposits-and-withdrawals.md)
+* [<mark style="color:blue;">Deposits and Withdrawals</mark>](deposits-and-withdrawals.md)
 * [Trade (Buy and Sell)](trade-buy-and-sell.md)
