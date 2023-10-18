@@ -14,7 +14,7 @@ It is highly recommended to backup your wallet.dat file before making these oper
 If you don't know how please refer to our guide **“How to make a backup on a USB stick”**\
 Done this, if your wallet is open you have to close it.
 
-So now let's go to the site [https://explorer.decenomy.net](https://explorer.decenomy.net/) as in the image:
+So now let's go to the site  as in the image:
 
 <figure><img src="../../.gitbook/assets/decenomy explorer.PNG" alt=""><figcaption></figcaption></figure>
 

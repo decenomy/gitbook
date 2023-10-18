@@ -2,7 +2,7 @@
 
 ### Birake Account Creation Process
 
-* Head over to  [https://trade.birake.com/](https://trade.birake.com/)
+* Head over to  [<mark style="color:blue;">https://trade.birake.com/</mark>](https://trade.birake.com/)
 * Click on "**Create Account / Login**" from the top menu bar.&#x20;
 
 You will be redirected to the account creation page where you will have to fill out the form with:

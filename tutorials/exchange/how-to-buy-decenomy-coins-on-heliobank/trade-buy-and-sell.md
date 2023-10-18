@@ -1,8 +1,8 @@
 # Trade (Buy and Sell)
 
-In this guide, we will walk you through the steps needed to buy Decenomy coins on Birake.
+This guide will walk you through the steps needed to buy Decenomy coins on Birake.
 
-This is the third tutorial from the series [How to Buy Decenomy Coins on Birake](./). We assume you have successfully [created and verified your Birake account](user-account-creation-and-kyc-verification.md) by now. And most importantly [funded your account](deposits-and-withdrawals.md). &#x20;
+This is the third tutorial from the series [<mark style="color:blue;">How to Buy Decenomy Coins on Birake</mark>](./). We assume you have successfully [<mark style="color:blue;">created and verified your Birake account</mark>](user-account-creation-and-kyc-verification.md) by now. And most importantly [<mark style="color:blue;">funded your account</mark>](deposits-and-withdrawals.md). &#x20;
 
 * From the top menu go to&#x20;
 

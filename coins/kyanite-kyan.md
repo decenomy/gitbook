@@ -16,7 +16,7 @@
 ## Tutorials
 
 **• Wallet Guide**\
-[**https://docs.decenomy.net/tutorials/decenomy-wallet**](../tutorials/decenomy-wallet/)\
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/decenomy-wallet**</mark>](../tutorials/decenomy-wallet/)\
 **• Masternode Guide**\
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/decenomy-masternodes**</mark>](../tutorials/decenomy-masternodes/)\
 • **Masternode Multinode Setup Guide**\

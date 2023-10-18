@@ -16,4 +16,4 @@ Similarly, the content of the blocks shown can also be found in [<mark style="co
 
 Upon selecting a value such as a block height or hash, the user will be directed to the block detail screen.\
 \
-For more detailed information, follow the guide on [<mark style="color:blue;">Search by Block and/or Hash</mark>](search-by-block-and-or-hash.md).
+If you would like more detailed information, please follow the guide on [<mark style="color:blue;">Search by Block and/or Hash</mark>](search-by-block-and-or-hash.md)<mark style="color:blue;">.</mark>

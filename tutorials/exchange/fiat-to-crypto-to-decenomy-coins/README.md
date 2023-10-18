@@ -10,6 +10,6 @@ The primary objective of this tutorial series is to provide guidance to individu
 
 ### Summary
 
-* [Account Creation and Verification on Binance](account-creation-and-verification-on-binance.md)
-* [FIAT to Crypto (BTC)](fiat-to-crypto-btc.md)
-* [Crypto (BTC) to Decenomy Coins](crypto-btc-to-decenomy-coins.md)
+* [<mark style="color:blue;">Account Creation and Verification on Binance</mark>](account-creation-and-verification-on-binance.md)
+* [<mark style="color:blue;">FIAT to Crypto (BTC)</mark>](fiat-to-crypto-btc.md)
+* [<mark style="color:blue;">Crypto (BTC) to Decenomy Coins</mark>](crypto-btc-to-decenomy-coins.md)

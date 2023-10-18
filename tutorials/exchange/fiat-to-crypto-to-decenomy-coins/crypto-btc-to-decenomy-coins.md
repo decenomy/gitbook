@@ -1,6 +1,6 @@
 # Crypto (BTC) to Decenomy Coins
 
-Earlier in the series on how to buy Decenomy coins with FIAT, we covered the [account creation and verification](account-creation-and-verification-on-binance.md) process on Binance, and [how to purchase Bitcoin (BTC)](fiat-to-crypto-btc.md) with your bank card.&#x20;
+Earlier in the series on how to buy Decenomy coins with FIAT, we covered the [<mark style="color:blue;">account creation and verification</mark>](account-creation-and-verification-on-binance.md) process on Binance, and [<mark style="color:blue;">how to purchase Bitcoin (BTC)</mark>](fiat-to-crypto-btc.md) <mark style="color:blue;">with your bank card.</mark>&#x20;
 
 Next in this series, we provide clear and concise steps to buy Decenomy coins after you've acquired Bitcoin on Binance. Without wasting much time, let's dive straight into the tutorial.
 
@@ -14,7 +14,7 @@ Next in this series, we provide clear and concise steps to buy Decenomy coins af
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MiHm486VotxVq44a_Jg%2Fuploads%2FB2zQuGfg34i37oqwb594%2F14?alt=media" alt=""><figcaption></figcaption></figure>
 
 * At this point, we can see BTC is already selected as the coin we want to withdraw.
-* We can also select Bitcoin from the network dropdown. However, at the moment we don't have a BTC address we want to withdraw, so we need to set up an account on Birake Exchange. Kindly refer to[ User Account Creation and KYC Verification](../how-to-buy-decenomy-coins-on-heliobank/user-account-creation-and-kyc-verification.md) on Birake.
+* We can also select Bitcoin from the network dropdown. However, at the moment we don't have a BTC address we want to withdraw, so we need to set up an account on Birake Exchange. Kindly refer to[ <mark style="color:blue;">User Account Creation and KYC Verification</mark>](../how-to-buy-decenomy-coins-on-heliobank/user-account-creation-and-kyc-verification.md) on Birake.
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MiHm486VotxVq44a_Jg%2Fuploads%2FlUsCmDcWooycMGbpAlQj%2F15?alt=media" alt=""><figcaption></figcaption></figure>
 
@@ -56,6 +56,6 @@ Next in this series, we provide clear and concise steps to buy Decenomy coins af
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MiHm486VotxVq44a_Jg%2Fuploads%2FyBR1exIF0zrddDL2RxRd%2Fbtc%20credited%20birake.PNG?alt=media&#x26;token=ce621bfa-4a66-4c20-b825-068a18b5129d" alt=""><figcaption></figcaption></figure>
 
-Once you have the Bitcoin credited to your Birake account, refer to [How to Buy Decenomy Coins on Birake](../how-to-buy-decenomy-coins-on-heliobank/trade-buy-and-sell.md).&#x20;
+Once you have the Bitcoin credited to your Birake account, refer to [<mark style="color:blue;">How to Buy Decenomy Coins on Birake</mark>](../how-to-buy-decenomy-coins-on-heliobank/trade-buy-and-sell.md)<mark style="color:blue;">.</mark>&#x20;
 
 We demonstrate how to exchange Bitcoin for Sapphire (SAPP). The same procedure can be applied to other Decenomy coins.

@@ -11,18 +11,18 @@ description: >-
 
 How to stake on a VPS
 
-In this guide we are going to explain how to stake on a VPS server.
+In this guide, we are going to explain how to stake on a VPS server.
 
 This guide is for advanced users and assumes that you know how to safely use an Ubuntu server.
 
 We assume that you will run all the commands as **root** user.\
 
 
-First we need to connect to our server via SSH and download the wallet we want to install, from our official links on GitHub.
+First, we need to connect to our server via SSH and download the wallet we want to install, from our official links on GitHub.
 
-In this case we have chosen KYAN.
+In this case, we have chosen KYAN.
 
-The wallet links can be found at [https://github.com/kyancoin/KYAN/releases](https://github.com/kyancoin/KYAN/releases)
+The wallet links can be found at [<mark style="color:blue;">https://github.com/kyancoin/KYAN/releases</mark>](https://github.com/kyancoin/KYAN/releases)
 
 We choose the Linux version and copy the link.
 

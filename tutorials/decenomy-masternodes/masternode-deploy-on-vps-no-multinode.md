@@ -16,7 +16,7 @@ If you want to make more masternodes of the same coin, you need different server
 
 To run a masternode with a VPS we must first install Putty if we use Windows.
 
-So now let's go to the browser and type [www.putty.org](http://www.putty.org/)
+So now let's go to the browser and type [<mark style="color:blue;">www.putty.org</mark>](http://www.putty.org/)
 
 (We will need Putty to connect to our VPS).
 
@@ -44,7 +44,7 @@ To get our VPS we need to purchase it from a hosting provider.
 
 In this guide, we are going to use Vultr.
 
-So let's open our browser and type [www.vultr.com](http://www.vultr.com/)
+So let's open our browser and type [<mark style="color:blue;">www.vultr.com</mark>](http://www.vultr.com/)
 
 We will need to create an account and use either our credit card or PayPal as a method of payment. Once we are done, will will have access to the control panel.
 
@@ -154,7 +154,7 @@ We just created the collateral transaction!
 
 After sending the coins to ourselves, we have to wait for 15 confirmations (about 15 minutes).
 
-In the image belwo, we can see the transaction labeled MN1, payment to yourself.
+In the image below, we can see the transaction labeled MN1, payment to yourself.
 
 <div align="left">
 
@@ -231,7 +231,7 @@ We are now connected to our server (let's leave it open).
 
 </div>
 
-Let's go to decenomy GitHub, at this link [https://github.com/decenomy/MONK](https://github.com/decenomy/MONK) to download the script to install the masternode (in our case Monk).
+Let's go to decenomy GitHub, at this link [<mark style="color:blue;">https://github.com/decenomy/MONK</mark>](https://github.com/decenomy/MONK) to download the script to install the masternode (in our case Monk).
 
 We click in the "**contrib"** folder.
 

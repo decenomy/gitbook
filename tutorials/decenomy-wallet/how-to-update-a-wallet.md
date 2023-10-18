@@ -20,7 +20,7 @@ We can check for updates through our official channels (Twitter, Discord, websit
 
 After we have verified that there is an update (in some cases the updates are mandatory otherwise the wallet will stop working) we have to download the latest version. For Sapphire, you can locate it on GitHub using the following link:
 
-[https://github.com/decenomy/sapp](https://github.com/decenomy/sapp)
+[<mark style="color:blue;">https://github.com/decenomy/sapp</mark>](https://github.com/decenomy/sapp)
 
 To access the latest version on GitHub, simply copy and paste the GitHub address into the address bar, as shown in the image below:
 

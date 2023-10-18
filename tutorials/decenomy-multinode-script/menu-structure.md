@@ -14,7 +14,7 @@ Only after the previous step, more options are available, always taking into acc
 
 ### **-** [<mark style="color:blue;">**Coin Selection**</mark>](coin-selection/)
 
-* [**Reinstall masternode multinode**](coin-selection/reinstall-masternode-multinode.md)
+* [<mark style="color:blue;">**Reinstall masternode multinode**</mark>](coin-selection/reinstall-masternode-multinode.md)
 * [<mark style="color:blue;">**Masternode multinode management**</mark>](coin-selection/masternode-multinode-management.md)
   * **List of masternodes in multinode list**
   * **Add masternode to multinode list**

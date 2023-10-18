@@ -32,6 +32,4 @@ This aligns with our commitment to providing a simple and user-friendly experien
 A tutorial on how to easily install and deploy a Masternode using this DECENOMY Multinode Script can also be found on this website, please follow the link - [<mark style="color:blue;">**Masternode Multinode easy deploy**</mark>](../decenomy-masternodes/masternode-multinode-easy-to-deploy.md)\
 \
 The code of this script is available on our GitHub in a specific repository\
-[_<mark style="color:blue;">**https://github.com/decenomy/mnscript**</mark>_](https://github.com/decenomy/mnscript)
-
-## &#x20; 
+[_<mark style="color:blue;">**https://github.com/decenomy/mnscript**</mark>_](https://github.com/decenomy/mnscript)\

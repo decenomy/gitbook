@@ -2,7 +2,7 @@
 
 {% embed url="https://youtu.be/b95mGCWJncM" %}
 
-This guide assumes you have an [ihostmn.com](https://ihostmn.com/) account and the coins needed to start a masternode in your local wallet.\
+This guide assumes you have an [<mark style="color:blue;">ihostmn.com</mark>](https://ihostmn.com/) account and the coins needed to start a masternode in your local wallet.\
 As soon as you log into ihostmn.com you will find yourself on the dashboard.\
 
 

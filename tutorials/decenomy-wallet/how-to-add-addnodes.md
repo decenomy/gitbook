@@ -15,8 +15,6 @@ In this guide, we will explain in a few simple steps how to add peers to your wa
 
 First of all, let's open our wallet (in our case Sapphire)
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
 Now we go to the top right and we will see the configuration file icon (in our case sapphire.conf).
 
 As seen in the following picture
@@ -29,7 +27,7 @@ In case Windows asks us which program we want to use to open it, it is advisable
 
 <figure><img src="../../.gitbook/assets/notepad.PNG" alt=""><figcaption></figcaption></figure>
 
-Now we go to [https://explorer.decenomy.net/](https://explorer.decenomy.net/) and search for the coin. (in this case Sapphire).
+Now we go to [<mark style="color:blue;">https://explorer.decenomy.net/</mark>](https://explorer.decenomy.net/) and search for the coin. (in this case Sapphire).
 
 Then we click on the coin to access the "Overview" page.
 

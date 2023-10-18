@@ -12,20 +12,20 @@ description: >-
 * **Masternode collateral**\
   Valid collateral amount related to the current block as well as each blockchain specification.\
   \
-  Please review the information presented on this website in the [**Coins**](../../coins/) section. Within each coin information, the collateral values are listed below on the **Rewards Breakdown** Board\
+  Please review the information presented on this website in the [<mark style="color:blue;">**Coins**</mark>](../../coins/) section. Within each coin information, the collateral values are listed below on the **Rewards Breakdown** Board\
 
 * **Local Wallet**\
   An installed wallet is required to handle the collateral. It can be downloaded directly from the GitHub coin repository.\
   \
-  Please review the information presented on this docs in the [**Coins**](../../coins/) section. Within each coin information, a **Wallet Download** link for that Github is provided.\
+  Please review the information presented in this docs in the [<mark style="color:blue;">**Coins**</mark>](../../coins/) section. Within each coin information, a **Wallet Download** link for that Github is provided.\
 
 * **VPS with UBUNTU 20.04** (preferable)\
   A Virtual Private Server is required to keep the masternodes up and running with continuous and stable connections. \
   It should be running the UBUNTU v20.04 Linux distribution installed.\
 
 * **Terminal emulator**\
-  Tool needed to connect to the above VPS. The most commonly used one is **Putty** [**https://www.putty.org/**](https://www.putty.org/) but other more modern options are also good and viable. \
-  An example in this case is **Tabby** [**https://github.com/Eugeny/tabby**](https://github.com/Eugeny/tabby) \
+  Tool needed to connect to the above VPS. The most commonly used one is **Putty** [<mark style="color:blue;">**https://www.putty.org/**</mark>](https://www.putty.org/) but other more modern options are also good and viable. \
+  An example in this case is **Tabby** [**https://github.com/Eugeny/tabby**](https://github.com/Eugeny/tabby)\
 
 * **DECENOMY Masternode Multinode**\
   To easily install and manage your masternodes multinode. \
@@ -35,7 +35,7 @@ description: >-
 ### <mark style="color:green;">Step 1 - Terminal Emulator ( VPS )</mark>
 
 \
-To get started, we need to install the [**DECENOMY Multinode Script**](../decenomy-multinode-script/) on the purchased VPS.\
+To get started, we need to install the [<mark style="color:blue;">**DECENOMY Multinode Script**</mark>](../decenomy-multinode-script/) on the purchased VPS.\
 \
 To install and run the script for the first time, you should copy and paste the following command into your terminal emulator after connecting to your VPS, with root privileges:&#x20;
 
@@ -56,7 +56,7 @@ Your terminal emulator will display a screen like the one shown below:
 
 Enter the number of the coin you want to install the masternode on and follow the script instructions. ( if you need help on the script side, please follow this chapter at Multinode script - [<mark style="color:blue;">**link**</mark>](../decenomy-multinode-script/coin-selection/) )\
 \
-At the end you will get a screen like this:
+At the end, you will get a screen like this:
 
 <div align="left">
 
@@ -68,7 +68,7 @@ Leave the terminal emulator in this state so that you have access to the VPS IP 
 
 ### <mark style="color:green;">Step 2 - Local Wallet</mark>
 
-To install the local wallet of the desired coin, please visit the [**Coins**](../../coins/) section. Within each coin's information, a **Wallet Download** link from its respective Github repository is provided.\
+To install the local wallet of the desired coin, please visit the [<mark style="color:blue;">**Coins**</mark>](../../coins/) section. Within each coin's information, a **Wallet Download** link from its respective Github repository is provided.\
 \
 Make sure you have enough funds in your wallet to process the collateral creation, and follow the steps shown in the following screen:
 

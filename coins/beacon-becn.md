@@ -16,7 +16,7 @@
 ## Tutorials
 
 **• Wallet Guide**\
-[**https://docs.decenomy.net/tutorials/decenomy-wallet**](../tutorials/decenomy-wallet/)\
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/decenomy-wallet**</mark>](../tutorials/decenomy-wallet/)\
 **• Masternode Guide**\
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/decenomy-masternodes**</mark>](../tutorials/decenomy-masternodes/)\
 • **Masternode Setup Guide ( non multinode )**\
@@ -58,6 +58,6 @@
 
 ## Rewards Breakdown
 
-
+***
 
 <table><thead><tr><th width="127">Block</th><th width="109">Collateral</th><th width="138">Block Reward</th><th width="138">MN Reward %</th><th width="171">Staking Reward %</th><th>MN Reward</th><th>Staker Reward</th></tr></thead><tbody><tr><td>1</td><td>2,000</td><td>1,700,000.00</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>2,000</td><td>5.00</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1,001</td><td>2,000</td><td>5.00</td><td>-</td><td>100</td><td>-</td><td>5.00</td></tr><tr><td>3,001</td><td>2,000</td><td>5.00</td><td>80</td><td>20</td><td>4.00</td><td>1.00</td></tr><tr><td>100,001</td><td>3,000</td><td>10.00</td><td>80</td><td>20</td><td>8.00</td><td>2.00</td></tr><tr><td>115,001</td><td>3,000</td><td>20.00</td><td>65</td><td>35</td><td>13.00</td><td>7.00</td></tr><tr><td>200,001</td><td>5,000</td><td>40.00</td><td>65</td><td>35</td><td>26.00</td><td>14.00</td></tr><tr><td>300,001</td><td>7,000</td><td>60.00</td><td>65</td><td>35</td><td>39.00</td><td>21.00</td></tr><tr><td>400,001</td><td>10,000</td><td>80.00</td><td>65</td><td>35</td><td>52.00</td><td>28.00</td></tr><tr><td>500,001</td><td>10,000</td><td>60.00</td><td>65</td><td>35</td><td>39.00</td><td>21.00</td></tr><tr><td>600,001</td><td>10,000</td><td>40.00</td><td>65</td><td>35</td><td>26.00</td><td>14.00</td></tr><tr><td>700,001</td><td>10,000</td><td>20.00</td><td>65</td><td>35</td><td>13.00</td><td>7.00</td></tr></tbody></table>

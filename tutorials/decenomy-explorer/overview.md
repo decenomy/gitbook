@@ -37,4 +37,4 @@ Users can adjust the number of blocks displayed by selecting different queries f
 
 This section provides detailed information about the coin specifications of the blockchain.\
 \
-Users can also access this information directly from the GitHub repository of the coin or the Coins section of this documentation by following this [link](../../coins/)\
+Users can also access this information directly from the GitHub repository of the coin or the Coins section of this documentation by following this [<mark style="color:blue;">link</mark>](../../coins/)\

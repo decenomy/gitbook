@@ -1,10 +1,10 @@
-# ▪ Shared Masternode management on Crypos
+# ▪ Shared Masternode Management on Crypos
 
 {% embed url="https://www.youtube.com/watch?v=CS9M2Rytz-Q" %}
 
 In this guide, we will explain how to use Crypos.io for shared masternodes.
 
-Now let's go to our browser and type [crypos.io](http://crypos.io/) in the address bar.
+Now let's go to our browser and type [<mark style="color:blue;">crypos.io</mark>](http://crypos.io/) in the address bar.
 
 Then we register or log in if we are already registered.
 

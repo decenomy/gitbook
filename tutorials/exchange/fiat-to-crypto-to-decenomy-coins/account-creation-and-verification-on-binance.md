@@ -3,7 +3,7 @@
 ### Account Creation
 
 * To start with, let's navigate to Binance from Google. Always ensure you have the correct URL.&#x20;
-* For added security, it's recommended to visit binance.com directly or manually type the URL into your browser's address bar.
+* For added security, it's recommended to visit <mark style="color:blue;">binance.com</mark> directly or manually type the URL into your browser's address bar.
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MiHm486VotxVq44a_Jg%2Fuploads%2Ft006t6QQ1UKnewUWIlAs%2F0?alt=media" alt=""><figcaption></figcaption></figure>
 
