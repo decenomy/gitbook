@@ -4,7 +4,7 @@ description: >-
   operator stress.
 ---
 
-# Masternode Collateral Window - Mitigating Network Instabilities
+# Masternode Collateral Window, Mitigating Network Instabilities
 
 ## Introduction
 
