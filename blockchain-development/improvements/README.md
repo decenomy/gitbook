@@ -16,8 +16,8 @@ This documentation page provides an overview of the improvements that are being 
 [multinode-multi-instance-hosting-on-masternode-full-nodes.md](multinode-multi-instance-hosting-on-masternode-full-nodes.md)
 {% endcontent-ref %}
 
-{% content-ref url="masternode-collateral-window.md" %}
-[masternode-collateral-window.md](masternode-collateral-window.md)
+{% content-ref url="masternode-collateral-window-mitigating-network-instabilities.md" %}
+[masternode-collateral-window-mitigating-network-instabilities.md](masternode-collateral-window-mitigating-network-instabilities.md)
 {% endcontent-ref %}
 
 {% content-ref url="the-emergence-of-a-progressive-masternode-collateral-system.md" %}

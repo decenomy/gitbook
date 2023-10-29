@@ -78,7 +78,7 @@
     * [Last Paid V2, a deterministic approach](blockchain-development/improvements/last-paid-v2-a-deterministic-approach.md)
     * [Masternode Payment V2, a sequential and fairer distribution](blockchain-development/improvements/masternode-payment-v2-a-sequential-and-fairer-distribution.md)
     * [Multinode, Multi-Instance Hosting on Masternode Full Nodes](blockchain-development/improvements/multinode-multi-instance-hosting-on-masternode-full-nodes.md)
-    * [Masternode Collateral Window](blockchain-development/improvements/masternode-collateral-window.md)
+    * [Masternode Collateral Window - Mitigating Network Instabilities](blockchain-development/improvements/masternode-collateral-window-mitigating-network-instabilities.md)
     * [The Emergence of a Progressive Masternode Collateral System](blockchain-development/improvements/the-emergence-of-a-progressive-masternode-collateral-system.md)
     * [Dynamic Collateral](blockchain-development/improvements/dynamic-collateral.md)
     * [EBF system](blockchain-development/improvements/ebf-system.md)

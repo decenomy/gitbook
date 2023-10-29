@@ -1,2 +1,0 @@
-# Masternode Collateral Window
-
