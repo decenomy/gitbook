@@ -85,4 +85,5 @@
     * [Multinode capability](blockchain-development/improvements/multinode-capability.md)
     * [Masternode Collateral Window](blockchain-development/improvements/masternode-collateral-window.md)
     * [Seamless MN upgrade between protocols](blockchain-development/improvements/seamless-mn-upgrade-between-protocols.md)
+    * [The Emergence of a Progressive Masternode Collateral System](blockchain-development/improvements/the-emergence-of-a-progressive-masternode-collateral-system.md)
   * [Commands](blockchain-development/commands.md)
