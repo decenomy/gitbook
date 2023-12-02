@@ -35,6 +35,7 @@
     * [▪ Extra connections (addnodes)](tutorials/decenomy-wallet/how-to-add-addnodes.md)
     * [▪ Fast sync with a Bootstrap](tutorials/decenomy-wallet/how-to-synchronize-the-wallet-with-a-bootstrap.md)
     * [▪ Wallet update](tutorials/decenomy-wallet/how-to-update-a-wallet.md)
+    * [▪ How to Identify and Fix a Fork](tutorials/decenomy-wallet/staking-statistics-on-vaultwatch.md)
     * [▪ Staking process on desktop wallet](tutorials/decenomy-wallet/how-to-stake-coins.md)
     * [▪ Staking process on a VPS](tutorials/decenomy-wallet/staking-process-on-a-vps.md)
     * [▪ Staking Best Practices](tutorials/decenomy-wallet/staking-optimization-and-common-problems.md)

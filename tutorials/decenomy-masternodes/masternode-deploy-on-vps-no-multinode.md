@@ -44,17 +44,16 @@ To get our VPS we need to purchase it from a hosting provider.
 
 In this guide, we are going to use Vultr.
 
-So let's open our browser and type [<mark style="color:blue;">www.vultr.com</mark>](http://www.vultr.com/)
+* So let's open our browser and type [https://contabo.com/en/](https://contabo.com/en/)&#x20;
+* We will need to create an account and use either our credit card or PayPal as a method of payment. Once we are done, will will have access to the control panel.
 
-We will need to create an account and use either our credit card or PayPal as a method of payment. Once we are done, will will have access to the control panel.
+Now let's choose the "VPS" option under the 'New Order' section.
 
-Now let's choose the "Cloud Compute" option.
+<figure><img src="../../.gitbook/assets/contabo portal.png" alt=""><figcaption></figcaption></figure>
 
-<div align="left">
+On the next page, we seletc the **'CLOUD VPS S**' option
 
-<figure><img src="../../.gitbook/assets/2 (4).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/vps option.png" alt=""><figcaption></figcaption></figure>
 
 Next, we choose the server location, preferably one that is nearest to our geographical location. in this case, we chose London.
 
