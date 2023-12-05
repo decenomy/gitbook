@@ -61,4 +61,4 @@ After successfully creating an account, it will be necessary to verify it with a
 
 <figure><img src="../../../.gitbook/assets/KYC success.jpg" alt=""><figcaption></figcaption></figure>
 
-Accounts are usually verified within 2 - 3 mins. When your account is verified you will be able to make a deposit.
+Accounts are usually verified within 2 - 3 mins. When your account is verified you will be able to make deposit and withdrawal.
