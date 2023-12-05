@@ -24,8 +24,41 @@ After successfully creating an account, it will be necessary to verify it with a
 
 <figure><img src="../../../.gitbook/assets/dashboard.PNG" alt=""><figcaption></figcaption></figure>
 
-* On the next screen, you will be provided with all the documents required and a guide to complete the KYC process.&#x20;
+* Existing users are also required to undergo a new KYC process with the new provider. Please click on the '**RESEND**' button, and an email will be sent containing a link to complete the KYC process.
 
-<figure><img src="../../../.gitbook/assets/kyc page.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/old user.PNG" alt=""><figcaption></figcaption></figure>
 
-Accounts are usually verified within 48 hours. When our account is verified we will be able to make a deposit.
+* To initiate the KYC process, you will be required to verify your phone number.
+
+<figure><img src="../../../.gitbook/assets/mobile verificatio.PNG" alt=""><figcaption></figcaption></figure>
+
+* Following that, you will receive an SMS on the provided phone number containing the KYC link. Ensure that you complete the process directly on your phone, as copying and pasting the link into your browser may not work.
+
+<figure><img src="../../../.gitbook/assets/sms kyc.jpg" alt=""><figcaption></figcaption></figure>
+
+* On the subsequent page, please agree to the privacy consent and click on **'Continue.**'
+
+<figure><img src="../../../.gitbook/assets/privacy consent.jpg" alt=""><figcaption></figcaption></figure>
+
+* Select the '**Capture my ID**' button to photograph the front page of your National ID card.
+
+<figure><img src="../../../.gitbook/assets/ID front.jpg" alt=""><figcaption></figcaption></figure>
+
+* Repeat the process for the back of your ID card by clicking on the **'Capture my ID**' button.
+
+<figure><img src="../../../.gitbook/assets/ID back.jpg" alt=""><figcaption></figcaption></figure>
+
+* After the ID verification, you will have the opportunity to review your ID details. While most fields will be automatically generated, it is crucial to verify their accuracy. If any information is incorrect, you will be able to make the necessary changes.
+* Check the checkbox to confirm your agreement with the consent policy once again. When you are certain that your details are accurate, click on the "**My details are correct**" button.
+
+<figure><img src="../../../.gitbook/assets/review.jpg" alt=""><figcaption></figcaption></figure>
+
+* Next, you will be required to finalize the face verification process by recording a selfie video.
+
+<figure><img src="../../../.gitbook/assets/selfie.jpg" alt=""><figcaption></figcaption></figure>
+
+* Once you have finished the KYC process, you will be notified with a success message confirming your verification.
+
+<figure><img src="../../../.gitbook/assets/KYC success.jpg" alt=""><figcaption></figcaption></figure>
+
+Accounts are usually verified within 2 - 3 mins. When your account is verified you will be able to make a deposit.
