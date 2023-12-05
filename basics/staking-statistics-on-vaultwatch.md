@@ -53,7 +53,7 @@ This means an average of about 0.24 rewards per day.\
 
 The age of the inputs for the DECENOMY coins is not a factor that affects the probability of receiving a reward. The only determining factor is the size of an input.
 
-As we have seen in the guide [<mark style="color:blue;">Staking Best Practices</mark>](../tutorials/decenomy-wallet/staking-optimization-and-common-problems.md) it can be useful to change the value of **setstakesplitthreshold** to avoid having a too large quantity of coins in an immature state (100 confirmations).
+As we have seen in the guide [<mark style="color:blue;">Staking Best Practices</mark>](../tutorials/decenomy-wallet/staking-best-practices.md) it can be useful to change the value of **setstakesplitthreshold** to avoid having a too large quantity of coins in an immature state (100 confirmations).
 
 Apparently, all our coins, after receiving the first reward, will not be available for staking for about 100 minutes.
 

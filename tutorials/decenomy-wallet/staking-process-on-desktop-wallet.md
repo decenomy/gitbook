@@ -17,7 +17,7 @@ A second requirement is that the wallet is unlocked. To do this we can click on 
 
 <figure><img src="../../.gitbook/assets/staking only option.PNG" alt=""><figcaption></figcaption></figure>
 
-If you happen to have [<mark style="color:blue;">encrypted your wallet</mark>](how-to-encrypt-a-wallet.md), you will be asked to enter your password and confirm the operation by clicking "OK" as seen below:
+If you happen to have [<mark style="color:blue;">encrypted your wallet</mark>](encrypting-a-wallet.md), you will be asked to enter your password and confirm the operation by clicking "OK" as seen below:
 
 <figure><img src="../../.gitbook/assets/confirm unlocking.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -29,4 +29,4 @@ If staking is not activated, you can use the `getstakingstatus` command in the d
 
 <figure><img src="../../.gitbook/assets/get staking status.PNG" alt=""><figcaption></figcaption></figure>
 
-We have provided more information on this command, which can be accessed on the [<mark style="color:blue;">Staking Best Practices</mark>](staking-optimization-and-common-problems.md) page.
+We have provided more information on this command, which can be accessed on the [<mark style="color:blue;">Staking Best Practices</mark>](staking-best-practices.md) page.

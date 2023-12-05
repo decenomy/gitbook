@@ -42,14 +42,14 @@ So let's dive in and explore the exciting possibilities of masternodes and proof
 <mark style="color:blue;">**DECENOMY Wallet**</mark>
 
 * [How to use the DECENOMY wallet](decenomy-wallet/how-to-use-the-decenomy-wallets.md)
-* [Encrypting a wallet](decenomy-wallet/how-to-encrypt-a-wallet.md)
-* [Extra connections ( addnodes )](decenomy-wallet/how-to-add-addnodes.md)
-* [Fast sync with a Bootstrap](decenomy-wallet/how-to-synchronize-the-wallet-with-a-bootstrap.md)
+* [Encrypting a wallet](decenomy-wallet/encrypting-a-wallet.md)
+* [Extra connections ( addnodes )](decenomy-wallet/extra-connections-addnodes.md)
+* [Fast sync with a Bootstrap](decenomy-wallet/fast-sync-with-a-bootstrap.md)
 * [Wallet update](decenomy-wallet/how-to-update-a-wallet.md)
-* [Staking process on desktop wallet](decenomy-wallet/how-to-stake-coins.md)
+* [Staking process on desktop wallet](decenomy-wallet/staking-process-on-desktop-wallet.md)
 * [Staking process on a VPS](decenomy-wallet/staking-process-on-a-vps.md)
-* [Staking Best Practices](decenomy-wallet/staking-optimization-and-common-problems.md)
-* [Backup wallet on an external device](decenomy-wallet/how-to-make-a-backup-on-a-usb-stick.md)
+* [Staking Best Practices](decenomy-wallet/staking-best-practices.md)
+* [Backup wallet on an external device](decenomy-wallet/backup-wallet-on-an-external-device.md)
 * [Restoring a backup from an external device](decenomy-wallet/restoring-a-backup-from-an-external-device.md)
 
 <mark style="color:blue;">**DECENOMY Masternodes**</mark>
