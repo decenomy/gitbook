@@ -72,7 +72,7 @@ Please use existing categories for efficient searches:
 <mark style="color:blue;">**Exchange**</mark>
 
 * [How to buy DECENOMY coins on Heliobank](tutorials/exchange/how-to-buy-decenomy-coins-on-birake/)
-* [Fiat to Crypto to DECENOMY Coins](tutorials/exchange/fiat-to-crypto-to-decenomy-coins/)
+* [Fiat to Crypto to DECENOMY Coins](broken-reference)
 
 </details>
 

@@ -63,7 +63,7 @@ So let's dive in and explore the exciting possibilities of masternodes and proof
 <mark style="color:blue;">**Exchange**</mark>
 
 * [How to buy DECENOMY coins on Heliobank](exchange/how-to-buy-decenomy-coins-on-birake/)
-* [Fiat to Crypto to DECENOMY Coins](exchange/fiat-to-crypto-to-decenomy-coins/)
+* [Fiat to Crypto to DECENOMY Coins](broken-reference)
 
 
 
