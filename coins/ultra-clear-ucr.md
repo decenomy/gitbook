@@ -7,7 +7,7 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/UCR/releases/latest**</mark>](https://github.com/decenomy/UCR/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/UCR/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/UCR/bootstrap.zip)\
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/UCR/bootstrap.zip**</mark>](https://bootstraps.decenomy.net/UCR/bootstrap.zip)\
 • **Explorer 1** \
 [<mark style="color:blue;">**https://explorer.decenomy.net/UCR/blocks**</mark>](https://explorer.decenomy.net/UCR/blocks)\
 • **Explorer 2**\

@@ -7,7 +7,7 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/MONK/releases/latest**</mark>](https://github.com/decenomy/MONK/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/MONK/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/MONK/bootstrap.zip)\
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/MONK/bootstrap.zip**</mark>](https://bootstraps.decenomy.net/MONK/bootstrap.zip)\
 • **Explorer 1** \
 [<mark style="color:blue;">**https://explorer.decenomy.net/MONK/blocks**</mark>](https://explorer.decenomy.net/MONK/blocks)\
 • **Explorer 2**\

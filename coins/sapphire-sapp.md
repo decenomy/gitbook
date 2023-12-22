@@ -7,7 +7,7 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/SAPP/releases/latest**</mark>](https://github.com/decenomy/SAPP/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/SAPP/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/SAPP/bootstrap.zip)\
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/SAPP/bootstrap.zip**</mark>](https://bootstraps.decenomy.net/SAPP/bootstrap.zip)\
 • **Explorer 1** \
 [<mark style="color:blue;">**https://explorer.decenomy.net/SAPP/blocks**</mark>](https://explorer.decenomy.net/SAPP/blocks)\
 • **Explorer 2**\

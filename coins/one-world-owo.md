@@ -7,7 +7,7 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/OWO/releases/latest**</mark>](https://github.com/decenomy/OWO/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/OWO/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/OWO/bootstrap.zip)\
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/OWO/bootstrap.zip**</mark>](https://bootstraps.decenomy.net/MONK/bootstrap.zip)\
 • **Explorer 1** \
 [<mark style="color:blue;">**https://explorer.decenomy.net/OWO/blocks**</mark>](https://explorer.decenomy.net/OWO/blocks)\
 • **Explorer 2**\

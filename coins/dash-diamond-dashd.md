@@ -7,7 +7,7 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/DASHD/releases/latest**</mark>](https://github.com/decenomy/DASHD/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/DASHD/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/DASHD/bootstrap.zip)\
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/DASHD/bootstrap.zip**</mark>](https://bootstraps.decenomy.net/DASHD/bootstrap.zip)\
 • **Explorer 1** \
 [<mark style="color:blue;">**https://explorer.decenomy.net/DASHD/blocks**</mark>](https://explorer.decenomy.net/DASHD/blocks)\
 • **Explorer 2**\

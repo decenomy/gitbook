@@ -7,9 +7,9 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/BECN/releases/latest**</mark>](https://github.com/decenomy/BECN/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/BECN/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/BECN/bootstrap.zip)\
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/BECN/bootstrap.zip**</mark>](https://bootstraps.decenomy.net/BECN/bootstrap.zip)\
 • **Explorer 1** \
-[<mark style="color:blue;">https://explorer.decenomy.net/</mark>](https://explorer.decenomy.net/BECN)<mark style="color:blue;">**BECN**</mark>\
+[<mark style="color:blue;">**https://explorer.decenomy.net/**</mark>](https://explorer.decenomy.net/BECN)<mark style="color:blue;">**BECN**</mark>\
 • **Explorer 2**\
 [<mark style="color:blue;">**https://becn.flitswallet.app/**</mark>](https://becn.flitswallet.app/)
 

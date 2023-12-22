@@ -7,7 +7,7 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/CFL/releases/latest**</mark>](https://github.com/decenomy/CFL/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/CFL/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/CFL/bootstrap.zip)\
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/CFL/bootstrap.zip**</mark>](https://bootstraps.decenomy.net/CFL/bootstrap.zip)\
 • **Explorer 1** \
 [<mark style="color:blue;">**https://explorer.decenomy.net/CFL**</mark>](https://explorer.decenomy.net/CFL)\
 • **Explorer 2**\

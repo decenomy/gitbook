@@ -7,7 +7,7 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/BIR/releases/latest**</mark>](https://github.com/decenomy/BIR/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/BIR/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/BIR/bootstrap.zip)\
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/BIR/bootstrap.zip**</mark>](https://bootstraps.decenomy.net/BIR/bootstrap.zip)\
 • **Explorer 1** \
 [<mark style="color:blue;">**https://explorer.decenomy.net/BIR**</mark>](https://explorer.decenomy.net/BIR)\
 • **Explorer 2**\

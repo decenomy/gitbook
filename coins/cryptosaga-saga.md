@@ -7,8 +7,8 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/SAGA/releases/latest**</mark>](https://github.com/decenomy/SAGA/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/SAGA/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/SAGA/bootstrap.zip)\
-• **Explorer 1** \
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/SAGA/bootstrap.zip**</mark>\
+](https://bootstraps.decenomy.net/SAGA/bootstrap.zip)• **Explorer 1** \
 [<mark style="color:blue;">**https://explorer.decenomy.net/SAGA/blocks**</mark>](https://explorer.decenomy.net/SAGA/blocks)\
 • **Explorer 2**\
 [<mark style="color:blue;">**https://saga.flitswallet.app/**</mark>](https://saga.flitswallet.app/)

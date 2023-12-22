@@ -7,7 +7,7 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/777/releases/latest**</mark>](https://github.com/decenomy/777/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/777/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/777/bootstrap.zip)\
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/777/bootstrap.zip**</mark>](https://bootstraps.decenomy.net/FLS/bootstrap.zip)\
 • **Explorer 1** \
 [<mark style="color:blue;">**https://explorer.decenomy.net/777/blocks**</mark>](https://explorer.decenomy.net/777/blocks)\
 • **Explorer 2**\

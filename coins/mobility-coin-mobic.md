@@ -7,7 +7,7 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/MOBIC/releases/latest**</mark>](https://github.com/decenomy/MOBIC/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/MOBIC/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/MOBIC/bootstrap.zip)\
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/MOBIC/bootstrap.zip**</mark>](https://bootstraps.decenomy.net/KYAN/bootstrap.zip)\
 • **Explorer 1** \
 [<mark style="color:blue;">**https://explorer.decenomy.net/MOBIC/blocks**</mark>](https://explorer.decenomy.net/MOBIC/blocks)\
 • **Explorer 2**\

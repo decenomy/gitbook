@@ -7,7 +7,7 @@
 • **Wallet Download**\
 [<mark style="color:blue;">**https://github.com/decenomy/SUV/releases/latest**</mark>](https://github.com/decenomy/SUV/releases/latest)\
 • **Bootstrap**\
-[<mark style="color:blue;">**https://explorer.decenomy.net/bootstraps/SUV/bootstrap.zip**</mark>](https://explorer.decenomy.net/bootstraps/SUV/bootstrap.zip)\
+[<mark style="color:blue;">**https://bootstraps.decenomy.net/SUV/bootstrap.zip**</mark>](https://bootstraps.decenomy.net/SUV/bootstrap.zip)\
 • **Explorer 1** \
 [<mark style="color:blue;">**https://explorer.decenomy.net/SUV/blocks**</mark>](https://explorer.decenomy.net/SUV/blocks)\
 • **Explorer 2**\
