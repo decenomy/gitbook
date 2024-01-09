@@ -54,7 +54,7 @@
       * [Trade (Buy and Sell)](tutorials/exchange/how-to-buy-decenomy-coins-on-birake/trade-buy-and-sell.md)
     * [▪ Birake Exchange Affiliate Program](tutorials/exchange/birake-exchange-affiliate-program.md)
 * [Coins](coins/README.md)
-  * [▪ Azzure (AZR)](coins/aezora-azr.md)
+  * [▪ Azzure (AZR)](coins/azzure-azr.md)
   * [▪ Beacon (BECN)](coins/beacon-becn.md)
   * [▪ Birake (BIR)](coins/birake-bir.md)
   * [▪ Cryptoflow (CFL)](coins/cryptoflow-cfl.md)

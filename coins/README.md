@@ -9,21 +9,21 @@ It is important to note that DSW is not intended for use as a wallet or coin but
 Details of each coin can be found in the following list \
 
 
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Azzure (AZR)</mark>](aezora-azr.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Beacon (BECN)</mark>](beacon-becn.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Birake (BIR)</mark>](birake-bir.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Cryptoflow (CFL)</mark>](cryptoflow-cfl.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Cryptosaga (SAGA)</mark>](cryptosaga-saga.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Dash Diamond (DASHD)</mark>](dash-diamond-dashd.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Eskacoin (ESK)</mark>](eskacoin-esk.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Flits (FLS)</mark> ](flits-fls.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Jackpot (777)</mark>](jackpot-777.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Kyanite (KYAN)</mark>](kyanite-kyan.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Mobility Coin (MOBIC)</mark>](mobility-coin-mobic.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Monk (MONK)</mark>](monk-monk.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">One World (OWO)</mark>](one-world-owo.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Peony (PNY)</mark>](peony-pny.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Sapphire (SAPP)</mark>](sapphire-sapp.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Suvereno (SUV)</mark>](suvereno-suv.md)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Ultra Clear (UCR)</mark>](ultra-clear-ucr.md)<mark style="color:blue;"></mark>
+* [<mark style="color:blue;">Azzure (AZR)</mark>](broken-reference)
+* [<mark style="color:blue;">Beacon (BECN)</mark>](beacon-becn.md)
+* [<mark style="color:blue;">Birake (BIR)</mark>](birake-bir.md)
+* [<mark style="color:blue;">Cryptoflow (CFL)</mark>](cryptoflow-cfl.md)
+* [<mark style="color:blue;">Cryptosaga (SAGA)</mark>](cryptosaga-saga.md)
+* [<mark style="color:blue;">Dash Diamond (DASHD)</mark>](dash-diamond-dashd.md)
+* [<mark style="color:blue;">Eskacoin (ESK)</mark>](eskacoin-esk.md)
+* [<mark style="color:blue;">Flits (FLS)</mark> ](flits-fls.md)
+* [<mark style="color:blue;">Jackpot (777)</mark>](jackpot-777.md)
+* [<mark style="color:blue;">Kyanite (KYAN)</mark>](kyanite-kyan.md)
+* [<mark style="color:blue;">Mobility Coin (MOBIC)</mark>](mobility-coin-mobic.md)
+* [<mark style="color:blue;">Monk (MONK)</mark>](monk-monk.md)
+* [<mark style="color:blue;">One World (OWO)</mark>](one-world-owo.md)
+* [<mark style="color:blue;">Peony (PNY)</mark>](peony-pny.md)
+* [<mark style="color:blue;">Sapphire (SAPP)</mark>](sapphire-sapp.md)
+* [<mark style="color:blue;">Suvereno (SUV)</mark>](suvereno-suv.md)
+* [<mark style="color:blue;">Ultra Clear (UCR)</mark>](ultra-clear-ucr.md)
 
