@@ -19,9 +19,10 @@ description: >-
   \
   Please review the information presented in this docs in the [<mark style="color:blue;">**Coins**</mark>](../../coins/) section. Within each coin information, a **Wallet Download** link for that Github is provided.\
 
-* **VPS with UBUNTU 22.04** (preferable)\
+* **VPS with UBUNTU 22.04** ([**preferable**](https://contabo.com/en/vps/?utm\_source=cj\&utm\_medium=affiliate\&utm\_campaign=vps\&source=affiliate\&AID=12454592\&PID=6839992))\
   A Virtual Private Server is required to keep the masternodes up and running with continuous and stable connections. \
-  It should be running the UBUNTU v20.04 Linux distribution installed. [Learn how to set up a VPS ](setting-up-a-virtual-private-server-vps.md)\
+  It should be running the UBUNTU v22.04 Linux distribution installed. \
+  [**Learn how to set up a VPS** ](setting-up-a-virtual-private-server-vps.md)\
 
 * **Terminal emulator**\
   Tool needed to connect to the above VPS. The most commonly used one is **Putty** [<mark style="color:blue;">**https://www.putty.org/**</mark>](https://www.putty.org/) but other more modern options are also good and viable. \
@@ -29,7 +30,7 @@ description: >-
 
 * **DECENOMY Masternode Multinode**\
   To easily install and manage your masternodes multinode. \
-  For more detailed information about this tool please see the information presented on this website in the [**DECENOMY Multinode Script**](../decenomy-multinode-script/) section. We highly recommend [Contabo VPS](https://contabo.com/en/vps/?utm\_source=cj\&utm\_medium=affiliate\&utm\_campaign=vps\&source=affiliate\&AID=12454592\&PID=6839992) as it already has the Multinode Script pre-installed. \
+  For more detailed information about this tool please see the information presented on this website in the [**DECENOMY Multinode Script**](../decenomy-multinode-script/) section. We highly recommend [**Contabo VPS**](https://contabo.com/en/vps/?source=affiliate\&AID=12454592\&PID=6839992) as they have proven to be a reliable and consistent provider.\
 
 
 ### <mark style="color:green;">Step 1 - Terminal Emulator ( VPS )</mark>
