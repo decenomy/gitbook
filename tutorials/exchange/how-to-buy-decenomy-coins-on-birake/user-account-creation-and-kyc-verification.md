@@ -28,16 +28,15 @@ After successfully creating an account, it will be necessary to verify it with a
 
 <figure><img src="../../../.gitbook/assets/old user.PNG" alt=""><figcaption></figcaption></figure>
 
-* To continue verification, follow the email by clicking on the red verification button. \
-  Note that this notification is always sent to the email address you used when you first registered your account on Birake Exchange.
+* To continue with the verification, follow the email by clicking on the red '**Verify**' button. Please note that this notification is always sent to the email address you provided during the initial registration of your account on Birake Exchange
 
 <figure><img src="../../../.gitbook/assets/KYC_email.jpg" alt=""><figcaption></figcaption></figure>
 
-The KYC process verification requires a smartphone, so the necessary information will be introduced.\
+The KYC verification process requires a smartphone so that the necessary information will be introduced.\
 \
-If you are already following the previous instructions on this type of device, please ignore the next 2 points related to the phone number and you can jump directly to the privacy policy agreement.\
+If you are already following the previous instructions on this type of device, please skip the next two steps related to the phone number, and proceed directly to the privacy policy agreement.\
 \
-On the other hand, if you are doing this from any type of computer, please follow the phone number verification to continue your KYC session on the smartphone.
+Conversely, if you are performing this task from any computer, please follow the phone number verification process to proceed with your KYC session on the smartphone.
 
 * To initiate the KYC process, you will be required to verify your phone number.
 
@@ -88,6 +87,6 @@ On the other hand, if you are doing this from any type of computer, please follo
 
 <figure><img src="../../../.gitbook/assets/KYC success.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-Accounts are usually verified within 2 - 3 mins. When your account is verified you will be able to make deposit and withdrawal.
+Accounts are usually verified within 2 - 3 mins. When your account is verified you will be able to make deposits and withdrawals.
 
 <figure><img src="../../../.gitbook/assets/KYC_done_final.jpg" alt=""><figcaption></figcaption></figure>

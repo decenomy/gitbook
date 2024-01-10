@@ -38,82 +38,11 @@ Once this is done we will find ourselves on the download page, and then we choos
 
 </div>
 
-Now that we have Putty on our PC, we need a virtual private server (VPS).
+Now that we have Putty on our PC, we need a virtual private server (VPS). Kindly refer to [Setting Up a Virtual Private Server (VPS)](setting-up-a-virtual-private-server-vps.md) for a step-by-step process on how to get a VPS for your masternodes.
 
-To get our VPS we need to purchase it from a hosting provider.
+**NB: For coins with no multinode support, you do not need to continue with the ''Reinstallation process". Once you have your IP address, Username, and Password (sent to your email) you can continue with this guide.**&#x20;
 
-In this guide, we are going to use Vultr.
 
-* So let's open our browser and type [https://contabo.com/en/](https://contabo.com/en/)&#x20;
-* We will need to create an account and use either our credit card or PayPal as a method of payment. Once we are done, will will have access to the control panel.
-
-Now let's choose the "VPS" option under the 'New Order' section.
-
-<figure><img src="../../.gitbook/assets/contabo portal.png" alt=""><figcaption></figcaption></figure>
-
-On the next page, we seletc the **'CLOUD VPS S**' option
-
-<figure><img src="../../.gitbook/assets/vps option.png" alt=""><figcaption></figcaption></figure>
-
-Next, we choose the server location, preferably one that is nearest to our geographical location. in this case, we chose London.
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/3 (10).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-So we choose Server Type
-
-* 64 bit OS
-* Ubuntu
-* 18.04 x64
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/4%20(8).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-Once this is done, let's choose Server Size (which are the technical specifications of our VPS).
-
-In our case, we are going to choose the option that costs $10/month and click on the "Deploy Now" button.
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/5%20(3).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-We need to wait for the server installation process to complete. As soon as it's ready, we click on our new server.
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-Now we will find ourselves on the Server Information page
-
-At the bottom left, we find our credentials.
-
-* IP Address
-* Username
-* Password
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/7%20(5).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-We recommend that you save all the necessary data in a Notepad file because they will be used in the following steps.
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/8%20(7).png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 Now let's go back and open our wallet (in this case Monk).
 

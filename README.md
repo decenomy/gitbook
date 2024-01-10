@@ -80,7 +80,7 @@ Please use existing categories for efficient searches:
 
 <summary><a href="coins/">Coins</a></summary>
 
-* [<mark style="color:blue;">Azzure (AZR)</mark>](coins/aezora-azr.md)
+* [<mark style="color:blue;">Azzure (AZR)</mark>](broken-reference)
 * [<mark style="color:blue;">Beacon (BECN)</mark>](coins/beacon-becn.md)
 * [<mark style="color:blue;">Birake (BIR)</mark>](coins/birake-bir.md)
 * [<mark style="color:blue;">Cryptoflow (CFL)</mark>](coins/cryptoflow-cfl.md)

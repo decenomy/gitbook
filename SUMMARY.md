@@ -47,6 +47,7 @@
     * [▪ Create a Masternode on IhostMN.com](tutorials/decenomy-masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
     * [▪ Shared Masternode Management on Crypos](tutorials/decenomy-masternodes/shared-masternode-management-on-crypos.md)
     * [▪ Masternode deploy on VPS ( no multinode )](tutorials/decenomy-masternodes/masternode-deploy-on-vps-no-multinode.md)
+    * [▪ Setting Up a Virtual Private Server (VPS)](tutorials/decenomy-masternodes/setting-up-a-virtual-private-server-vps.md)
   * [Exchange](tutorials/exchange/README.md)
     * [▪ How to buy Decenomy coins on Birake Exchange](tutorials/exchange/how-to-buy-decenomy-coins-on-birake/README.md)
       * [User Account Creation and KYC Verification](tutorials/exchange/how-to-buy-decenomy-coins-on-birake/user-account-creation-and-kyc-verification.md)
