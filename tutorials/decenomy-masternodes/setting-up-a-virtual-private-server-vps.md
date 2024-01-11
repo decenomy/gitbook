@@ -49,7 +49,7 @@ In this guide, we are going to use [Contabo](https://contabo.com/en/vps/?utm\_so
 
 <figure><img src="../../.gitbook/assets/step5.png" alt=""><figcaption></figcaption></figure>
 
-* Now, we will log into our server via Putty using our IP address, username, and password.
+* Now, we will log into our server via Putty using our IP address, username, and password. [<mark style="color:blue;">**Learn how to use PuTTy**</mark>](using-a-terminal-emulator-putty.md)
 
 <figure><img src="../../.gitbook/assets/putty.PNG" alt=""><figcaption></figcaption></figure>
 

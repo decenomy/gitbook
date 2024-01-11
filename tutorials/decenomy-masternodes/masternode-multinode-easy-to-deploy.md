@@ -25,8 +25,8 @@ description: >-
   [**Learn how to set up a VPS** ](setting-up-a-virtual-private-server-vps.md)\
 
 * **Terminal emulator**\
-  Tool needed to connect to the above VPS. The most commonly used one is **Putty** [<mark style="color:blue;">**https://www.putty.org/**</mark>](https://www.putty.org/) but other more modern options are also good and viable. \
-  An example in this case is **Tabby** [**https://github.com/Eugeny/tabby**](https://github.com/Eugeny/tabby)\
+  Tool needed to connect to the above VPS. The most commonly used one is **Putty.** [<mark style="color:blue;">**Learn how to use PuTTY**</mark> ](using-a-terminal-emulator-putty.md)\
+  **O**ther more modern options such as  **Tabby** [**https://github.com/Eugeny/tabby**](https://github.com/Eugeny/tabby) are also good and viable. \
 
 * **DECENOMY Masternode Multinode**\
   To easily install and manage your masternodes multinode. \

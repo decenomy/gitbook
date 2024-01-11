@@ -19,8 +19,8 @@
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/decenomy-wallet**</mark>](../tutorials/decenomy-wallet/)\
 **• Masternode Guide**\
 [<mark style="color:blue;">**https://docs.decenomy.net/tutorials/decenomy-masternodes**</mark>](../tutorials/decenomy-masternodes/)\
-• **Masternode Setup Guide ( non multinode )**\
-[<mark style="color:blue;">**https://github.com/decenomy/MONK/tree/master/contrib/masternodesetup**</mark>](https://github.com/decenomy/MONK/tree/master/contrib/masternodesetup)
+• **Masternode Multinode Setup Guide**\
+[<mark style="color:blue;">**https://docs.decenomy.net/tutorials/decenomy-masternodes/masternode-multinode-easy-to-deploy**</mark>](https://docs.decenomy.net/tutorials/decenomy-masternodes/masternode-multinode-easy-to-deploy)
 
 ## Social
 
