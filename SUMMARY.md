@@ -63,6 +63,7 @@
     * [▪ How to Top up Fee Credits](tutorials/flits-wallet-app/how-to-top-up-fee-credits.md)
     * [▪ How to Deploy Masternodes in the Flits Wallet App](tutorials/flits-wallet-app/how-to-deploy-masternodes-in-the-flits-wallet-app.md)
     * [▪ Settings Overview](tutorials/flits-wallet-app/settings-overview.md)
+    * [▪ Running Flits Wallet App on Windows and MacOS - Bluestacks](tutorials/flits-wallet-app/running-flits-wallet-app-on-windows-and-macos-bluestacks.md)
 * [Coins](coins/README.md)
   * [▪ Azzure (AZR)](coins/azzure-azr.md)
   * [▪ Beacon (BECN)](coins/beacon-becn.md)
