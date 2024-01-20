@@ -43,7 +43,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/discover.jpg" alt=""><figcaption></figcaption></figure>
 
-5. **User**: Allows users to access additional information and features of the app. As mentioned earlier, the Epay and referral program will also be discontinued.
+4. **User**: Allows users to access additional information and features of the app. As mentioned earlier, the Epay and referral program will also be discontinued.
 
 <figure><img src="../../.gitbook/assets/user.jpg" alt=""><figcaption></figcaption></figure>
 
