@@ -18,4 +18,5 @@ Below are helpful guides that will help you get your feet wet with the Flits Wal
 * [<mark style="color:blue;">**How to Top up Fee Credits**</mark>](how-to-top-up-fee-credits.md)
 * [<mark style="color:blue;">**How to Deploy Masternodes in the Flits Wallet App**</mark>](how-to-deploy-masternodes-in-the-flits-wallet-app.md)
 * [<mark style="color:blue;">**Settings Overview**</mark>](settings-overview.md)
+* [**Running Flits Wallet App on Windows and MacOS - Bluestacks**](running-flits-wallet-app-on-windows-and-macos-bluestacks.md)
 
