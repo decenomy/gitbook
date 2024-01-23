@@ -30,4 +30,4 @@ description: Learn how to access your funds with a seed phrase
 
 * After the step above, you should have access to your wallet and be able to perform other operations.
 
-<figure><img src="../../.gitbook/assets/4 wallet interface.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wallet overview (2).jpg" alt=""><figcaption></figcaption></figure>

@@ -74,4 +74,4 @@ description: This tutorial will help you set up your Flits Wallet app as a first
 
 * Any of the options in the previous step will send you to the wallet overview
 
-<figure><img src="../../.gitbook/assets/wallet overview.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wallet overview (2).jpg" alt=""><figcaption></figcaption></figure>

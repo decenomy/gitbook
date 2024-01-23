@@ -19,4 +19,6 @@ Below are helpful guides that will help you get your feet wet with the Flits Wal
 * [<mark style="color:blue;">**How to Deploy Masternodes in the Flits Wallet App**</mark>](how-to-deploy-masternodes-in-the-flits-wallet-app.md)
 * [<mark style="color:blue;">**Settings Overview**</mark>](settings-overview.md)
 * [<mark style="color:blue;">**Running Flits Wallet App on Windows and MacOS - Bluestacks**</mark>](running-flits-wallet-app-on-windows-and-macos-bluestacks.md)
+* [<mark style="color:blue;">**Flits Wallet In-app Support**</mark>](flits-wallet-in-app-support.md)
+* [<mark style="color:blue;">**Using the Flits Extraction Tool**</mark>](using-the-flits-extraction-tool.md)
 

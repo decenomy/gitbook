@@ -11,7 +11,7 @@ description: Learn how to add and remove wallets for any coins in the Flits Wall
 * You will have no coin added to your wallets when you first download and install the app.
 * To add a wallet, you will need to click on the '**Wallets**' icon as indicated below:
 
-<figure><img src="../../.gitbook/assets/wallet overview (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wallet overview - addremove.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Step 2
 

@@ -64,6 +64,8 @@
     * [▪ How to Deploy Masternodes in the Flits Wallet App](tutorials/flits-wallet-app/how-to-deploy-masternodes-in-the-flits-wallet-app.md)
     * [▪ Settings Overview](tutorials/flits-wallet-app/settings-overview.md)
     * [▪ Running Flits Wallet App on Windows and MacOS - Bluestacks](tutorials/flits-wallet-app/running-flits-wallet-app-on-windows-and-macos-bluestacks.md)
+    * [▪ Flits Wallet In-app Support](tutorials/flits-wallet-app/flits-wallet-in-app-support.md)
+    * [▪ Using the Flits Extraction Tool](tutorials/flits-wallet-app/using-the-flits-extraction-tool.md)
 * [Coins](coins/README.md)
   * [▪ Azzure (AZR)](coins/azzure-azr.md)
   * [▪ Beacon (BECN)](coins/beacon-becn.md)

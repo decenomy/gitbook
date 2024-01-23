@@ -10,7 +10,7 @@ description: >-
 
 * The topmost part of the Flits wallet window consists of the Balance, QR Code, and Notification icon:
 
-<figure><img src="../../.gitbook/assets/wallet overview - balance,notification, qr code.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wallet overview - how to use.jpg" alt=""><figcaption></figcaption></figure>
 
 1. **Balance**: Provides an overview of how much your assets are worth in your desired FIAT currency.
 2. **QR code**: It acts as a convenient and fast way to grab the deposit addresses to your various wallets in addition to their respective QR code.&#x20;
