@@ -17,13 +17,13 @@ description: >-
 
 * On the '**Overview**' tab in the FLS wallet, select '**Nodes**' as shown in the image below:
 
-<figure><img src="../../.gitbook/assets/mn.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mn (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Step 3
 
 * Click on '**New node**' to start the setup process
 
-<figure><img src="../../.gitbook/assets/2 mn.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 mn (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Step 4
 
@@ -48,7 +48,7 @@ description: >-
 
 * Go back to the '**Masternodes**' tab, and you will find your masternode and its initial status.
 
-<figure><img src="../../.gitbook/assets/6 mn.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 mn (1).jpg" alt=""><figcaption></figcaption></figure>
 
 * &#x20;After about 30 minutes, the status of your masternode should change to '**Enabled**' as seen in the image below:
 

@@ -40,7 +40,7 @@ description: >-
 #### Step 3
 
 * Enter your Flits Wallet Seed phrase
-* Select the coin you want to extract the private key. In this guide, we choose MONK
+* Select the coin you want to extract the private key. In this guide, we choose SAPP
 * Copy the private key of the address you want to extract
 
 <figure><img src="../../.gitbook/assets/5 extraction.png" alt=""><figcaption></figcaption></figure>
@@ -49,7 +49,7 @@ description: >-
 
 #### Step 1
 
-* Open the MONK desktop wallet&#x20;
+* Open the SAPP desktop wallet&#x20;
 * Go to Settings, Debug, and then Console
 
 <figure><img src="../../.gitbook/assets/6 extraction.PNG" alt=""><figcaption></figcaption></figure>

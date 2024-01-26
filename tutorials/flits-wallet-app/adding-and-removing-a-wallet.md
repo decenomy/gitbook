@@ -38,10 +38,10 @@ description: Learn how to add and remove wallets for any coins in the Flits Wall
 * After you have added a couple of wallets and you wish to remove any of them,  Select the specific coin from the wallet window.
 * Click on the '**trash can**' icon
 
-<figure><img src="../../.gitbook/assets/5 fls wallet overview.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 fls wallet overview (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Step 2
 
-* Confirm the operation to remove the coin
+* Confirm the operation to remove the coin.
 
 <figure><img src="../../.gitbook/assets/confirm hide.jpg" alt=""><figcaption></figcaption></figure>

@@ -14,13 +14,13 @@ Receive coins from an external wallet using your dedicated wallet address
 
 * From the specific coin's wallet overview (i.e. FLS wallet), select '**Receive**'
 
-<figure><img src="../../.gitbook/assets/1 receive.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 receive (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Step 2
 
 * Copy or share your wallet deposit address&#x20;
 
-<figure><img src="../../.gitbook/assets/2 recieve.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 recieve (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Sending coins&#x20;
 
@@ -30,14 +30,14 @@ Send coins to yourself or external wallets
 
 * While on the Wallet overview page, choose '**Send**'.&#x20;
 
-<figure><img src="../../.gitbook/assets/1 send.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 send (2).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Step 2
 
 * Enter the recipient's wallet address and amount as seen in the image below:
-* Click on '**Send**' when done
+* Click on '**Send coins**' when done
 
-<figure><img src="../../.gitbook/assets/2 send.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 send (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Step 3
 

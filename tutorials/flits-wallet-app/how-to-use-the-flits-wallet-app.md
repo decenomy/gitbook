@@ -18,7 +18,7 @@ description: >-
 
 ### Platform Statistics
 
-<figure><img src="../../.gitbook/assets/platform starts.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/platform stats.jpg" alt=""><figcaption></figcaption></figure>
 
 * Provides an overview of the stats on the currently active users on the app, the total number of masternodes (MNs) deployed by users, and the total MN corresponding value in Bitcoin (BTC).
 * Below these stats is the current Price of BTC which is updated frequently.

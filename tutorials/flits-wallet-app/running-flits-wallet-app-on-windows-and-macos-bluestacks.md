@@ -10,7 +10,7 @@ description: >-
 
 * To begin, we will need to download and save the Flit Wallet App APK file from [https://flitswallet.app/](https://flitswallet.app/) onto our PC&#x20;
 
-<figure><img src="../../.gitbook/assets/0 bs.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0 bs (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### Step 2
 
