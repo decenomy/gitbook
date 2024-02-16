@@ -65,8 +65,8 @@ Please use existing categories for efficient searches:
 
 * [<mark style="color:blue;">Maternode Multinode easy to deploy</mark>](tutorials/decenomy-masternodes/masternode-multinode-easy-to-deploy.md)
 * [Masternode collateral update](tutorials/decenomy-masternodes/how-to-update-a-masternode-collateral.md)
-* [Create a Masternode on IHostMN.com](tutorials/decenomy-masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
-* [Shared Masternode management on Crypos](tutorials/decenomy-masternodes/shared-masternode-management-on-crypos.md)
+* [Create a Masternode on IHostMN.com](broken-reference)
+* [Shared Masternode management on Crypos](broken-reference)
 * [<mark style="color:blue;">Masternode deploy on VPS ( no multinode )</mark>](broken-reference)
 
 <mark style="color:blue;">**Exchange**</mark>

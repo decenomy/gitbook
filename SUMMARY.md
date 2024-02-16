@@ -44,8 +44,6 @@
   * [DECENOMY Masternodes](tutorials/decenomy-masternodes/README.md)
     * [▪ Masternode Multinode easy to deploy](tutorials/decenomy-masternodes/masternode-multinode-easy-to-deploy.md)
     * [▪ Masternode collateral update](tutorials/decenomy-masternodes/how-to-update-a-masternode-collateral.md)
-    * [▪ Create a Masternode on IhostMN.com](tutorials/decenomy-masternodes/how-to-create-a-masternode-on-ihostmn.com.md)
-    * [▪ Shared Masternode Management on Crypos](tutorials/decenomy-masternodes/shared-masternode-management-on-crypos.md)
     * [▪ Setting Up a Virtual Private Server (VPS)](tutorials/decenomy-masternodes/setting-up-a-virtual-private-server-vps.md)
     * [▪ Using a Terminal Emulator - PuTTy](tutorials/decenomy-masternodes/using-a-terminal-emulator-putty.md)
   * [Exchange](tutorials/exchange/README.md)
