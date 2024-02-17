@@ -43,6 +43,7 @@
     * [▪ Restoring a backup from an external device](tutorials/decenomy-wallet/restoring-a-backup-from-an-external-device.md)
   * [DECENOMY Masternodes](tutorials/decenomy-masternodes/README.md)
     * [▪ Masternode Multinode easy to deploy](tutorials/decenomy-masternodes/masternode-multinode-easy-to-deploy.md)
+    * [▪ Masternode Hosting With Flits Wallet App](tutorials/decenomy-masternodes/masternode-hosting-with-flits-wallet-app.md)
     * [▪ Masternode collateral update](tutorials/decenomy-masternodes/how-to-update-a-masternode-collateral.md)
     * [▪ Setting Up a Virtual Private Server (VPS)](tutorials/decenomy-masternodes/setting-up-a-virtual-private-server-vps.md)
     * [▪ Using a Terminal Emulator - PuTTy](tutorials/decenomy-masternodes/using-a-terminal-emulator-putty.md)
