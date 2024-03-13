@@ -1,6 +1,6 @@
-# ▪ Masternode Hosting With Flits Wallet App
+# ▪️ Masternode Hosting With Flits Wallet App
 
-The Flits Wallet App offers users the ability to deploy Decenomy masternodes at a very low cost. Below, we will look at the steps required to deploy masternodes within the wallet.
+The [Flits Wallet App](https://flitswallet.app/) offers users the ability to deploy Decenomy masternodes at a very low cost. Below, we will look at the steps required to deploy masternodes within the wallet.
 
 ### Choose a Project
 
