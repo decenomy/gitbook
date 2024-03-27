@@ -93,4 +93,5 @@
     * [The Emergence of a Progressive Masternode Collateral System](blockchain-development/improvements/the-emergence-of-a-progressive-masternode-collateral-system.md)
     * [Dynamic Collateral](blockchain-development/improvements/dynamic-collateral.md)
     * [EBF system](blockchain-development/improvements/ebf-system.md)
+    * [Dynamic Rewards](blockchain-development/improvements/dynamic-rewards.md)
   * [Commands](blockchain-development/commands.md)

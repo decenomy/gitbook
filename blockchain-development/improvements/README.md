@@ -31,3 +31,7 @@ This documentation page provides an overview of the improvements that are being 
 {% content-ref url="ebf-system.md" %}
 [ebf-system.md](ebf-system.md)
 {% endcontent-ref %}
+
+{% content-ref url="dynamic-rewards.md" %}
+[dynamic-rewards.md](dynamic-rewards.md)
+{% endcontent-ref %}
