@@ -85,6 +85,8 @@
   * [▪️ Suvereno (SUV)](coins/suvereno-suv.md)
   * [▪️ Ultra Clear (UCR)](coins/ultra-clear-ucr.md)
 * [Blockchain Development](blockchain-development/README.md)
+  * [DECENOMY Standard Wallet](blockchain-development/decenomy-standard-wallet.md)
+  * [DECENOMY Testnet](blockchain-development/decenomy-testnet.md)
   * [Improvements](blockchain-development/improvements/README.md)
     * [Last Paid V2, a deterministic approach](blockchain-development/improvements/last-paid-v2-a-deterministic-approach.md)
     * [Masternode Payment V2, a sequential and fairer distribution](blockchain-development/improvements/masternode-payment-v2-a-sequential-and-fairer-distribution.md)
