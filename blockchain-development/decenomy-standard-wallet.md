@@ -8,7 +8,8 @@ description: >-
 
 The DECENOMY Standard Wallet (DSW) acts as the core codebase for all DECENOMY blockchains, streamlining the process of implementing updates and bug fixes. This setup not only facilitates efficient maintenance but also fosters open-source contributions from the community.\
 \
-Continuous efforts on the DSW are consolidated through its GitHub repository, accessible at [**https://github.com/decenomy/DSW**](https://github.com/decenomy/DSW).&#x20;
+Continuous efforts on the DSW are consolidated through its GitHub repository, accessible at [**https://github.com/decenomy/DSW**](https://github.com/decenomy/DSW), where it can also be found various branches at [**https://github.com/decenomy/DSW/branches**](https://github.com/decenomy/DSW/branches). \
+These branches are dedicated to different stages of development, including new releases and specific branches for each blockchain. This allows the code to be efficiently transferred from DSW to the individual blockchain codes.
 
 Updates, including new functionalities and/or enhancements, are periodically integrated into each DECENOMY blockchain's repository through a process known as "rollouts," once a notable volume of improvements has been gathered. Moreover, when a bug is detected in any blockchain, the correction is first applied to the specific blockchain and subsequently integrated into the DSW framework.
 

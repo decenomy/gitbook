@@ -18,7 +18,7 @@ Despite the standardized codebase, some DECENOMY blockchains feature unique attr
 **To learn more about each stage** **please follow the links**:
 
 * [**DECENOMY Standard Wallet**](https://app.gitbook.com/o/-MiHp-KHheyHIlVQn3UX/s/-MiHm486VotxVq44a\_Jg/\~/changes/259/blockchain-development/decenomy-standard-wallet)
-* [**DECENOMY Testnet**](https://app.gitbook.com/o/-MiHp-KHheyHIlVQn3UX/s/-MiHm486VotxVq44a\_Jg/\~/changes/259/blockchain-development/decenomy-testnet)
+* [**DECENOMY Testnet tKYAN**](decenomy-standard-wallet.md)
 * [**Improvements**](improvements/)
 * [**Commands**](commands.md)
 
